@@ -1,0 +1,74 @@
+title: Vahid Zehtab
+header:
+  title: <p>Vahid Zehtab</p>
+  description: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p>"
+config:
+  search:
+    content: false
+    links: false
+nav:
+  fixed:
+  - link: mailto:vahid98zee@gmail.com
+    icon: fas fa-envelope
+  - link: https://linkedin.com/in/vahidzee
+    icon: fab fa-linkedin
+  - link: https://github.com/vahidzee
+    icon: fab fa-github
+search:
+  links: true
+  content: true
+bio:
+  label: About Me
+  content: '<p><img alt="" class="rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0
+    d-sm-inline mx-auto float-sm-start" height="150em" src="https://github.com/vahidzee.png"
+    width="150em"/>
+
+    Hi! This is Vahid! I am currently a fourth-year undergraduate computer engineering
+    student at
+
+    Sharif University of Technology. I enjoy researching both the theoretical and
+    practical sides of Deep Learning,
+
+    and Artificial Intelligence and relish mathematically-inspired research in general.
+    For more details, see my <a href="#">CV</a>.</p>
+
+    <p><strong>Research Interests</strong>:
+
+    Unsupervised ML/DL, Interpretable Machine Learning, Theoretical Foundations of
+    Deep Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models,
+
+    Reinforcement Learning, Anomaly Detection</p>'
+education:
+  label: Education
+  sharif:
+    content: "<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"\
+      col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+      \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h4>\n\
+      <p class=\"lead text-center mb-0 small\">B.Sc in <a class=\"text-dark\" href=\"\
+      http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted\
+      \ text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
+      >Email</a></p>\n</div>\n<div class=\"col-12 col-sm-7\"><ul>\n<li>\n<p><strong>GPA</strong>:\
+      \ 18.60/20 <small class=\"text-secondary\">(124/140 credits)</small>, <strong>Major\
+      \ GPA</strong>: 19.00/20 (<a href=\"#\">Transcript</a>, <a href=\"#\">Courses</a>)</p>\n\
+      </li>\n<li>\n<p><strong>Selected Courses</strong>: \n    Digital Image Processing\
+      \ <small class=\"text-secondary\">(Graduate, 20/20)</small>, \n    Stochastic\
+      \ Processes  <small class=\"text-secondary\">(Math Dep., 20/20)</small>,\n \
+      \   Artificial Intelligence <small class=\"text-secondary\">(20/20)</small>,\n\
+      \    Linear Algebra <small class=\"text-secondary\">(19.3/20)</small>, \n  \
+      \  Signals &amp; Systems <small class=\"text-secondary\">(19/20)</small>, \n\
+      \    Probability and Statistics <small class=\"text-secondary\">(20/20)</small>,\
+      \ \n    Design of Algorithms <small class=\"text-secondary\">(20/20)</small>,\
+      \ \n    Data Structures and Algorithms <small class=\"text-secondary\">(20/20)</small></p>\n\
+      </li>\n</ul></div>\n</div>\n</div>"
+    label: false
+  rouzbeh:
+    content: "<div class=\"container-fluid\">\n<div class=\"row\">\n<div class=\"\
+      col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+      \ href=\"https://rouzbeh.info/about\">Rouzbeh Educational Complex</a></h4>\n\
+      <p class=\"lead text-center mb-0 small\">Diploma in Mathematics and Physics</p>\n\
+      <p class=\"text-muted text-center small\">Sep. 2013 - May 2017 \u2022 <a href=\"\
+      mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n</div>\n<div class=\"col-12 col-sm-7\"\
+      ><ul>\n<li>Graduated as top student, <strong>Diploma GPA</strong>: 19.68/20</li>\n\
+      </ul></div>\n</div>\n</div>"
+    label: false
+kind: Index

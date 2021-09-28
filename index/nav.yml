@@ -1,0 +1,8 @@
+nav:
+  fixed:
+    - link: 'mailto:vahid98zee@gmail.com'
+      icon: fas fa-envelope
+    - link: 'https://linkedin.com/in/vahidzee'
+      icon: fab fa-linkedin
+    - link: 'https://github.com/vahidzee'
+      icon: fab fa-github

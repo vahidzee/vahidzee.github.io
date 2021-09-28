@@ -1,0 +1,29 @@
+title: Vahid Zehtab
+
+header:
+  title: Vahid Zehtab
+  description: |
+    *My personal blog and online résumé!*
+#patch-meta:   index/meta.yml
+patch-config: index/config.yml
+patch-nav:    index/nav.yml
+
+search:
+  links: true
+  content: true
+
+
+bio:
+  label: About Me
+  patch-content: index/sections/bio.md
+
+patch-education: index/sections/education/index.yml
+
+
+
+
+
+
+
+
+
