@@ -1,0 +1,18 @@
+<div class="container-fluid" >
+    <div class="row">
+    <div class="col-12 col-sm-4">
+        {% if obj.heading is not none %}
+        <h4 class="mb-0 text-center m-0 p-0">{{obj.heading}}</h4>
+        {% endif %}
+        {% if obj.heading_details is not none %}
+        <p class="lead text-center mb-0 small">{{obj.heading_details}}</p>
+        {% endif %}
+        {% if obj.heading_tag is not none %}
+        <p class="text-muted text-center small">{{obj.heading_tag}}</p>
+        {% endif %}
+    </div>
+    {% if obj.content %}
+    <div class="col-12 col-sm-7">{{markdown(obj.content)}}</div>
+    {% endif %}
+    </div>
+</div>
