@@ -1,0 +1,16 @@
+title: Undergraduate Courses
+nav:
+  content:
+  - index: index/index
+    text: Go Back
+    description: "*My personal blog and online r\xE9sum\xE9!*\n"
+    link: /
+    kind: Index
+header:
+  title: <p>Sharif Undergraduate Courses</p>
+  description: <p>List of my undergraduate major-related courses</p>
+footer: <p>Transcript upon request</p>
+kind: Content
+search:
+  content: false
+  links: false

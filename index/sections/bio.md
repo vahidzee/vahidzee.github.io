@@ -4,5 +4,4 @@ Sharif University of Technology. I enjoy researching both the theoretical and pr
 and Artificial Intelligence and relish mathematically-inspired research in general. For more details, see my [CV](#).
 
 **Research Interests**:
-Unsupervised ML/DL, Interpretable Machine Learning, Theoretical Foundations of Deep Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models,
-Reinforcement Learning, Anomaly Detection
+Unsupervised ML/DL, Interpretable Machine Learning, Theoretical Foundations of Deep Learning, Reinforcement Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models, Deep Generative Models, Anomaly Detection
