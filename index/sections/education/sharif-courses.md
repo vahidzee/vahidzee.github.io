@@ -9,7 +9,7 @@ header:
     description: List of my undergraduate major-related courses
 footer: Transcript upon request
 ---
-This is a list of the major-related courses (labs, workshops, human socialogy, theology, and general courses excluded) I took over my undergraduate studies at Sharif University of Technology. 
+This is a list of the major-related courses (labs, workshops, human sociology, theology, and general courses excluded) I took over my undergraduate studies at Sharif University of Technology. 
 
 **Transcript:** Please contact me if you wish to see an unofficial copy of my  transcript or contact [vpaa@sharif.edu](mailto:vpaa@sharif.edu) or [registrar@sharif.edu](mailto:registrar@sharif.edu) directly and ask for an official copy. 
 
@@ -184,7 +184,7 @@ Reference Books:
 ##### COMPUTER ARCHITECTURE <small>(Course NO. 40-323, 3 Credits, 150 Hours)</small>
 <small>Instructor: [Dr. L. Arshadi](https://ir.linkedin.com/in/laleh-arshadi-3042b6163)</small>
 
-Continuing from `COMPUTER STRUCT & LANG`, this course dives deeper in to the architectural design of computer hardware, covering topics such as: RTL, Datapaths, Control Paths, Advanced Computational Arithmatics and Numbers Reperesentation, Interupts and I/O, Pipelining, Caches, Parallelization.
+Continuing from `COMPUTER STRUCT & LANG`, this course dives deeper in to the architectural design of computer hardware, covering topics such as: RTL, Datapaths, Control Paths, Advanced Computational Arithmetics and Numbers Reperesentation, Interupts and I/O, Pipelining, Caches, Parallelization.
 
 Reference Books:
 
@@ -350,7 +350,7 @@ Reference Books:
 2. [T. Cormen, C. Leiserson, R. Riverst, and C. Stein. Introduction to Algorithms. 3rd Edition, MIT Press, 2011.](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)
 
 #### Research Related Courses <span id="research"></span>
-##### TECHNIVAL PRESENTATION <small>(Course NO. 40-221, 2 Credits, 150 Hours)</small>
+##### TECHNICAL PRESENTATION <small>(Course NO. 40-221, 2 Credits, 150 Hours)</small>
 <small>Instructor: [Prof. S. Kasaei](http://sharif.edu/~kasaei/)</small>
 
 This course provides an introduction to scientific & technical presentation. Topics include: Guidelines

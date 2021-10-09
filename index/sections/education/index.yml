@@ -3,8 +3,8 @@ education:
   sub-label: false
   template: 
     template: templates/education.html
-  template-apply: value
-  sharif: 
+    apply: whole
+  sharif:
     heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading_details: B.Sc in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
     heading_tag: Sep. 2017 - Expected Aug. 2022 • <a href="mailto:veezee@ce.sharif.edu">Email</a>
