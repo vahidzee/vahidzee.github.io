@@ -37,6 +37,51 @@ bio:
     Unsupervised ML/DL, Interpretable Machine Learning, Theoretical Foundations of
     Deep Learning, Reinforcement Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic
     Models, Deep Generative Models, Anomaly Detection</p>'
+publications:
+  content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
+    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
+    \ An SVG-Based Trajectory Prediction Model <small class=\"d-inline-block ms-auto\"\
+    >(Submitted to <a class=\"text-reset\" href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n\
+    </div>\n<div class=\"small d-inline-block\">\n<a class=\"text-secondary\" href=\"\
+    https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">\nBahari, M.</a>,\n \
+    \           \n            <span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
+    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
+    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
+    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
+    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
+    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
+    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
+    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
+    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://arxiv.org/\">arXiv</a></p></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"\
+    col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Investigating the shortcomings\
+    \ of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization <small class=\"\
+    d-inline-block ms-auto\">(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\"\
+    >\n<span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n       \
+    \     \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir\"\
+    >\n                Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir\"\
+    >\n                Eftekhar, A.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>,\n   \
+    \         \n            <a class=\"text-secondary\" href=\"http://sharif.ir/~manzuri/\"\
+    >\n                Manzuri Shalmani, M.T.</a>\n<span class=\"d-inline-block text-secondary\
+    \ small\">\u2014<sup>*</sup>Equal contribution, List is still tentative</span>\n\
+    </div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
+    row m-0 p-0\">\n<div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\"\
+    >EBAD: Energy-Based Anomaly Detection <small class=\"d-inline-block ms-auto\"\
+    >(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\">\n<span class=\"\
+    text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
+    text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
+    \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
+    \ still tentative</span>\n</div>\n</div>\n</div>\n</div>"
+  label: Publications
 education:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
@@ -52,7 +97,7 @@ education:
     \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
     \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
     cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
-    \ 2 Years' CGPA</span></strong>: 19.50</li>\n<li><strong>Selected Courses</strong>\
+    \ 2 Years' CGPA</span></strong>: 19.50/20</li>\n<li><strong>Selected Courses</strong>\
     \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
     \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
     \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\

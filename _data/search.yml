@@ -1,44 +1,86 @@
 /:
   category: Index
-  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
-    col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h4>\n\
-    <p class=\"lead text-center mb-0 small\">B.Sc in <a class=\"text-dark\" href=\"\
-    http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted text-center\
-    \ small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
-    >Email</a></p>\n</div>\n<div class=\"col-12 col-sm-8\"><ul>\n<li><span data-bs-placement=\"\
+  content: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p> <p>Vahid Zehtab</p>\
+    \ <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0\
+    \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/vahidzee.png\"\
+    \ width=\"150em\"/>\nHi! This is Vahid! I am currently a fourth-year undergraduate\
+    \ computer engineering student at\nSharif University of Technology. I enjoy researching\
+    \ both the theoretical and practical sides of Deep Learning,\nand Artificial Intelligence\
+    \ and relish mathematically-inspired research in general. For more details, see\
+    \ my <a href=\"#\">CV</a>.</p>\n<p><strong>Research Interests</strong>:\nUnsupervised\
+    \ ML/DL, Interpretable Machine Learning, Theoretical Foundations of Deep Learning,\
+    \ Reinforcement Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models,\
+    \ Deep Generative Models, Anomaly Detection</p> <div class=\"container-fluid\"\
+    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
+    >Sharif University of Technology</a></h4>\n<p class=\"lead text-center mb-0 small\"\
+    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
+    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
+    col-12 col-sm-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"\
+    ><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"text-secondary\">(124/140\
+    \ credits)</small>, \n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of Major Courses as\
+    \ of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"\
     top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA as of Oct. 2021\"><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"\
-    text-secondary\">(124/140 credits)</small>, \n  <strong><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
-    \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
-    cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
-    \ 2 Years' CGPA</span></strong>: 19.50</li>\n<li><strong>Selected Courses</strong>\
-    \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
-    \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
-    \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\
-    \    Artificial Intelligence, Linear Algebra, Signals &amp; Systems, Probability\
-    \ and Statistics, Design of Algorithms, \n    Data Structures and Algorithms</li>\n\
-    </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0\
-    \ p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
-    \ Complex</a></h4>\n<p class=\"lead text-center mb-0 small\">Diploma in Mathematics\
-    \ and Physics</p>\n<p class=\"text-muted text-center small\">Sep. 2013 - May 2017\
-    \ \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n</div>\n<div\
-    \ class=\"col-12 col-sm-8\"><ul>\n<li>Graduated top student, <strong>Diploma GPA</strong>:\
-    \ 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><img alt=\"\" class=\"rounded-circle\
-    \ d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"\
-    150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\nHi! This is\
-    \ Vahid! I am currently a fourth-year undergraduate computer engineering student\
-    \ at\nSharif University of Technology. I enjoy researching both the theoretical\
-    \ and practical sides of Deep Learning,\nand Artificial Intelligence and relish\
-    \ mathematically-inspired research in general. For more details, see my <a href=\"\
-    #\">CV</a>.</p>\n<p><strong>Research Interests</strong>:\nUnsupervised ML/DL,\
-    \ Interpretable Machine Learning, Theoretical Foundations of Deep Learning, Reinforcement\
-    \ Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models, Deep Generative\
-    \ Models, Anomaly Detection</p> <p><em>My personal blog and online r\xE9sum\xE9\
-    !</em></p> <p>Vahid Zehtab</p>"
+    \ GPA of from Oct. 2019 to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n\
+    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
+    >Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
+    >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
+    >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
+    \ Systems, Probability and Statistics, Design of Algorithms, \n    Data Structures\
+    \ and Algorithms</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0\
+    \ py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4\
+    \ class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\"\
+    >Rouzbeh Educational Complex</a></h4>\n<p class=\"lead text-center mb-0 small\"\
+    >Diploma in Mathematics and Physics</p>\n<p class=\"text-muted text-center small\"\
+    >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
+    </div>\n<div class=\"col-12 col-sm-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
+    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <div class=\"container-fluid\"\
+    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
+    \ Model <small class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\"\
+    \ href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n</div>\n<div class=\"\
+    small d-inline-block\">\n<a class=\"text-secondary\" href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\"\
+    >\nBahari, M.</a>,\n            \n            <span class=\"text-dark\">\n<u>Zehtab,\
+    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
+    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
+    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
+    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
+    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
+    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
+    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
+    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://arxiv.org/\">arXiv</a></p></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"\
+    col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Investigating the shortcomings\
+    \ of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization <small class=\"\
+    d-inline-block ms-auto\">(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\"\
+    >\n<span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n       \
+    \     \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir\"\
+    >\n                Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir\"\
+    >\n                Eftekhar, A.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>,\n   \
+    \         \n            <a class=\"text-secondary\" href=\"http://sharif.ir/~manzuri/\"\
+    >\n                Manzuri Shalmani, M.T.</a>\n<span class=\"d-inline-block text-secondary\
+    \ small\">\u2014<sup>*</sup>Equal contribution, List is still tentative</span>\n\
+    </div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
+    row m-0 p-0\">\n<div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\"\
+    >EBAD: Energy-Based Anomaly Detection <small class=\"d-inline-block ms-auto\"\
+    >(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\">\n<span class=\"\
+    text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
+    text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
+    \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
+    \ still tentative</span>\n</div>\n</div>\n</div>\n</div>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
@@ -54,30 +96,110 @@ http://ce.sharif.edu/:
   description: ''
   title: Computer Engineering
   url: http://ce.sharif.edu/
+http://sharif.ir/~manzuri/:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Manzuri Shalmani, M.T."
+  url: http://sharif.ir/~manzuri/
+http://sharif.ir/~rohban/:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Rohban, M.H."
+  url: http://sharif.ir/~rohban/
 http://www.en.sharif.edu/:
   category: External
   content: ''
   description: ''
   title: Sharif University of Technology
   url: http://www.en.sharif.edu/
+https://arxiv.org/:
+  category: External
+  content: ''
+  description: ''
+  title: arXiv
+  url: https://arxiv.org/
 https://github.com/vahidzee:
   category: External
   content: ''
   description: ''
   title: External link
   url: https://github.com/vahidzee
+https://github.com/vita-epfl/SVGNet/:
+  category: External
+  content: ''
+  description: ''
+  title: Code
+  url: https://github.com/vita-epfl/SVGNet/
 https://linkedin.com/in/vahidzee:
   category: External
   content: ''
   description: ''
   title: External link
   url: https://linkedin.com/in/vahidzee
+https://people.epfl.ch/alexandre.alahi?lang=en:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Alahi, A."
+  url: https://people.epfl.ch/alexandre.alahi?lang=en
+https://people.epfl.ch/mohammadhossein.bahari/?lang=en:
+  category: External
+  content: ''
+  description: ''
+  title: '
+
+    Bahari, M.'
+  url: https://people.epfl.ch/mohammadhossein.bahari/?lang=en
+https://people.epfl.ch/saeed.saadatnejad?lang=en:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Saadatnejad, S."
+  url: https://people.epfl.ch/saeed.saadatnejad?lang=en
 https://rouzbeh.info/about:
   category: External
   content: ''
   description: ''
   title: Rouzbeh Educational Complex
   url: https://rouzbeh.info/about
+https://vita-epfl.github.io/SVGNet/:
+  category: External
+  content: ''
+  description: ''
+  title: Website
+  url: https://vita-epfl.github.io/SVGNet/
+https://www.icra2022.org/:
+  category: External
+  content: ''
+  description: ''
+  title: ICRA2022
+  url: https://www.icra2022.org/
+https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Eftekhar, A.*"
+  url: https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir
+https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Shariat, K.*"
+  url: https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir
+https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Khorasani, S.*"
+  url: https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir
+https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir:
+  category: External
+  content: ''
+  description: ''
+  title: "\n                Ayromlou, S.*"
+  url: https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir
 mailto:vahid98zee@gmail.com:
   category: External
   content: ''
