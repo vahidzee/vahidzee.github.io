@@ -1,14 +1,33 @@
 /:
   category: Index
-  content: "<div class=\"container-fluid mb-2 mb-sm-0\">\n<div class=\"row\">\n<div\
-    \ class=\"col-12 col-sm-4 mb-2 mb-sm-0\">\n<h4 class=\"mb-0 text-center m-0 p-0\"\
-    ><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h4>\n\
+    <p class=\"lead text-center mb-0 small\">B.Sc in <a class=\"text-dark\" href=\"\
+    http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted text-center\
+    \ small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
+    >Email</a></p>\n</div>\n<div class=\"col-12 col-sm-8\"><ul>\n<li><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA as of Oct. 2021\"><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"\
+    text-secondary\">(124/140 credits)</small>, \n  <strong><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
+    \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
+    \ 2 Years' CGPA</span></strong>: 19.50</li>\n<li><strong>Selected Courses</strong>\
+    \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
+    \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
+    \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\
+    \    Artificial Intelligence, Linear Algebra, Signals &amp; Systems, Probability\
+    \ and Statistics, Design of Algorithms, \n    Data Structures and Algorithms</li>\n\
+    </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
     \ Complex</a></h4>\n<p class=\"lead text-center mb-0 small\">Diploma in Mathematics\
     \ and Physics</p>\n<p class=\"text-muted text-center small\">Sep. 2013 - May 2017\
     \ \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n</div>\n<div\
-    \ class=\"col-12 col-sm-7\"><ul>\n<li>Graduated top student, <strong>Diploma GPA</strong>:\
-    \ 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><em>My personal blog and online\
-    \ r\xE9sum\xE9!</em></p> <p>Vahid Zehtab</p> <p><img alt=\"\" class=\"rounded-circle\
+    \ class=\"col-12 col-sm-8\"><ul>\n<li>Graduated top student, <strong>Diploma GPA</strong>:\
+    \ 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><img alt=\"\" class=\"rounded-circle\
     \ d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"\
     150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\nHi! This is\
     \ Vahid! I am currently a fourth-year undergraduate computer engineering student\
@@ -18,26 +37,8 @@
     #\">CV</a>.</p>\n<p><strong>Research Interests</strong>:\nUnsupervised ML/DL,\
     \ Interpretable Machine Learning, Theoretical Foundations of Deep Learning, Reinforcement\
     \ Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models, Deep Generative\
-    \ Models, Anomaly Detection</p> <div class=\"container-fluid mb-2 mb-sm-0\">\n\
-    <div class=\"row\">\n<div class=\"col-12 col-sm-4 mb-2 mb-sm-0\">\n<h4 class=\"\
-    mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
-    >Sharif University of Technology</a></h4>\n<p class=\"lead text-center mb-0 small\"\
-    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
-    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-sm-7\"><ul>\n<li><strong>CGPA</strong>: 18.60/20 <small class=\"text-secondary\"\
-    >(124/140 credits)</small>, <strong>Major CGPA</strong>: 19.00/20 (<a href=\"\
-    /index/sections/education/sharif-courses.html\">Courses</a>)</li>\n<li><strong>Last\
-    \ 2 Years' CGPA</strong>: 19.50 </li>\n<li><strong>Selected Courses</strong>:\
-    \ \n    Digital Image Processing <small class=\"text-secondary\">(Graduate, 20/20)</small>,\
-    \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep., 20/20)</small>,\n\
-    \    Artificial Intelligence <small class=\"text-secondary\">(20/20)</small>,\n\
-    \    Linear Algebra <small class=\"text-secondary\">(19.3/20)</small>, \n    Signals\
-    \ &amp; Systems <small class=\"text-secondary\">(19/20)</small>, \n    Probability\
-    \ and Statistics <small class=\"text-secondary\">(20/20)</small>, \n    Design\
-    \ of Algorithms <small class=\"text-secondary\">(20/20)</small>, \n    Data Structures\
-    \ and Algorithms <small class=\"text-secondary\">(20/20)</small></li>\n</ul></div>\n\
-    </div>\n</div>"
+    \ Models, Anomaly Detection</p> <p><em>My personal blog and online r\xE9sum\xE9\
+    !</em></p> <p>Vahid Zehtab</p>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
