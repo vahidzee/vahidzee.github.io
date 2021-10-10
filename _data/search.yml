@@ -1,8 +1,92 @@
 /:
   category: Index
-  content: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p> <p>Vahid Zehtab</p>\
-    \ <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0\
-    \ d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/vahidzee.png\"\
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-sm-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">B.Sc in <a class=\"text-dark\" href=\"\
+    http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted text-center\
+    \ small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
+    >Email</a></p>\n</div>\n<div class=\"col-12 col-sm-8\"><ul>\n<li><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA as of Oct. 2021\"><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"\
+    text-secondary\">(124/140 credits)</small>, \n  <strong><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
+    \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
+    \ 2 Years' CGPA</span></strong>: 19.50/20</li>\n<li><strong>Selected Courses</strong>\
+    \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
+    \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
+    \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\
+    \    Artificial Intelligence, Linear Algebra, Signals &amp; Systems, Probability\
+    \ and Statistics, Design of Algorithms, \n    Data Structures and Algorithms</li>\n\
+    </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h5 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
+    \ Complex</a></h5>\n<p class=\"text-center mb-0 fw-light\">Diploma in Mathematics\
+    \ and Physics</p>\n<p class=\"text-muted text-center small\">Sep. 2013 - May 2017\
+    \ \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n</div>\n<div\
+    \ class=\"col-12 col-sm-8\"><ul>\n<li>Graduated top student, <strong>Diploma GPA</strong>:\
+    \ 19.68/20</li>\n</ul></div>\n</div>\n</div> <div class=\"container-fluid\">\n\
+    <div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h5 class=\"mb-0 text-center\
+    \ m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\">Advanced Technology\
+    \ Lab (ZLAB)</a><small>,<a class=\"text-secondary\" href=\"https://fanap.ir/\"\
+    > Fanap Co.</a></small>\n</h5>\n<p class=\"text-center mb-0 fw-light\">Machine\
+    \ Learning Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2020 -\
+    \ Mar. 2021</p>\n</div>\n<div class=\"col-12 col-sm-8\"><p>In June 2020, I was\
+    \ approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap holdings, \n\
+    a well-known mother administrative corporation in charge of many of Iran's tech\
+    \ and financial giants like \n<a href=\"https://www.arvancloud.com/en\">Arvan\
+    \ Cloud</a> or <a href=\"https://pep.co.ir/en/\">Pasargad Electronic Payment</a>.\
+    \ ZLAB is Fanap's most advanced Research and Development \nlaboratory and one\
+    \ of (if not) the most productive industrial labs in applied Machine Learning\
+    \ in Iran.</p>\n<p>I mainly worked on a collaborative project with <a href=\"\
+    https://neshan.org/#about\">Neshan</a>, Iran's most widely used navigation platform.\
+    \ \nDuring this project, I <strong>created a novel Satellite and Aerial Imagery\
+    \ super-resolution model capable of \nupsampling urban maps up to 8 times their\
+    \ original resolution</strong>. My other projects include, <strong>designing a\
+    \ commercial GPU sharing \nplatform</strong> to provide high-level decentralization\
+    \ abstraction to Deep Learning training procedures. I also \n<strong>created a\
+    \ generic object-oriented deep training and prototyping framework</strong> for\
+    \ highly complex and fully automated \nrobust training and evaluation procedures\
+    \ focusing on the separation of deep architecture design with model\ninitialization\
+    \ and hyperparameters, and the reusability of training algorithms regardless of\
+    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
+    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
+    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
+    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
+    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
+    \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
+    col-12 col-sm-8\"><p>After about a month of prep and intense interviews, in July\
+    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
+    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
+    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
+    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
+    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
+    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
+    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
+    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
+    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
+    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
+    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
+    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
+    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
+    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h5 class=\"\
+    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
+    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
+    \ 2019</p>\n</div>\n<div class=\"col-12 col-sm-8\"><p>In June 2018, I joined a\
+    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
+    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
+    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
+    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
+    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
+    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
+    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
+    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
+    </div>\n</div> <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4\
+    \ mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/vahidzee.png\"\
     \ width=\"150em\"/>\nHi! This is Vahid! I am currently a fourth-year undergraduate\
     \ computer engineering student at\nSharif University of Technology. I enjoy researching\
     \ both the theoretical and practical sides of Deep Learning,\nand Artificial Intelligence\
@@ -11,33 +95,6 @@
     \ ML/DL, Interpretable Machine Learning, Theoretical Foundations of Deep Learning,\
     \ Reinforcement Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models,\
     \ Deep Generative Models, Anomaly Detection</p> <div class=\"container-fluid\"\
-    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
-    >Sharif University of Technology</a></h4>\n<p class=\"lead text-center mb-0 small\"\
-    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
-    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-sm-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"\
-    ><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"text-secondary\">(124/140\
-    \ credits)</small>, \n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of Major Courses as\
-    \ of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA of from Oct. 2019 to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n\
-    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
-    >Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
-    >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
-    >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
-    \ Systems, Probability and Statistics, Design of Algorithms, \n    Data Structures\
-    \ and Algorithms</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0\
-    \ py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-sm-4\">\n<h4\
-    \ class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\"\
-    >Rouzbeh Educational Complex</a></h4>\n<p class=\"lead text-center mb-0 small\"\
-    >Diploma in Mathematics and Physics</p>\n<p class=\"text-muted text-center small\"\
-    >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
-    </div>\n<div class=\"col-12 col-sm-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
-    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <div class=\"container-fluid\"\
     >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
     <div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
     \ Model <small class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\"\
@@ -80,7 +137,8 @@
     text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
     text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
     \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
-    \ still tentative</span>\n</div>\n</div>\n</div>\n</div>"
+    \ still tentative</span>\n</div>\n</div>\n</div>\n</div> <p>Vahid Zehtab</p> <p><em>My\
+    \ personal blog and online r\xE9sum\xE9!</em></p>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
@@ -96,6 +154,12 @@ http://ce.sharif.edu/:
   description: ''
   title: Computer Engineering
   url: http://ce.sharif.edu/
+http://farghadani.me/:
+  category: External
+  content: ''
+  description: ''
+  title: Mr. Soroush Farghadani
+  url: http://farghadani.me/
 http://sharif.ir/~manzuri/:
   category: External
   content: ''
@@ -120,6 +184,30 @@ https://arxiv.org/:
   description: ''
   title: arXiv
   url: https://arxiv.org/
+https://cafebazaar.ir/about?l=en:
+  category: External
+  content: ''
+  description: ''
+  title: Cafebazaar
+  url: https://cafebazaar.ir/about?l=en
+https://en.pec.ir/:
+  category: External
+  content: ''
+  description: ''
+  title: PEC
+  url: https://en.pec.ir/
+https://fanap.ir/:
+  category: External
+  content: ''
+  description: ''
+  title: ' Fanap Co.'
+  url: https://fanap.ir/
+https://fanaplab.com/:
+  category: External
+  content: ''
+  description: ''
+  title: Advanced Technology Lab (ZLAB)
+  url: https://fanaplab.com/
 https://github.com/vahidzee:
   category: External
   content: ''
@@ -138,6 +226,12 @@ https://linkedin.com/in/vahidzee:
   description: ''
   title: External link
   url: https://linkedin.com/in/vahidzee
+https://neshan.org/#about:
+  category: External
+  content: ''
+  description: ''
+  title: Neshan
+  url: https://neshan.org/#about
 https://people.epfl.ch/alexandre.alahi?lang=en:
   category: External
   content: ''
@@ -158,6 +252,12 @@ https://people.epfl.ch/saeed.saadatnejad?lang=en:
   description: ''
   title: "\n                Saadatnejad, S."
   url: https://people.epfl.ch/saeed.saadatnejad?lang=en
+https://pep.co.ir/en/:
+  category: External
+  content: ''
+  description: ''
+  title: Pasargad Electronic Payment
+  url: https://pep.co.ir/en/
 https://rouzbeh.info/about:
   category: External
   content: ''
@@ -170,6 +270,12 @@ https://vita-epfl.github.io/SVGNet/:
   description: ''
   title: Website
   url: https://vita-epfl.github.io/SVGNet/
+https://www.arvancloud.com/en:
+  category: External
+  content: ''
+  description: ''
+  title: Arvan Cloud
+  url: https://www.arvancloud.com/en
 https://www.icra2022.org/:
   category: External
   content: ''
@@ -206,6 +312,12 @@ mailto:vahid98zee@gmail.com:
   description: ''
   title: External link
   url: mailto:vahid98zee@gmail.com
+mailto:vahidzee@cafebazaar.ir:
+  category: External
+  content: ''
+  description: ''
+  title: Email
+  url: mailto:vahidzee@cafebazaar.ir
 mailto:veezee@ce.sharif.edu:
   category: External
   content: ''
