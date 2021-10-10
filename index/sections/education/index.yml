@@ -2,7 +2,7 @@ education:
   label: Education
   sub-label: false
   template: 
-    template: templates/education.html
+    template: templates/experience.html
     apply: whole
   sharif:
     heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>

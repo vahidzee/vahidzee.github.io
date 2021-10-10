@@ -19,7 +19,7 @@ bio:
 
 patch-publication: index/sections/publications/index.yml
 patch-education: index/sections/education/index.yml
-
+patch-work: index/sections/work/index.yml
 
 
 
