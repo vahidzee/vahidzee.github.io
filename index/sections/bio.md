@@ -8,14 +8,13 @@ I enjoy developing Deep Learning models, implementing real-time data processing 
 analyzing/optimizing performance, and writing ML software that powers applications to meet 
 the problems' needs. To achieve these goals, I leverage my extensive engineering and mathematical background.
 
-More than enjoying building ML and AI systems,
-I relish researching the foundations behind commonly practiced AI/ML methods and
-often lose myself in the quest for more sophisticated and mathematically sound ML 
-and AI solutions that are infinitesimally closer to the holy grail of Artificial General 
-Intelligence. I have a multitude of research experiences in both the practical and theoretical sides of
-Deep Learning and am currently working on a number of research projects. I also love to strengthen
-my understandings by teaching. To that end, I have volunteered as a Scientific consultant and Teaching assistant in
-numerous AI/ML-related courses and academic events. 
+More than enjoying building ML and AI systems, I relish researching the foundations behind commonly practiced 
+AI/ML methods and often lose myself in the quest for more sophisticated and mathematically sound ML and AI 
+solutions that are infinitesimally closer to the holy grail of Artificial General Intelligence.
+Besides industrial experiences, I have a multitude of research experiences in both the practical and 
+theoretical sides of Deep Learning and am currently working on several research projects. I also love to
+strengthen my understandings by teaching. To that end, I have volunteered as a Scientific consultant and 
+Teaching assistant in numerous AI/ML-related courses and academic events.
 
 **My research interests include** <small>(but are not limited to)</small>:
  Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL) Robustness, Deep Probabilistic and Generative models, Reinforcement Learning, Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.
