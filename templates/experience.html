@@ -1,7 +1,7 @@
 <div class="container-fluid">
     {% for key, value in obj.items() if key not in ["background", "label", "style", "kind"] %}
     <div class="row my-0">
-        <div class="col-12 col-sm-4">
+        <div class="col-12 col-md-4">
             {% if value.heading is not none %}
             <h5 class="mb-0 text-center m-0 p-0">{{value.heading}}</h5>
             {% endif %}
@@ -13,7 +13,7 @@
             {% endif %}
         </div>
         {% if value.content %}
-        <div class="col-12 col-sm-8">{{markdown(value.content)}}</div>
+        <div class="col-12 col-md-8">{{markdown(value.content)}}</div>
         {% endif %}
     </div>
     {% if not loop.last %}

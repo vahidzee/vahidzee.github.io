@@ -1,0 +1,127 @@
+teaching:
+  label: Teaching Experience
+  template:
+    template: templates/inline-experience.html
+    apply: whole
+  sharif_privacy_in_ml:
+    heading: |
+      Privacy in Machine Learning <small class="d-inline-block ms-auto">(Graduate Course)</small>
+    heading_details: |
+      <small>Sharif University of Technology, Instructors: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a> & <a href="https://amsadeghzadeh.github.io/">Dr. A.M. Sadeghzadeh</a></small>
+    notes: Course starts from Nov.
+    tags: <small>Fall 2021</small>
+    content: |
+      Designer and grader of Deep Learning Adversarial Robustness assignments. Instructor for the practical workshops.
+
+  sharif_ai_rohban:
+    heading: |
+      Artificial Intelligence <small class="d-inline-block ms-auto">(Head Teaching Assistance)</small>
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a></small>
+    tags: <small>Spring and Fall of 2020 & 2021</small>
+    content: |
+      Lead and managed a group of +70 Grad & Undergrad and Ph.D. TAs over the course of three semesters, 
+      Designed the course syllabus and tracking toolkits, Authored AI supplementary materials and co-authored and reviewed course lecture notes 
+      and supplementary notebooks, Instructed practical workshops and recitation classes. 
+      Developed a content creation pipeline and created [Sharif's AI webpage](https://sut-ai.github.io), the largest repository for Farsi and English AI content presented at Sharif University of Technology. 
+      Designed and graded assignments and exams.
+  sharif_ml4bio:
+    heading: |
+      Machine Learning for Bioinformatics <small class="d-inline-block ms-auto">(Graduate Course)</small>
+    heading_details: |
+      <small>Sharif University of Technology, Instructors: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a> & <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+    tags: <small>Spring 2021</small>
+    content: |
+      Designed and graded Deep Learning assignments focusing on the theoretical foundations of DL. Instructed DL workshops.
+
+
+  sharif_air:
+    heading: |
+      Advanced Information Retrieval 
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a></small>
+    tags: <small>Spring 2021</small>
+    content: |
+      Lead and designed the applied ML course project, Instructed the ML recitation class, Curated a roadmap for ML pipelines in information retrieval systems in Farsi and motivated educational content creation to cover other course topics.
+  
+  sharif_ai_soleymani:
+    heading: |
+      Artificial Intelligence
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a></small>
+    tags: <small>Fall 2020</small>
+    content: |
+      Designed and graded the Temporal Probability Models assignment. Instructed its recitation.
+
+  sharif_la:
+    heading: |
+      Linear Algebra
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~rabiee/">Prof. H. Rabiee</a></small>
+    tags: <small>Fall 2020</small>
+    content: |
+      Designed and graded the Fourier and Linear Algebra applied to Computer Vision assignment.
+  
+  sharif_probstat:
+    heading: |
+      Probability & Statistics
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+    tags: <small>Fall 2020</small>
+    content: |
+      Designed and graded assignments, quizes, and final exams.
+
+  sharif_bio:
+    heading: |
+      Introduction to Bioinformatics
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+    tags: <small>Fall 2020</small>
+    content: |
+      Designed and graded assignments. Instructed practical workshops.
+
+  sharif_ds:
+    heading: |
+      Data Structures and Algorithms
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=TNfL9SIAAAAJ&hl=en">Dr. M. Safarnejad-Boroujeni</a></small>
+    tags: <small>Fall 2019 & Spring 2020</small>
+    content: |
+      Instructed practical workshops. Designed and graded quizes.
+
+  sharif_csl:
+    more: Older Teaching Experience
+    heading: |
+      Computer Structure & Language 
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="https://ir.linkedin.com/in/laleh-arshadi-3042b6163">Dr. L. Arshadi</a></small>
+    tags: <small>Spring & Fall 2020</small>
+    content: |
+      Designed and graded MIPS assembly assignment, Graded Memory Hierarchy assignments.
+
+  sharif_web:
+    heading: |
+      Web Programming
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a></small>
+    tags: <small>Fall 2019</small>
+    content: |
+      Designed and graded the course project.
+
+  sharif_ap:
+    heading: |
+      Advanced Programming
+    heading_details: |
+      <small>Sharif University of Technology, Instructors: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a> & <a href="https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir">Dr. M. Mostafazadeh</a></small>
+    tags: <small>Spring & Fall 2019</small>
+    content: |
+      Mentored project teams, Instructed recitation classes, Designed and graded assginments and mini-projects.
+
+  sharif_fop:
+    heading: |
+      Programming
+    heading_details: |
+      <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/~mahdi/">Dr. M. Soltani</a></small>
+    tags: <small>Spring 2018</small>
+    content: |
+      Instructed recitation classes, Designed and graded the course project.

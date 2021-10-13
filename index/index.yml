@@ -20,6 +20,10 @@ bio:
 patch-publication: index/sections/publications/index.yml
 patch-education: index/sections/education/index.yml
 patch-work: index/sections/work/index.yml
+patch-teaching: index/sections/teaching/index.yml
+# patch-other: index/sections/other/index.yml
+# patch-projects: index/sections/projects/index.yml
+# patch-skills: index/sections/skills/index.yml
 
 
 
