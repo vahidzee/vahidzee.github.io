@@ -172,6 +172,26 @@ work:
     \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
     </div>\n</div>"
   label: Work Experience
+skills:
+  label: Skills
+  technical:
+    label: Technical Skills
+    content: "<p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java,\
+      \ R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>:\
+      \ Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy\
+      \ (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
+      \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
+      <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
+      \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
+      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>Cad Tools &amp; HDLs</strong>:\
+      \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
+      \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
+      \ Unix ecosystem familiarity, Git (Version Control), LaTex</p>"
+  languages:
+    label: Languages
+    content: "<p><strong>Farsi</strong>: Native, <strong>English</strong>: highly\
+      \ pro\uFB01cient <small class=\"text-secondary\">(TOEFL 112: R30, L29, S25,\
+      \ W28)</small>,\n<strong>Arabic</strong>: Elementary</p>"
 teaching:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
     col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Privacy\
