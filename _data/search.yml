@@ -1,34 +1,21 @@
 /:
   category: Index
-  content: "<p><strong>Farsi</strong>: Native, <strong>English</strong>: highly pro\uFB01\
-    cient <small class=\"text-secondary\">(TOEFL 112: R30, L29, S25, W28)</small>,\n\
-    <strong>Arabic</strong>: Elementary</p> <p><em>My personal blog and online r\xE9\
-    sum\xE9!</em></p> <p><strong>General Programming Skills</strong>: \n  Python,\
-    \ C/C++, Java, R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine\
-    \ Learning Tools</strong>: Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision,\
-    \ captum), \n  SciPy (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract\
-    \ OCR</p>\n<p><strong>Distribution &amp; Deployment Tools</strong>: Slurm, Kubernetes,\
-    \ Docker, GH Workflows</p>\n<p><strong>Data management &amp; Databases</strong>:\
-    \ MySQL, SQLite, PostgreSLQL, MongoDB, Redis</p>\n<p><strong>Web Development</strong>:\
-    \ Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>Cad Tools\
-    \ &amp; HDLs</strong>: Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design\
-    \ Tools</strong>: Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
-    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <div class=\"container-fluid\"\
-    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
-    >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
-    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"\
-    ><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"text-secondary\">(124/140\
-    \ credits)</small>, \n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of Major Courses as\
-    \ of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA of from Oct. 2019 to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n\
-    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
+  content: "<p>Vahid Zehtab</p> <div class=\"container-fluid\">\n<div class=\"row\
+    \ my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"\
+    ><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\">Sharif University of\
+    \ Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\">B.Sc in <a class=\"\
+    text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"\
+    text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"\
+    mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"><strong>CGPA</strong></span>:\
+    \ \n  18.60/20 <small class=\"text-secondary\">(124/140 credits)</small>, \n \
+    \ <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
+    cursor: pointer;\" title=\"Cumulative GPA of Major Courses as of Oct. 2021\">Major\
+    \ CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019\
+    \ to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n<li><strong>Selected\
+    \ Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
     >Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
     >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
     >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
@@ -40,22 +27,49 @@
     >Diploma in Mathematics and Physics</p>\n<p class=\"text-muted text-center small\"\
     >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
     </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
-    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><img alt=\"\" class=\"\
-    rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\"\
-    \ height=\"150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\n\
-    Hi! This is Vahid! I am currently a fourth-year undergraduate computer engineering\
-    \ student at\nSharif University of Technology. I enjoy researching both the theoretical\
-    \ and practical sides of Deep Learning,\nand Artificial Intelligence and relish\
-    \ mathematically-inspired research in general. For more details, see my <a href=\"\
-    #\">CV</a>.</p>\n<p><strong>Research Interests</strong>:\nUnsupervised ML/DL,\
-    \ Interpretable Machine Learning, Theoretical Foundations of Deep Learning, Reinforcement\
-    \ Learning, Adversarial (DL/ML) Robustness, Deep Probabilistic Models, Deep Generative\
-    \ Models, Anomaly Detection</p> <div class=\"container-fluid\">\n<div class=\"\
-    row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5\
-    \ mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction Model <small\
-    \ class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\" href=\"\
-    https://www.icra2022.org/\">ICRA2022</a>)</small>\n</div>\n<div class=\"small\
-    \ d-inline-block\">\n<a class=\"text-secondary\" href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\"\
+    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><em>My personal\
+    \ blog and online r\xE9sum\xE9!</em></p> <p><img alt=\"\" class=\"rounded-circle\
+    \ d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"\
+    150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\nHi! This is\
+    \ Vahid! I am currently a senior undergraduate computer engineering student at\n\
+    Sharif University of Technology. I enjoy researching both the theoretical and\
+    \ practical sides of Deep Learning,\nand Artificial Intelligence and relish mathematically-inspired\
+    \ research in general. </p>\n<p>My skillset involves building scalable ML systems\
+    \ and working on large-scale distributed computing.\nI enjoy developing Deep Learning\
+    \ models, implementing real-time data processing pipelines, \nanalyzing/optimizing\
+    \ performance, and writing ML software that powers applications to meet \nthe\
+    \ problems' needs. To achieve these goals, I leverage my extensive engineering\
+    \ and mathematical background.</p>\n<p>More than enjoying building ML and AI systems,\n\
+    I relish researching the foundations behind commonly practiced AI/ML methods and\n\
+    often lose myself in the quest for more sophisticated and mathematically sound\
+    \ ML \nand AI solutions that are infinitesimally closer to the holy grail of Artificial\
+    \ General \nIntelligence. I have a multitude of research experiences in both the\
+    \ practical and theoretical sides of\nDeep Learning and am currently working on\
+    \ a number of research projects. I also love to strengthen\nmy understandings\
+    \ by teaching. To that end, I have volunteered as a Scientific consultant and\
+    \ Teaching assistant in\nnumerous AI/ML-related courses and academic events. </p>\n\
+    <p><strong>My research interests include</strong> <small>(but are not limited\
+    \ to)</small>:\n Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL)\
+    \ Robustness, Deep Probabilistic and Generative models, Reinforcement Learning,\
+    \ Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.</p>\n\
+    <p><strong>Links</strong>: <a href=\"#\">CV</a>, <a href=\"https://github.com/vahidzee\"\
+    >Github</a>, <a href=\"https://linkedin.com/in/vahidzee\">LinkedIn</a>, \n<a href=\"\
+    mailto:vahid98zee@gmail.com\">Personal Email</a></p> <p><strong>General Programming\
+    \ Skills</strong>: \n  Python, C/C++, Java, R, Julia, JavaScript, Scheme, PHP,\
+    \ MIPS</p>\n<p><strong>Machine Learning Tools</strong>: Jax (Flax, Optax), PyTorch\
+    \ (PyTorch-Lightning, torchvision, captum), \n  SciPy (NumPy, pandas, Matplotlib),\
+    \ scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution &amp; Deployment\
+    \ Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n<p><strong>Data\
+    \ management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL, MongoDB, Redis</p>\n\
+    <p><strong>Web Development</strong>: Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap</p>\n\
+    <p><strong>Cad Tools &amp; HDLs</strong>: Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical\
+    \ Design Tools</strong>: Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
+    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <div class=\"container-fluid\"\
+    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
+    \ Model <small class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\"\
+    \ href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n</div>\n<div class=\"\
+    small d-inline-block\">\n<a class=\"text-secondary\" href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\"\
     >\nBahari, M.</a>,\n            \n            <span class=\"text-dark\">\n<u>Zehtab,\
     \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
     \ href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
@@ -269,7 +283,9 @@
     >Dr. M. Soltani</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
     \ align-middle m-auto\"><p><small>Spring 2018</small></p></div>\n</div>\n<div\
     \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed recitation classes, Designed\
-    \ and graded the course project.</p>\n</div>\n</details>\n</div> <p>Vahid Zehtab</p>"
+    \ and graded the course project.</p>\n</div>\n</details>\n</div> <p><strong>Farsi</strong>:\
+    \ Native, <strong>English</strong>: highly pro\uFB01cient <small class=\"text-secondary\"\
+    >(TOEFL 112: R30, L29, S25, W28)</small>,\n<strong>Arabic</strong>: Elementary</p>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
