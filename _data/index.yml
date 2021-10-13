@@ -30,21 +30,22 @@ bio:
     \ data processing pipelines, \nanalyzing/optimizing performance, and writing ML\
     \ software that powers applications to meet \nthe problems' needs. To achieve\
     \ these goals, I leverage my extensive engineering and mathematical background.</p>\n\
-    <p>More than enjoying building ML and AI systems,\nI relish researching the foundations\
-    \ behind commonly practiced AI/ML methods and\noften lose myself in the quest\
-    \ for more sophisticated and mathematically sound ML \nand AI solutions that are\
-    \ infinitesimally closer to the holy grail of Artificial General \nIntelligence.\
-    \ I have a multitude of research experiences in both the practical and theoretical\
-    \ sides of\nDeep Learning and am currently working on a number of research projects.\
-    \ I also love to strengthen\nmy understandings by teaching. To that end, I have\
-    \ volunteered as a Scientific consultant and Teaching assistant in\nnumerous AI/ML-related\
-    \ courses and academic events. </p>\n<p><strong>My research interests include</strong>\
-    \ <small>(but are not limited to)</small>:\n Explainable ML, Theoretical foundations\
-    \ of DL, Adversarial (ML/DL) Robustness, Deep Probabilistic and Generative models,\
-    \ Reinforcement Learning, Classical Learning Theory, Unsupervised ML, specially\
-    \ Anomaly Detection.</p>\n<p><strong>Links</strong>: <a href=\"#\">CV</a>, <a\
-    \ href=\"https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
-    >LinkedIn</a>, \n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
+    <p>More than enjoying building ML and AI systems, I relish researching the foundations\
+    \ behind commonly practiced \nAI/ML methods and often lose myself in the quest\
+    \ for more sophisticated and mathematically sound ML and AI \nsolutions that are\
+    \ infinitesimally closer to the holy grail of Artificial General Intelligence.\n\
+    Besides industrial experiences, I have a multitude of research experiences in\
+    \ both the practical and \ntheoretical sides of Deep Learning and am currently\
+    \ working on several research projects. I also love to\nstrengthen my understandings\
+    \ by teaching. To that end, I have volunteered as a Scientific consultant and\
+    \ \nTeaching assistant in numerous AI/ML-related courses and academic events.</p>\n\
+    <p><strong>My research interests include</strong> <small>(but are not limited\
+    \ to)</small>:\n Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL)\
+    \ Robustness, Deep Probabilistic and Generative models, Reinforcement Learning,\
+    \ Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.</p>\n\
+    <p><strong>Links</strong>: <a href=\"#\">CV</a>, <a href=\"https://github.com/vahidzee\"\
+    >Github</a>, <a href=\"https://linkedin.com/in/vahidzee\">LinkedIn</a>, \n<a href=\"\
+    mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
 publications:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
     col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
