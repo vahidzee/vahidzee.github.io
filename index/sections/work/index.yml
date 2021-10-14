@@ -1,5 +1,5 @@
 work:
-  label: Work Experience
+  label: Professional Experience
   sub-label: false
   template:
     template: templates/experience.html
@@ -12,7 +12,7 @@ work:
     content: |
       In June 2020, I was approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap holdings, 
       a well-known mother administrative corporation in charge of many of Iran's tech and financial giants like 
-      [Arvan Cloud](https://www.arvancloud.com/en) or [Pasargad Electronic Payment](https://pep.co.ir/en/). ZLAB is Fanap's most advanced Research and Development 
+      [Arvan Cloud](https://www.arvancloud.com/en) and [Pasargad Electronic Payment](https://pep.co.ir/en/). ZLAB is Fanap's most advanced Research and Development 
       laboratory and one of (if not) the most productive industrial labs in applied Machine Learning in Iran.
 
       I mainly worked on a collaborative project with [Neshan](https://neshan.org/#about), Iran's most widely used navigation platform. 

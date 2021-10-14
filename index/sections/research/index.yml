@@ -1,0 +1,81 @@
+research:
+  label: Research Experience
+  sub-label: false
+  template: 
+    template: templates/experience.html
+    apply: whole
+  thesis:
+    heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    heading_details: |
+      <small>Co-supervised by: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a> & <a href="http://sharif.ir/~manzuri/">M.T. Manzuri</a></small>
+    heading_tag: Sep. 2021 - Present
+    content: |
+      From September 2021, I started researching why Deep solutions for Face-Anti Spoofing problems don't
+      usually generalize to similar but unseen datasets under the supervision of Prof. Rohban and Prof. Manzuri as a part
+      of my undergraduate thesis. Our results show that the problem framework of anomaly detection seems like a more robust way for recognizing
+      bonafide inputs (under OOD anomalies at test time) and hence a better solution to mitigate the inter-domain generalization deficit of current approaches.
+      We are currently investigating the roots for such an observation from the perspective of other well-established
+      close fronts in Machine Learning, such as Domain Adaptation and Meta-Learning, and curating our results into a paper "Investigating the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization."
+  nads: 
+    heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
+    heading_details: <small>Co-supervised by the <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> Labs</small>
+    heading_tag: Feb. 2021 - Sep. 2021
+    content: |
+      In February 2021, I started collaborating with the LTS4 and MLO labs at EPFL.
+      I was fortunate to have [Guillermo Ortiz-Jiménez](https://gortizji.github.io/) and [Jean-Baptiste Cordonnier](http://jbcordonnier.com/) as my
+      research supervisors. Our research intended to answer whether Vision transformers have a directional
+      inductive bias and how it changed in various ViT architectures or during the training dynamics of the network.
+      As it was my first serious exposure to statistical learning theory and the mathematical foundations of deep
+      learning, I consulted several related textbooks and audited some related courses before summer. When I felt
+      comfortable with the math, I conducted a literature review for both Vision transformers and the more recent
+      theoretical findings in deep learning.
+
+      During the summer, we started our research by investigating a primary vision transformer as our baseline.
+      Our results suggested that pure ViTs do not have any directional inductive bias, except for the DC component,
+      which was already discussed in the literature. After thoroughly investigating how the [NADs](https://arxiv.org/abs/2006.09717) of different ViT
+      architectures change, we found that the only thing affecting their NADs' spectrum is the kind of positional
+      bias applied in the transformer layers. Although some exciting structures emerged in the first NADs components,
+      unfortunately, our results didn't show anything investigation worthy to publish. Despite the short period of this
+      collaboration, I believe this remote research experience is the most educational for me so far because it
+      introduced me to the realm of theoretical research in deep learning. A PyTorch version of our code is available [here](https://github.com/vahidzee/nads).
+  vita:
+    heading:  <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
+    heading_details: |
+      <small>Supervised by <a href="https://www.epfl.ch/labs/vita/">VITA</a> lab</small>
+    heading_tag: Jul. 2020 - Dec. 2020
+    content: |
+      In the summer of 2020, I joined EPFL's VITA lab as a remote research assistant. I was lucky to have
+      [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en) as my supervisor while working with the great [Mohammadhossein Bahari](https://people.epfl.ch/mohammadhossein.bahari/?lang=en) on reason-aware trajectory
+      prediction models. We started by inquiring about the reasonability and explainability of the SOTA vehicle
+      trajectory prediction models. We conducted a thorough explanatory data analysis on the newly released [Lyft
+      Level 5 dataset](https://level-5.global/data/) and crossed checked SOTA raster-based solutions as a baseline for our investigations.
+      Despite their good performance, we observed that these models were highly biased towards the training data
+      distribution and failed to reason under unaligned test distributions.
+
+      We developed a new training objective to enforce more reasonable saliency maps through second-order
+      gradient supervision. Our experiments revealed that the pixel-based input representations given the
+      sparse structure of rasterized information were inherently problematic. So we began to explore other
+      vectorized and standard formats, which led to our publication "SVG-Net: An SVG-based Trajectory Prediction Model."
+
+  rohban_lab:
+    heading:  <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    heading_details: |
+      <small>Supervised by: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a></small>
+    heading_tag: Dec. 2019 - Present
+    content: |
+      In December 2019, I joined the robust and interpretable at Sharif and started researching under the direct
+      supervision of Prof. Rohban. In a quest for non-generative unsupervised one-class OOD detectors, I
+      reviewed the literature for probabilistic and deep generative models. Superficially, it seems reasonable to
+      assume that an explicit deep probability estimator (EDPE) has the potential to be a good OOD detector. Still,
+      our experiments with various iterations of Autoregressive models (PixelCNNs, MADEs, [codes](https://github.com/vahidzee/PixelCnnPP)) proved useless and registered
+      higher densities for anomalies. Hence we turned to the literature on adversarial training to learn robust normal
+      representations, but again, EDPEs proved to be hard to control.
+
+      We developed a novel architecture and training procedure to train explicit deep probability estimators for one-class anomaly detection (AD)
+      and by using off-the-shelf MADEs. We were able to achieve on par or better results than the SOTA. We also did a
+      thorough investigation on why and when autoencoders and reconstruction-based AD solutions fail to scale ([codes](https://github.com/vahidzee/DRMADE)).
+      We are now employing all our observations and the current advancements in training Energy-based models to
+      enhance our method and publish our method in a paper "EBAD: Energy-based Anomaly Detection"  ([codes](https://github.com/vahidzee/ebad)).
+
+      In Parallel, I now co-lead the AD team. We are currently investigating the potential for continuous-depth
+      networks and vector-quantization approaches to learn better normal representations.

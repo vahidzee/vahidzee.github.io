@@ -97,7 +97,7 @@ teaching:
       <small>Sharif University of Technology, Instructor: <a href="https://ir.linkedin.com/in/laleh-arshadi-3042b6163">Dr. L. Arshadi</a></small>
     tags: <small>Spring & Fall 2020</small>
     content: |
-      Designed and graded MIPS assembly assignment, Graded Memory Hierarchy assignments.
+      Designed and graded MIPS assembly assignment. Graded Memory Hierarchy assignments.
 
   sharif_web:
     heading: |
@@ -115,7 +115,7 @@ teaching:
       <small>Sharif University of Technology, Instructors: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a> & <a href="https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir">Dr. M. Mostafazadeh</a></small>
     tags: <small>Spring & Fall 2019</small>
     content: |
-      Mentored project teams, Instructed recitation classes, Designed and graded assginments and mini-projects.
+      Mentored project teams. Instructed recitation classes. Designed and graded assginments and mini-projects.
 
   sharif_fop:
     heading: |
@@ -124,4 +124,4 @@ teaching:
       <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/~mahdi/">Dr. M. Soltani</a></small>
     tags: <small>Spring 2018</small>
     content: |
-      Instructed recitation classes, Designed and graded the course project.
+      Instructed recitation classes. Designed and graded the course project.
