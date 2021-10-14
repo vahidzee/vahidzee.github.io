@@ -3,6 +3,7 @@ header:
   title: <p>Vahid Zehtab</p>
   description: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p>"
 config:
+  google_analytics_id: G-CZL4QJSGXC
   search:
     content: false
     links: false
