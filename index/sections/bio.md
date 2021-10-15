@@ -19,5 +19,5 @@ Teaching assistant in numerous AI/ML-related courses and academic events.
 **My research interests include** <small>(but are not limited to)</small>:
  Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL) Robustness, Deep Probabilistic and Generative models, Reinforcement Learning, Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.
 
-**Links**: [CV](#), [Github](https://github.com/vahidzee), [LinkedIn](https://linkedin.com/in/vahidzee), 
+**Links**: [CV](https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing), [Github](https://github.com/vahidzee), [LinkedIn](https://linkedin.com/in/vahidzee), 
 [Personal Email](mailto:vahid98zee@gmail.com)
