@@ -1,143 +1,46 @@
 /:
   category: Index
-  content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
-    \ An SVG-Based Trajectory Prediction Model <small class=\"d-inline-block ms-auto\"\
-    >(Submitted to <a class=\"text-reset\" href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<a class=\"text-secondary\" href=\"\
-    https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">\nBahari, M.</a>,\n \
-    \           \n            <span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
-    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
-    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
-    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
-    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
-    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
-    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
-    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
-    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
-    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
-    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
-    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
-    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a></p></div>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Investigating\
-    \ the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization\
-    \ <small class=\"d-inline-block ms-auto\">(In Progress)</small>\n</div>\n<div\
-    \ class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
-    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir\"\
-    >\n                Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir\"\
-    >\n                Eftekhar, A.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>,\n   \
-    \         \n            <a class=\"text-secondary\" href=\"http://sharif.ir/~manzuri/\"\
-    >\n                Manzuri Shalmani, M.T.</a>\n<span class=\"d-inline-block text-secondary\
-    \ small\">\u2014<sup>*</sup>Equal contribution, List is still tentative</span>\n\
-    </div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
-    row m-0 p-0\">\n<div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\"\
-    >EBAD: Energy-Based Anomaly Detection <small class=\"d-inline-block ms-auto\"\
-    >(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\">\n<span class=\"\
-    text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
-    text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
-    \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
-    \ still tentative</span>\n</div>\n</div>\n</div>\n</div> <div class=\"container-fluid\"\
-    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\"\
-    >Advanced Technology Lab (ZLAB)</a><small>,<a class=\"text-secondary\" href=\"\
-    https://fanap.ir/\"> Fanap Co.</a></small>\n</h5>\n<p class=\"text-center mb-0\
-    \ fw-light\">Machine Learning Engineer</p>\n<p class=\"text-muted text-center\
-    \ small\">Jun. 2020 - Mar. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In\
-    \ June 2020, I was approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap\
-    \ holdings, \na well-known mother administrative corporation in charge of many\
-    \ of Iran's tech and financial giants like \n<a href=\"https://www.arvancloud.com/en\"\
-    >Arvan Cloud</a> and <a href=\"https://pep.co.ir/en/\">Pasargad Electronic Payment</a>.\
-    \ ZLAB is Fanap's most advanced Research and Development \nlaboratory and one\
-    \ of (if not) the most productive industrial labs in applied Machine Learning\
-    \ in Iran.</p>\n<p>I mainly worked on a collaborative project with <a href=\"\
-    https://neshan.org/#about\">Neshan</a>, Iran's most widely used navigation platform.\
-    \ \nDuring this project, I <strong>created a novel Satellite and Aerial Imagery\
-    \ super-resolution model capable of \nupsampling urban maps up to 8 times their\
-    \ original resolution</strong>. My other projects include, <strong>designing a\
-    \ commercial GPU sharing \nplatform</strong> to provide high-level decentralization\
-    \ abstraction to Deep Learning training procedures. I also \n<strong>created a\
-    \ generic object-oriented deep training and prototyping framework</strong> for\
-    \ highly complex and fully automated \nrobust training and evaluation procedures\
-    \ focusing on the separation of deep architecture design with model\ninitialization\
-    \ and hyperparameters, and the reusability of training algorithms regardless of\
-    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
-    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
-    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
-    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
-    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
-    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
-    \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><p>After about a month of prep and intense interviews, in July\
-    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
-    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
-    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
-    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
-    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
-    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
-    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
-    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
-    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
-    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
-    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
-    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
-    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
-    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
-    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
-    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
-    \ 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In June 2018, I joined a\
-    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
-    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
-    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
-    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
-    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
-    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
-    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
-    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
-    </div>\n</div> <p><em>My personal blog and online r\xE9sum\xE9!</em></p> <p>Vahid\
-    \ Zehtab</p> <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4\
-    \ mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/vahidzee.png\"\
-    \ width=\"150em\"/>\nHi! This is Vahid! I am currently a senior undergraduate\
-    \ computer engineering student at\nSharif University of Technology. I enjoy researching\
-    \ both the theoretical and practical sides of Deep Learning,\nand Artificial Intelligence\
-    \ and relish mathematically-inspired research in general. </p>\n<p>My skillset\
-    \ involves building scalable ML systems and working on large-scale distributed\
-    \ computing.\nI enjoy developing Deep Learning models, implementing real-time\
-    \ data processing pipelines, \nanalyzing/optimizing performance, and writing ML\
-    \ software that powers applications to meet \nthe problems' needs. To achieve\
-    \ these goals, I leverage my extensive engineering and mathematical background.</p>\n\
-    <p>More than enjoying building ML and AI systems, I relish researching the foundations\
-    \ behind commonly practiced \nAI/ML methods and often lose myself in the quest\
-    \ for more sophisticated and mathematically sound ML and AI \nsolutions that are\
-    \ infinitesimally closer to the holy grail of Artificial General Intelligence.\n\
-    Besides industrial experiences, I have a multitude of research experiences in\
-    \ both the practical and \ntheoretical sides of Deep Learning and am currently\
-    \ working on several research projects. I also love to\nstrengthen my understandings\
-    \ by teaching. To that end, I have volunteered as a Scientific consultant and\
-    \ \nTeaching assistant in numerous AI/ML-related courses and academic events.</p>\n\
-    <p><strong>My research interests include</strong> <small>(but are not limited\
-    \ to)</small>:\n Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL)\
-    \ Robustness, Deep Probabilistic and Generative models, Reinforcement Learning,\
-    \ Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.</p>\n\
-    <p><strong>Links</strong>: <a href=\"#\">CV</a>, <a href=\"https://github.com/vahidzee\"\
-    >Github</a>, <a href=\"https://linkedin.com/in/vahidzee\">LinkedIn</a>, \n<a href=\"\
-    mailto:vahid98zee@gmail.com\">Personal Email</a></p> <div class=\"container-fluid\"\
-    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
-    <div class=\"h5 mb-0 text-left m-0 p-0\">Privacy in Machine Learning <small class=\"\
-    d-inline-block ms-auto\">(Graduate Course)</small>\n</div>\n<div class=\"small\
-    \ d-inline-block\">\n<small>Sharif University of Technology, Instructors: <a href=\"\
-    http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a> &amp; <a href=\"https://amsadeghzadeh.github.io/\"\
-    >Dr. A.M. Sadeghzadeh</a></small>\n<span class=\"d-inline-block text-secondary\
-    \ small\">\u2014Course starts from Nov.</span>\n</div>\n</div>\n<div class=\"\
-    col-12 col-md-3 text-center align-middle m-auto\"><p><small>Fall 2021</small></p></div>\n\
-    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designer and grader of Deep\
-    \ Learning Adversarial Robustness assignments. Instructor for the practical workshops.</p>\n\
+  content: "<p><strong>Farsi</strong>: Native, <strong>English</strong>: highly pro\uFB01\
+    cient <small class=\"text-secondary\">(TOEFL 112: R30, L29, S25, W28)</small>,\n\
+    <strong>Arabic</strong>: Elementary</p> <p><img alt=\"\" class=\"rounded-circle\
+    \ d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"\
+    150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\nHi! This is\
+    \ Vahid! I am currently a senior undergraduate computer engineering student at\n\
+    Sharif University of Technology. I enjoy researching both the theoretical and\
+    \ practical sides of Deep Learning,\nand Artificial Intelligence and relish mathematically-inspired\
+    \ research in general. </p>\n<p>My skillset involves building scalable ML systems\
+    \ and working on large-scale distributed computing.\nI enjoy developing Deep Learning\
+    \ models, implementing real-time data processing pipelines, \nanalyzing/optimizing\
+    \ performance, and writing ML software that powers applications to meet \nthe\
+    \ problems' needs. To achieve these goals, I leverage my extensive engineering\
+    \ and mathematical background.</p>\n<p>More than enjoying building ML and AI systems,\
+    \ I relish researching the foundations behind commonly practiced \nAI/ML methods\
+    \ and often lose myself in the quest for more sophisticated and mathematically\
+    \ sound ML and AI \nsolutions that are infinitesimally closer to the holy grail\
+    \ of Artificial General Intelligence.\nBesides industrial experiences, I have\
+    \ a multitude of research experiences in both the practical and \ntheoretical\
+    \ sides of Deep Learning and am currently working on several research projects.\
+    \ I also love to\nstrengthen my understandings by teaching. To that end, I have\
+    \ volunteered as a Scientific consultant and \nTeaching assistant in numerous\
+    \ AI/ML-related courses and academic events.</p>\n<p><strong>My research interests\
+    \ include</strong> <small>(but are not limited to)</small>:\n Explainable ML,\
+    \ Theoretical foundations of DL, Adversarial (ML/DL) Robustness, Deep Probabilistic\
+    \ and Generative models, Reinforcement Learning, Classical Learning Theory, Unsupervised\
+    \ ML, specially Anomaly Detection.</p>\n<p><strong>Links</strong>: <a href=\"\
+    https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing\"\
+    >CV</a>, <a href=\"https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
+    >LinkedIn</a>, \n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>\
+    \ <p>Vahid Zehtab</p> <div class=\"container-fluid\">\n<div class=\"row m-0 p-0\"\
+    >\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left\
+    \ m-0 p-0\">Privacy in Machine Learning <small class=\"d-inline-block ms-auto\"\
+    >(Graduate Course)</small>\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
+    \ University of Technology, Instructors: <a href=\"http://sharif.ir/~rohban/\"\
+    >Prof. M.H. Rohban</a> &amp; <a href=\"https://amsadeghzadeh.github.io/\">Dr.\
+    \ A.M. Sadeghzadeh</a></small>\n<span class=\"d-inline-block text-secondary small\"\
+    >\u2014Course starts from Nov.</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Fall 2021</small></p></div>\n</div>\n\
+    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designer and grader of Deep Learning\
+    \ Adversarial Robustness assignments. Instructor for the practical workshops.</p>\n\
     </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
     <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
     \ p-0\">Artificial Intelligence <small class=\"d-inline-block ms-auto\">(Head\
@@ -273,6 +176,118 @@
     >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
     </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
     \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <div class=\"container-fluid\"\
+    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
+    \ Model <small class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\"\
+    \ href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n</div>\n<div class=\"\
+    small d-inline-block\">\n<a class=\"text-secondary\" href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\"\
+    >\nBahari, M.</a>,\n            \n            <span class=\"text-dark\">\n<u>Zehtab,\
+    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
+    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
+    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
+    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
+    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
+    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
+    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
+    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a></p></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
+    <div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Investigating\
+    \ the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization\
+    \ <small class=\"d-inline-block ms-auto\">(In Progress)</small>\n</div>\n<div\
+    \ class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
+    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir\"\
+    >\n                Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir\"\
+    >\n                Eftekhar, A.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>,\n   \
+    \         \n            <a class=\"text-secondary\" href=\"http://sharif.ir/~manzuri/\"\
+    >\n                Manzuri Shalmani, M.T.</a>\n<span class=\"d-inline-block text-secondary\
+    \ small\">\u2014<sup>*</sup>Equal contribution, List is still tentative</span>\n\
+    </div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
+    row m-0 p-0\">\n<div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\"\
+    >EBAD: Energy-Based Anomaly Detection <small class=\"d-inline-block ms-auto\"\
+    >(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\">\n<span class=\"\
+    text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
+    text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
+    \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
+    \ still tentative</span>\n</div>\n</div>\n</div>\n</div> <div class=\"container-fluid\"\
+    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\"\
+    >Advanced Technology Lab (ZLAB)</a><small>,<a class=\"text-secondary\" href=\"\
+    https://fanap.ir/\"> Fanap Co.</a></small>\n</h5>\n<p class=\"text-center mb-0\
+    \ fw-light\">Machine Learning Engineer</p>\n<p class=\"text-muted text-center\
+    \ small\">Jun. 2020 - Mar. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In\
+    \ June 2020, I was approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap\
+    \ holdings, \na well-known mother administrative corporation in charge of many\
+    \ of Iran's tech and financial giants like \n<a href=\"https://www.arvancloud.com/en\"\
+    >Arvan Cloud</a> and <a href=\"https://pep.co.ir/en/\">Pasargad Electronic Payment</a>.\
+    \ ZLAB is Fanap's most advanced Research and Development \nlaboratory and one\
+    \ of (if not) the most productive industrial labs in applied Machine Learning\
+    \ in Iran.</p>\n<p>I mainly worked on a collaborative project with <a href=\"\
+    https://neshan.org/#about\">Neshan</a>, Iran's most widely used navigation platform.\
+    \ \nDuring this project, I <strong>created a novel Satellite and Aerial Imagery\
+    \ super-resolution model capable of \nupsampling urban maps up to 8 times their\
+    \ original resolution</strong>. My other projects include, <strong>designing a\
+    \ commercial GPU sharing \nplatform</strong> to provide high-level decentralization\
+    \ abstraction to Deep Learning training procedures. I also \n<strong>created a\
+    \ generic object-oriented deep training and prototyping framework</strong> for\
+    \ highly complex and fully automated \nrobust training and evaluation procedures\
+    \ focusing on the separation of deep architecture design with model\ninitialization\
+    \ and hyperparameters, and the reusability of training algorithms regardless of\
+    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
+    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
+    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
+    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
+    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
+    \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>After about a month of prep and intense interviews, in July\
+    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
+    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
+    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
+    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
+    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
+    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
+    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
+    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
+    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
+    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
+    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
+    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
+    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
+    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
+    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
+    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
+    \ 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In June 2018, I joined a\
+    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
+    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
+    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
+    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
+    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
+    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
+    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
+    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
+    </div>\n</div> <p><em>My personal blog and online r\xE9sum\xE9!</em></p> <p><strong>General\
+    \ Programming Skills</strong>: \n  Python, C/C++, Java, R, Julia, JavaScript,\
+    \ Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>: Jax (Flax,\
+    \ Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy (NumPy,\
+    \ pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
+    \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
+    <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
+    \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
+    \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>Cad Tools &amp; HDLs</strong>:\
+    \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
+    \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>: Unix\
+    \ ecosystem familiarity, Git (Version Control), LaTex</p> <div class=\"container-fluid\"\
     >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
     \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
     >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
@@ -369,20 +384,7 @@
     \ \"EBAD: Energy-based Anomaly Detection\"  (<a href=\"https://github.com/vahidzee/ebad\"\
     >codes</a>).</p>\n<p>In Parallel, I now co-lead the AD team. We are currently\
     \ investigating the potential for continuous-depth\nnetworks and vector-quantization\
-    \ approaches to learn better normal representations.</p></div>\n</div>\n</div>\
-    \ <p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java, R,\
-    \ Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>:\
-    \ Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy\
-    \ (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
-    \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
-    <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
-    \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
-    \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>Cad Tools &amp; HDLs</strong>:\
-    \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
-    \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>: Unix\
-    \ ecosystem familiarity, Git (Version Control), LaTex</p> <p><strong>Farsi</strong>:\
-    \ Native, <strong>English</strong>: highly pro\uFB01cient <small class=\"text-secondary\"\
-    >(TOEFL 112: R30, L29, S25, W28)</small>,\n<strong>Arabic</strong>: Elementary</p>"
+    \ approaches to learn better normal representations.</p></div>\n</div>\n</div>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
