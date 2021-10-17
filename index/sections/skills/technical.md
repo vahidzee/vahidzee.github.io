@@ -10,7 +10,7 @@
 
 **Web Development**: Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap
 
-**Cad Tools & HDLs**: Verilog, Quartus, ModelSim
+**CAD Tools & HDLs**: Verilog, Quartus, ModelSim
 
 **Graphical Design Tools**: Adobe Photoshop, Adobe Illustrator
 

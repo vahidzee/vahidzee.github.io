@@ -1,8 +1,13 @@
 nav:
   fixed:
+    - link: https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing
+      text: CV
     - link: 'mailto:vahid98zee@gmail.com'
-      icon: fas fa-envelope
+      text: Email
     - link: 'https://linkedin.com/in/vahidzee'
-      icon: fab fa-linkedin
+      text: LinkedIn
     - link: 'https://github.com/vahidzee'
-      icon: fab fa-github
+      text: Github
+    - link: 'https://scholar.google.com/citations?user=5Orm8YIAAAAJ'
+      text: Google Scholar
+

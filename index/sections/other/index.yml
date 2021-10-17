@@ -1,0 +1,41 @@
+academic_serv:
+  label: Academic Services
+  template:
+    template: templates/experience.html
+    apply: whole
+  datadays2021:
+    heading: <a class="text-dark" href="https://challenge.datadays.ir">Datadays 2021</a>
+    heading_details: Head of Scientific Team
+    no_line: true
+    content: |
+      DataDays was **the First and Still the Largest National Data Scientific Competition** held annually by Sharif University of Technology.
+      Its main goal is to broaden the appeal for working on data-driven problems. In essence, Datadays is a large-scale attempt at assessing
+      data science knowledge in Iran and improving it.
+
+      Every year, a group of volunteer data science experts gathers around to create and hold Datadays. I had the
+      pleasure to lead the 2021's Datadays team, a diverse international group of Iranian Machine Learning and data
+      science academic and industrial experts. After intense negotiations with various tech giants and startups in Iran,
+      [Torob.ir](https://torob.ir/), an emerging product searching platform, joined us as our sponsor. After weeks
+      of preparations, we developed a data-driven challenge around Torob's search logs to recommend new products given a raw query.
+
+      To teach our participants about the fundamental concepts regarding Machine Learning and Recommender Systems, I authored a roadmap and
+      led the scientific staff in creating Persian Educational notebooks. I also started a talk series and organized workshops by
+      inviting tech and academic experts. To host the competition, I led the talks with [RoboEpics](https://roboepics.com/), a Kaggle like platform for hosting
+      AI competitions, and eventually authored a contract between Datadays, Torob, and Roboepics. Our competition was held during the
+      summer of 2021 and had over 500 participants internationally.
+  datadays2019:
+    heading: <a class="text-dark"  href="https://www.linkedin.com/company/sharif-data-days/">Datadays 2019</a>
+    heading_details: Head of Infrastructure
+    content: |
+      In Datadays's first year, I was in change of the infrastructure required to hold the contest. Our challenge was computationally heavy and could
+      benefit a lot from accelerated hardware so I volunteered to setup and maintain a GPU cluster of over 40 units, for our contestants.
+
+      I also co-develop the Datadays contests platform by contributing to its user-interface implementation.
+
+  wss2020:
+    heading: <a class="text-dark"  href="https://www.linkedin.com/company/wss-sut/">Sharif Winter Seminar Series (WSS)</a>
+    heading_details: Organizer
+    content: |
+      WSS is a well known seminar series held annually by Sharif University of Technology. It hosts talks and presentations
+      from international academic experts in advanced topics of computer science and engineering. During WSS 2020, I volunteered as
+      one of the presentation organizers.

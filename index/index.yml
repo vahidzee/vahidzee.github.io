@@ -22,7 +22,7 @@ patch-research: index/sections/research/index.yml
 patch-work: index/sections/work/index.yml
 patch-skills: index/sections/skills/index.yml
 patch-teaching: index/sections/teaching/index.yml
-# patch-other: index/sections/other/index.yml
+patch-other: index/sections/other/index.yml
 # patch-projects: index/sections/projects/index.yml
 # patch-skills: index/sections/skills/index.yml
 

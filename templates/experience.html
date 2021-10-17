@@ -17,7 +17,11 @@
         {% endif %}
     </div>
     {% if not loop.last %}
+    {% if not value.no_line %}
     <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0">
+    {% else %}
+    <div class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"></div>
+    {% endif %}
     {% endif %}
     {% endfor %}
 
