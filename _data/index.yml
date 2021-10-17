@@ -9,12 +9,16 @@ config:
     links: false
 nav:
   fixed:
+  - link: https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing
+    text: CV
   - link: mailto:vahid98zee@gmail.com
-    icon: fas fa-envelope
+    text: Email
   - link: https://linkedin.com/in/vahidzee
-    icon: fab fa-linkedin
+    text: LinkedIn
   - link: https://github.com/vahidzee
-    icon: fab fa-github
+    text: Github
+  - link: https://scholar.google.com/citations?user=5Orm8YIAAAAJ
+    text: Google Scholar
 search:
   links: true
   content: true
@@ -40,13 +44,10 @@ bio:
     \ working on several research projects. I also love to\nstrengthen my understandings\
     \ by teaching. To that end, I have volunteered as a Scientific consultant and\
     \ \nTeaching assistant in numerous AI/ML-related courses and academic events.</p>\n\
-    <p><strong>My research interests include</strong> <small>(but are not limited\
-    \ to)</small>:\n Explainable ML, Theoretical foundations of DL, Adversarial (ML/DL)\
-    \ Robustness, Deep Probabilistic and Generative models, Reinforcement Learning,\
-    \ Classical Learning Theory, Unsupervised ML, specially Anomaly Detection.</p>\n\
     <p><strong>Links</strong>: <a href=\"https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing\"\
     >CV</a>, <a href=\"https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
-    >LinkedIn</a>, \n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
+    >LinkedIn</a>, <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJ\"\
+    >Google Scholar</a>,\n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
 publications:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
     col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
@@ -283,6 +284,10 @@ work:
   label: Professional Experience
 skills:
   label: Skills
+  leading:
+    label: Leadership and Management
+    content: <p>From public speaking, to mentoring, to coordination of people and
+      events, I can lead in any context.</p>
   technical:
     label: Technical Skills
     content: "<p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java,\
@@ -292,7 +297,7 @@ skills:
       \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
       <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
       \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
-      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>Cad Tools &amp; HDLs</strong>:\
+      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools &amp; HDLs</strong>:\
       \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
       \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
       \ Unix ecosystem familiarity, Git (Version Control), LaTex</p>"
@@ -422,4 +427,114 @@ teaching:
     \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed recitation classes. Designed\
     \ and graded the course project.</p>\n</div>\n</details>\n</div>"
   label: Teaching Experience
+academic_serv:
+  content: '<div class="container-fluid">
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://challenge.datadays.ir">Datadays
+    2021</a></h5>
+
+    <p class="text-center mb-0 fw-light">Head of Scientific Team</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>DataDays was <strong>the First and Still the Largest
+    National Data Scientific Competition</strong> held annually by Sharif University
+    of Technology.
+
+    Its main goal is to broaden the appeal for working on data-driven problems. In
+    essence, Datadays is a large-scale attempt at assessing
+
+    data science knowledge in Iran and improving it.</p>
+
+    <p>Every year, a group of volunteer data science experts gathers around to create
+    and hold Datadays. I had the
+
+    pleasure to lead the 2021''s Datadays team, a diverse international group of Iranian
+    Machine Learning and data
+
+    science academic and industrial experts. After intense negotiations with various
+    tech giants and startups in Iran,
+
+    <a href="https://torob.ir/">Torob.ir</a>, an emerging product searching platform,
+    joined us as our sponsor. After weeks
+
+    of preparations, we developed a data-driven challenge around Torob''s search logs
+    to recommend new products given a raw query.</p>
+
+    <p>To teach our participants about the fundamental concepts regarding Machine
+    Learning and Recommender Systems, I authored a roadmap and
+
+    led the scientific staff in creating Persian Educational notebooks. I also started
+    a talk series and organized workshops by
+
+    inviting tech and academic experts. To host the competition, I led the talks with
+    <a href="https://roboepics.com/">RoboEpics</a>, a Kaggle like platform for hosting
+
+    AI competitions, and eventually authored a contract between Datadays, Torob, and
+    Roboepics. Our competition was held during the
+
+    summer of 2021 and had over 500 participants internationally.</p></div>
+
+    </div>
+
+    <div class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"></div>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://www.linkedin.com/company/sharif-data-days/">Datadays
+    2019</a></h5>
+
+    <p class="text-center mb-0 fw-light">Head of Infrastructure</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>In Datadays''s first year, I was in change of
+    the infrastructure required to hold the contest. Our challenge was computationally
+    heavy and could
+
+    benefit a lot from accelerated hardware so I volunteered to setup and maintain
+    a GPU cluster of over 40 units, for our contestants.</p>
+
+    <p>I also co-develop the Datadays contests platform by contributing to its user-interface
+    implementation.</p></div>
+
+    </div>
+
+    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
+
+    <div class="row my-0">
+
+    <div class="col-12 col-md-4">
+
+    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://www.linkedin.com/company/wss-sut/">Sharif
+    Winter Seminar Series (WSS)</a></h5>
+
+    <p class="text-center mb-0 fw-light">Organizer</p>
+
+    <p class="text-muted text-center small"></p>
+
+    </div>
+
+    <div class="col-12 col-md-8"><p>WSS is a well known seminar series held annually
+    by Sharif University of Technology. It hosts talks and presentations
+
+    from international academic experts in advanced topics of computer science and
+    engineering. During WSS 2020, I volunteered as
+
+    one of the presentation organizers.</p></div>
+
+    </div>
+
+    </div>'
+  label: Academic Services
 kind: Index
