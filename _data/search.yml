@@ -1,13 +1,41 @@
 /:
   category: Index
-  content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
-    \ An SVG-Based Trajectory Prediction Model <small class=\"d-inline-block ms-auto\"\
-    >(Submitted to <a class=\"text-reset\" href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<a class=\"text-secondary\" href=\"\
-    https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">\nBahari, M.</a>,\n \
-    \           \n            <span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
-    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
+  content: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p> <div class=\"\
+    container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n\
+    <h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
+    >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
+    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"\
+    ><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"text-secondary\">(124/140\
+    \ credits)</small>, \n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
+    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of Major Courses as\
+    \ of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA of from Oct. 2019 to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n\
+    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
+    >Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
+    >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
+    >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
+    \ Systems, Probability and Statistics, Design of Algorithms, \n    Data Structures\
+    \ and Algorithms</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0\
+    \ py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5\
+    \ class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\"\
+    >Rouzbeh Educational Complex</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >Diploma in Mathematics and Physics</p>\n<p class=\"text-muted text-center small\"\
+    >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
+    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
+    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <div class=\"container-fluid\"\
+    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
+    \ Model <small class=\"d-inline-block ms-auto\">(Submitted to <a class=\"text-reset\"\
+    \ href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n</div>\n<div class=\"\
+    small d-inline-block\">\n<a class=\"text-secondary\" href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\"\
+    >\nBahari, M.</a>,\n            \n            <span class=\"text-dark\">\n<u>Zehtab,\
+    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
     >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
     text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
     >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
@@ -43,89 +71,37 @@
     text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
     \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
     \ still tentative</span>\n</div>\n</div>\n</div>\n</div> <div class=\"container-fluid\"\
-    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
-    >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    >B.Sc in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2017 - Expected Aug. 2022 \u2022\
-    \ <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA as of Oct. 2021\"\
-    ><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"text-secondary\">(124/140\
-    \ credits)</small>, \n  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA of Major Courses as\
-    \ of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n  <strong><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA of from Oct. 2019 to Oct. 2021\">Last 2 Years' CGPA</span></strong>: 19.50/20</li>\n\
-    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
-    >Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
-    >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
-    >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
-    \ Systems, Probability and Statistics, Design of Algorithms, \n    Data Structures\
-    \ and Algorithms</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0\
-    \ py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5\
-    \ class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\"\
-    >Rouzbeh Educational Complex</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    >Diploma in Mathematics and Physics</p>\n<p class=\"text-muted text-center small\"\
-    >Sep. 2013 - May 2017 \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n\
-    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Graduated top student, <strong>Diploma\
-    \ GPA</strong>: 19.68/20</li>\n</ul></div>\n</div>\n</div> <p><img alt=\"\" class=\"\
-    rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\"\
-    \ height=\"150em\" src=\"https://github.com/vahidzee.png\" width=\"150em\"/>\n\
-    Hi! This is Vahid! I am currently a senior undergraduate computer engineering\
-    \ student at\nSharif University of Technology. I enjoy researching both the theoretical\
-    \ and practical sides of Deep Learning,\nand Artificial Intelligence and relish\
-    \ mathematically-inspired research in general. </p>\n<p>My skillset involves building\
-    \ scalable ML systems and working on large-scale distributed computing.\nI enjoy\
-    \ developing Deep Learning models, implementing real-time data processing pipelines,\
-    \ \nanalyzing/optimizing performance, and writing ML software that powers applications\
-    \ to meet \nthe problems' needs. To achieve these goals, I leverage my extensive\
-    \ engineering and mathematical background.</p>\n<p>More than enjoying building\
-    \ ML and AI systems, I relish researching the foundations behind commonly practiced\
-    \ \nAI/ML methods and often lose myself in the quest for more sophisticated and\
-    \ mathematically sound ML and AI \nsolutions that are infinitesimally closer to\
-    \ the holy grail of Artificial General Intelligence.\nBesides industrial experiences,\
-    \ I have a multitude of research experiences in both the practical and \ntheoretical\
-    \ sides of Deep Learning and am currently working on several research projects.\
-    \ I also love to\nstrengthen my understandings by teaching. To that end, I have\
-    \ volunteered as a Scientific consultant and \nTeaching assistant in numerous\
-    \ AI/ML-related courses and academic events.</p>\n<p><strong>Links</strong>: <a\
-    \ href=\"https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing\"\
-    >CV</a>, <a href=\"https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
-    >LinkedIn</a>, <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJ\"\
-    >Google Scholar</a>,\n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>\
-    \ <div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Privacy\
-    \ in Machine Learning <small class=\"d-inline-block ms-auto\">(Graduate Course)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructors: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a> &amp;\
-    \ <a href=\"https://amsadeghzadeh.github.io/\">Dr. A.M. Sadeghzadeh</a></small>\n\
-    <span class=\"d-inline-block text-secondary small\">\u2014Course starts from Nov.</span>\n\
-    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
-    ><p><small>Fall 2021</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
-    \ mt-md-0\">\n<p>Designer and grader of Deep Learning Adversarial Robustness assignments.\
-    \ Instructor for the practical workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3\
-    \ mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0\
-    \ mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Artificial Intelligence <small\
-    \ class=\"d-inline-block ms-auto\">(Head Teaching Assistance)</small>\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a></small>\n\
-    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
-    ><p><small>Spring and Fall of 2020 &amp; 2021</small></p></div>\n</div>\n<div\
-    \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead and managed a group of +70 Grad\
-    \ &amp; Undergrad and Ph.D. TAs over the course of three semesters, \nDesigned\
-    \ the course syllabus and tracking toolkits, Authored AI supplementary materials\
-    \ and co-authored and reviewed course lecture notes \nand supplementary notebooks,\
-    \ Instructed practical workshops and recitation classes. \nDeveloped a content\
-    \ creation pipeline and created <a href=\"https://sut-ai.github.io\">Sharif's\
-    \ AI webpage</a>, the largest repository for Farsi and English AI content presented\
-    \ at Sharif University of Technology. \nDesigned and graded assignments and exams.</p>\n\
+    >\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">Privacy in Machine Learning <small class=\"\
+    d-inline-block ms-auto\">(Graduate Course)</small>\n</div>\n<div class=\"small\
+    \ d-inline-block\">\n<small>Sharif University of Technology, Instructors: <a href=\"\
+    http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a> &amp; <a href=\"https://amsadeghzadeh.github.io/\"\
+    >Dr. A.M. Sadeghzadeh</a></small>\n<span class=\"d-inline-block text-secondary\
+    \ small\">\u2014Course starts from Nov.</span>\n</div>\n</div>\n<div class=\"\
+    col-12 col-md-3 text-center align-middle m-auto\"><p><small>Fall 2021</small></p></div>\n\
+    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designer and grader of Deep\
+    \ Learning Adversarial Robustness assignments. Instructor for the practical workshops.</p>\n\
     </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
     <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
-    \ p-0\">Machine Learning for Bioinformatics <small class=\"d-inline-block ms-auto\"\
-    >(Graduate Course)</small>\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
-    \ University of Technology, Instructors: <a href=\"http://sharif.edu/~soleymani/\"\
-    >Prof. M. Soleymani</a> &amp; <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\"\
+    \ p-0\">Artificial Intelligence <small class=\"d-inline-block ms-auto\">(Head\
+    \ Teaching Assistance)</small>\n</div>\n<div class=\"small d-inline-block\">\n\
+    <small>Sharif University of Technology, Instructor: <a href=\"http://sharif.ir/~rohban/\"\
+    >Prof. M.H. Rohban</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
+    \ align-middle m-auto\"><p><small>Spring and Fall of 2020 &amp; 2021</small></p></div>\n\
+    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead and managed a group\
+    \ of +70 Grad &amp; Undergrad and Ph.D. TAs over the course of three semesters,\
+    \ \nDesigned the course syllabus and tracking toolkits, Authored AI supplementary\
+    \ materials and co-authored and reviewed course lecture notes \nand supplementary\
+    \ notebooks, Instructed practical workshops and recitation classes. \nDeveloped\
+    \ a content creation pipeline and created <a href=\"https://sut-ai.github.io\"\
+    >Sharif's AI webpage</a>, the largest repository for Farsi and English AI content\
+    \ presented at Sharif University of Technology. \nDesigned and graded assignments\
+    \ and exams.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
+    row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5\
+    \ mb-0 text-left m-0 p-0\">Machine Learning for Bioinformatics <small class=\"\
+    d-inline-block ms-auto\">(Graduate Course)</small>\n</div>\n<div class=\"small\
+    \ d-inline-block\">\n<small>Sharif University of Technology, Instructors: <a href=\"\
+    http://sharif.edu/~soleymani/\">Prof. M. Soleymani</a> &amp; <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\"\
     >Prof. A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
     \ text-center align-middle m-auto\"><p><small>Spring 2021</small></p></div>\n\
     </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded Deep\
@@ -212,68 +188,10 @@
     >Dr. M. Soltani</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
     \ align-middle m-auto\"><p><small>Spring 2018</small></p></div>\n</div>\n<div\
     \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed recitation classes. Designed\
-    \ and graded the course project.</p>\n</div>\n</details>\n</div> <div class=\"\
-    container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n\
-    <h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\"\
-    >Advanced Technology Lab (ZLAB)</a><small>,<a class=\"text-secondary\" href=\"\
-    https://fanap.ir/\"> Fanap Co.</a></small>\n</h5>\n<p class=\"text-center mb-0\
-    \ fw-light\">Machine Learning Engineer</p>\n<p class=\"text-muted text-center\
-    \ small\">Jun. 2020 - Mar. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In\
-    \ June 2020, I was approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap\
-    \ holdings, \na well-known mother administrative corporation in charge of many\
-    \ of Iran's tech and financial giants like \n<a href=\"https://www.arvancloud.com/en\"\
-    >Arvan Cloud</a> and <a href=\"https://pep.co.ir/en/\">Pasargad Electronic Payment</a>.\
-    \ ZLAB is Fanap's most advanced Research and Development \nlaboratory and one\
-    \ of (if not) the most productive industrial labs in applied Machine Learning\
-    \ in Iran.</p>\n<p>I mainly worked on a collaborative project with <a href=\"\
-    https://neshan.org/#about\">Neshan</a>, Iran's most widely used navigation platform.\
-    \ \nDuring this project, I <strong>created a novel Satellite and Aerial Imagery\
-    \ super-resolution model capable of \nupsampling urban maps up to 8 times their\
-    \ original resolution</strong>. My other projects include, <strong>designing a\
-    \ commercial GPU sharing \nplatform</strong> to provide high-level decentralization\
-    \ abstraction to Deep Learning training procedures. I also \n<strong>created a\
-    \ generic object-oriented deep training and prototyping framework</strong> for\
-    \ highly complex and fully automated \nrobust training and evaluation procedures\
-    \ focusing on the separation of deep architecture design with model\ninitialization\
-    \ and hyperparameters, and the reusability of training algorithms regardless of\
-    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
-    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
-    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
-    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
-    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
-    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
-    \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><p>After about a month of prep and intense interviews, in July\
-    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
-    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
-    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
-    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
-    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
-    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
-    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
-    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
-    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
-    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
-    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
-    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
-    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
-    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
-    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
-    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
-    \ 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In June 2018, I joined a\
-    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
-    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
-    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
-    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
-    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
-    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
-    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
-    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
-    </div>\n</div> <p><em>My personal blog and online r\xE9sum\xE9!</em></p> <p>From\
-    \ public speaking, to mentoring, to coordination of people and events, I can lead\
-    \ in any context.</p> <p><strong>General Programming Skills</strong>: \n  Python,\
-    \ C/C++, Java, R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine\
+    \ and graded the course project.</p>\n</div>\n</details>\n</div> <p>From public\
+    \ speaking, to mentoring, to coordination of people and events, I can lead in\
+    \ any context.</p> <p>Vahid Zehtab</p> <p><strong>General Programming Skills</strong>:\
+    \ \n  Python, C/C++, Java, R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine\
     \ Learning Tools</strong>: Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision,\
     \ captum), \n  SciPy (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract\
     \ OCR</p>\n<p><strong>Distribution &amp; Deployment Tools</strong>: Slurm, Kubernetes,\
@@ -282,59 +200,14 @@
     \ Django, Flask, Vue.js, Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools\
     \ &amp; HDLs</strong>: Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design\
     \ Tools</strong>: Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
-    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <p><strong>Farsi</strong>:\
-    \ Native, <strong>English</strong>: highly pro\uFB01cient <small class=\"text-secondary\"\
-    >(TOEFL 112: R30, L29, S25, W28)</small>,\n<strong>Arabic</strong>: Elementary</p>\
-    \ <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12\
-    \ col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"\
-    https://challenge.datadays.ir\">Datadays 2021</a></h5>\n<p class=\"text-center\
-    \ mb-0 fw-light\">Head of Scientific Team</p>\n<p class=\"text-muted text-center\
-    \ small\"></p>\n</div>\n<div class=\"col-12 col-md-8\"><p>DataDays was <strong>the\
-    \ First and Still the Largest National Data Scientific Competition</strong> held\
-    \ annually by Sharif University of Technology.\nIts main goal is to broaden the\
-    \ appeal for working on data-driven problems. In essence, Datadays is a large-scale\
-    \ attempt at assessing\ndata science knowledge in Iran and improving it.</p>\n\
-    <p>Every year, a group of volunteer data science experts gathers around to create\
-    \ and hold Datadays. I had the\npleasure to lead the 2021's Datadays team, a diverse\
-    \ international group of Iranian Machine Learning and data\nscience academic and\
-    \ industrial experts. After intense negotiations with various tech giants and\
-    \ startups in Iran,\n<a href=\"https://torob.ir/\">Torob.ir</a>, an emerging product\
-    \ searching platform, joined us as our sponsor. After weeks\nof preparations,\
-    \ we developed a data-driven challenge around Torob's search logs to recommend\
-    \ new products given a raw query.</p>\n<p>To teach our participants about the\
-    \ fundamental concepts regarding Machine Learning and Recommender Systems, I authored\
-    \ a roadmap and\nled the scientific staff in creating Persian Educational notebooks.\
-    \ I also started a talk series and organized workshops by\ninviting tech and academic\
-    \ experts. To host the competition, I led the talks with <a href=\"https://roboepics.com/\"\
-    >RoboEpics</a>, a Kaggle like platform for hosting\nAI competitions, and eventually\
-    \ authored a contract between Datadays, Torob, and Roboepics. Our competition\
-    \ was held during the\nsummer of 2021 and had over 500 participants internationally.</p></div>\n\
-    </div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\"><a class=\"text-dark\" href=\"https://www.linkedin.com/company/sharif-data-days/\"\
-    >Datadays 2019</a></h5>\n<p class=\"text-center mb-0 fw-light\">Head of Infrastructure</p>\n\
-    <p class=\"text-muted text-center small\"></p>\n</div>\n<div class=\"col-12 col-md-8\"\
-    ><p>In Datadays's first year, I was in change of the infrastructure required to\
-    \ hold the contest. Our challenge was computationally heavy and could\nbenefit\
-    \ a lot from accelerated hardware so I volunteered to setup and maintain a GPU\
-    \ cluster of over 40 units, for our contestants.</p>\n<p>I also co-develop the\
-    \ Datadays contests platform by contributing to its user-interface implementation.</p></div>\n\
-    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
-    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
-    \ class=\"text-dark\" href=\"https://www.linkedin.com/company/wss-sut/\">Sharif\
-    \ Winter Seminar Series (WSS)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    >Organizer</p>\n<p class=\"text-muted text-center small\"></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><p>WSS is a well known seminar series held annually by Sharif\
-    \ University of Technology. It hosts talks and presentations\nfrom international\
-    \ academic experts in advanced topics of computer science and engineering. During\
-    \ WSS 2020, I volunteered as\none of the presentation organizers.</p></div>\n\
-    </div>\n</div> <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div\
-    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"\
-    text-dark\" href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Co-supervised by: <a href=\"http://sharif.ir/~rohban/\"\
-    >Prof. M.H. Rohban</a> &amp; <a href=\"http://sharif.ir/~manzuri/\">M.T. Manzuri</a></small>\n\
-    </p>\n<p class=\"text-muted text-center small\">Sep. 2021 - Present</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><p>From September 2021, I started researching why\
+    \ Unix ecosystem familiarity, Git (Version Control), LaTex</p> <div class=\"container-fluid\"\
+    >\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
+    >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    ><small>Co-supervised by: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a>\
+    \ &amp; <a href=\"http://sharif.ir/~manzuri/\">M.T. Manzuri</a></small>\n</p>\n\
+    <p class=\"text-muted text-center small\">Sep. 2021 - Present</p>\n</div>\n<div\
+    \ class=\"col-12 col-md-8\"><p>From September 2021, I started researching why\
     \ Deep solutions for Face-Anti Spoofing problems don't\nusually generalize to\
     \ similar but unseen datasets under the supervision of Prof. Rohban and Prof.\
     \ Manzuri as a part\nof my undergraduate thesis. Our results show that the problem\
@@ -425,7 +298,133 @@
     >codes</a>).</p>\n<p>In Parallel, I now co-lead the AD team. We are currently\
     \ investigating the potential for continuous-depth\nnetworks and vector-quantization\
     \ approaches to learn better normal representations.</p></div>\n</div>\n</div>\
-    \ <p>Vahid Zehtab</p>"
+    \ <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12\
+    \ col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"\
+    https://challenge.datadays.ir\">Datadays 2021</a></h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\">Head of Scientific Team</p>\n<p class=\"text-muted text-center\
+    \ small\"></p>\n</div>\n<div class=\"col-12 col-md-8\"><p>DataDays was <strong>the\
+    \ First and Still the Largest National Data Scientific Competition</strong> held\
+    \ annually by Sharif University of Technology.\nIts main goal is to broaden the\
+    \ appeal for working on data-driven problems. In essence, Datadays is a large-scale\
+    \ attempt at assessing\ndata science knowledge in Iran and improving it.</p>\n\
+    <p>Every year, a group of volunteer data science experts gathers around to create\
+    \ and hold Datadays. I had the\npleasure to lead the 2021's Datadays team, a diverse\
+    \ international group of Iranian Machine Learning and data\nscience academic and\
+    \ industrial experts. After intense negotiations with various tech giants and\
+    \ startups in Iran,\n<a href=\"https://torob.ir/\">Torob.ir</a>, an emerging product\
+    \ searching platform, joined us as our sponsor. After weeks\nof preparations,\
+    \ we developed a data-driven challenge around Torob's search logs to recommend\
+    \ new products given a raw query.</p>\n<p>To teach our participants about the\
+    \ fundamental concepts regarding Machine Learning and Recommender Systems, I authored\
+    \ a roadmap and\nled the scientific staff in creating Persian Educational notebooks.\
+    \ I also started a talk series and organized workshops by\ninviting tech and academic\
+    \ experts. To host the competition, I led the talks with <a href=\"https://roboepics.com/\"\
+    >RoboEpics</a>, a Kaggle like platform for hosting\nAI competitions, and eventually\
+    \ authored a contract between Datadays, Torob, and Roboepics. Our competition\
+    \ was held during the\nsummer of 2021 and had over 500 participants internationally.</p></div>\n\
+    </div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://www.linkedin.com/company/sharif-data-days/\"\
+    >Datadays 2019</a></h5>\n<p class=\"text-center mb-0 fw-light\">Head of Infrastructure</p>\n\
+    <p class=\"text-muted text-center small\"></p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><p>In Datadays's first year, I was in change of the infrastructure required to\
+    \ hold the contest. Our challenge was computationally heavy and could\nbenefit\
+    \ a lot from accelerated hardware so I volunteered to setup and maintain a GPU\
+    \ cluster of over 40 units, for our contestants.</p>\n<p>I also co-develop the\
+    \ Datadays contests platform by contributing to its user-interface implementation.</p></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://www.linkedin.com/company/wss-sut/\">Sharif\
+    \ Winter Seminar Series (WSS)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >Organizer</p>\n<p class=\"text-muted text-center small\"></p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>WSS is a well known seminar series held annually by Sharif\
+    \ University of Technology. It hosts talks and presentations\nfrom international\
+    \ academic experts in advanced topics of computer science and engineering. During\
+    \ WSS 2020, I volunteered as\none of the presentation organizers.</p></div>\n\
+    </div>\n</div> <p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4\
+    \ mb-4 mb-sm-0 d-sm-inline mx-auto float-sm-start\" height=\"150em\" src=\"https://github.com/vahidzee.png\"\
+    \ width=\"150em\"/>\nHi! This is Vahid! I am currently a senior undergraduate\
+    \ computer engineering student at\nSharif University of Technology. I enjoy researching\
+    \ both the theoretical and practical sides of Deep Learning,\nand Artificial Intelligence\
+    \ and relish mathematically-inspired research in general. </p>\n<p>My skillset\
+    \ involves building scalable ML systems and working on large-scale distributed\
+    \ computing.\nI enjoy developing Deep Learning models, implementing real-time\
+    \ data processing pipelines, \nanalyzing/optimizing performance, and writing ML\
+    \ software that powers applications to meet \nthe problems' needs. To achieve\
+    \ these goals, I leverage my extensive engineering and mathematical background.</p>\n\
+    <p>More than enjoying building ML and AI systems, I relish researching the foundations\
+    \ behind commonly practiced \nAI/ML methods and often lose myself in the quest\
+    \ for more sophisticated and mathematically sound ML and AI \nsolutions that are\
+    \ infinitesimally closer to the holy grail of Artificial General Intelligence.\n\
+    Besides industrial experiences, I have a multitude of research experiences in\
+    \ both the practical and \ntheoretical sides of Deep Learning and am currently\
+    \ working on several research projects. I also love to\nstrengthen my understandings\
+    \ by teaching. To that end, I have volunteered as a Scientific consultant and\
+    \ \nTeaching assistant in numerous AI/ML-related courses and academic events.</p>\n\
+    <p><strong>Links</strong>: <a href=\"https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing\"\
+    >CV</a>, <a href=\"https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
+    >LinkedIn</a>, <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJ\"\
+    >Google Scholar</a>,\n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>\
+    \ <div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"col-12\
+    \ col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"\
+    https://fanaplab.com/\">Advanced Technology Lab (ZLAB)</a><small>,<a class=\"\
+    text-secondary\" href=\"https://fanap.ir/\"> Fanap Co.</a></small>\n</h5>\n<p\
+    \ class=\"text-center mb-0 fw-light\">Machine Learning Engineer</p>\n<p class=\"\
+    text-muted text-center small\">Jun. 2020 - Mar. 2021</p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>In June 2020, I was approached by the Advanced Technology\
+    \ Lab (a.k.a ZLAB) of Fanap holdings, \na well-known mother administrative corporation\
+    \ in charge of many of Iran's tech and financial giants like \n<a href=\"https://www.arvancloud.com/en\"\
+    >Arvan Cloud</a> and <a href=\"https://pep.co.ir/en/\">Pasargad Electronic Payment</a>.\
+    \ ZLAB is Fanap's most advanced Research and Development \nlaboratory and one\
+    \ of (if not) the most productive industrial labs in applied Machine Learning\
+    \ in Iran.</p>\n<p>I mainly worked on a collaborative project with <a href=\"\
+    https://neshan.org/#about\">Neshan</a>, Iran's most widely used navigation platform.\
+    \ \nDuring this project, I <strong>created a novel Satellite and Aerial Imagery\
+    \ super-resolution model capable of \nupsampling urban maps up to 8 times their\
+    \ original resolution</strong>. My other projects include, <strong>designing a\
+    \ commercial GPU sharing \nplatform</strong> to provide high-level decentralization\
+    \ abstraction to Deep Learning training procedures. I also \n<strong>created a\
+    \ generic object-oriented deep training and prototyping framework</strong> for\
+    \ highly complex and fully automated \nrobust training and evaluation procedures\
+    \ focusing on the separation of deep architecture design with model\ninitialization\
+    \ and hyperparameters, and the reusability of training algorithms regardless of\
+    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
+    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
+    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
+    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
+    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
+    \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>After about a month of prep and intense interviews, in July\
+    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
+    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
+    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
+    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
+    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
+    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
+    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
+    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
+    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
+    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
+    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
+    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
+    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
+    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
+    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
+    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
+    \ 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In June 2018, I joined a\
+    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
+    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
+    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
+    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
+    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
+    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
+    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
+    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
+    </div>\n</div> <p><strong>Farsi</strong>: Native, <strong>English</strong>: highly\
+    \ pro\uFB01cient <small class=\"text-secondary\">(TOEFL 112: R30, L29, S25, W28)</small>,\n\
+    <strong>Arabic</strong>: Elementary</p>"
   description: "*My personal blog and online r\xE9sum\xE9!*\n"
   title: Vahid Zehtab
   url: /
