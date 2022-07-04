@@ -45,10 +45,10 @@ bio:
     \ by teaching. To that end, I have volunteered as a Scientific consultant and\
     \ \nTeaching assistant in numerous AI/ML-related courses and academic events.</p>\n\
     <p><strong>Links</strong>: <a href=\"https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing\"\
-    ><i aria-hidden=\"true\" class=\"fa-solid fa-file-pdf\"></i> CV</a>, <a href=\"\
-    https://github.com/vahidzee\">Github</a>, <a href=\"https://linkedin.com/in/vahidzee\"\
-    >LinkedIn</a>, <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJ\"\
-    >Google Scholar</a>,\n<a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
+    ><i aria-hidden=\"true\" class=\"fas fa-file-pdf\"></i> CV</a>, <a href=\"https://github.com/vahidzee\"\
+    >Github</a>, <a href=\"https://linkedin.com/in/vahidzee\">LinkedIn</a>, <a href=\"\
+    https://scholar.google.com/citations?user=5Orm8YIAAAAJ\">Google Scholar</a>,\n\
+    <a href=\"mailto:vahid98zee@gmail.com\">Personal Email</a></p>"
 publications:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
     col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
