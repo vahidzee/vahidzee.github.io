@@ -16,5 +16,5 @@ theoretical sides of Deep Learning and am currently working on several research 
 strengthen my understandings by teaching. To that end, I have volunteered as a Scientific consultant and 
 Teaching assistant in numerous AI/ML-related courses and academic events.
 
-**Links**: [CV](https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing), [Github](https://github.com/vahidzee), [LinkedIn](https://linkedin.com/in/vahidzee), [Google Scholar](https://scholar.google.com/citations?user=5Orm8YIAAAAJ),
+**Links**: [CV](https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing){: icon="fa-solid fa-file-pdf" }, [Github](https://github.com/vahidzee), [LinkedIn](https://linkedin.com/in/vahidzee), [Google Scholar](https://scholar.google.com/citations?user=5Orm8YIAAAAJ),
 [Personal Email](mailto:vahid98zee@gmail.com)
