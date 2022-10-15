@@ -1,8 +1,6 @@
 nav:
   fixed:
-    - link: https://drive.google.com/file/d/1-5Ntsu0_jq0HfrEkmGTFiLIkuqCZMMuh/view?usp=sharing
-      text: CV
-    - link: 'mailto:vahid98zee@gmail.com'
+    - link: 'mailto:vahid@zehtab.me'
       text: Email
     - link: 'https://linkedin.com/in/vahidzee'
       text: LinkedIn
