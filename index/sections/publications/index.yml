@@ -22,30 +22,17 @@ publications:
     tags: |
       [Website](https://vita-epfl.github.io/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fas fa-globe" }
       [Code](https://github.com/vita-epfl/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fab fa-github" }
-      [arXiv](https://arxiv.org/abs/2110.03706){: class="hover-shadow btn btn-light btn-sm rounded-pill" }
-
-  faceantispoof2021:
-    title: |
-      Investigating the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization <small class="d-inline-block ms-auto">(In Progress)</small>
-    authors:
-      - me: <u>Zehtab, V.</u><sup>*</sup>
-      - name: Shariat, K.<sup>*</sup>
-        link: https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir
-      - name: Eftekhar, A.<sup>*</sup>
-        link: https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir
-      - name: Rohban, M.H.
-        link: http://sharif.ir/~rohban/
-      - name: Manzuri Shalmani, M.T.
-        link: http://sharif.ir/~manzuri/
-    authors_notes: <sup>*</sup>Equal contribution, List is still tentative
+      [arXiv](https://arxiv.org/abs/2110.03706){: class="hover-shadow btn btn-light btn-sm rounded-pill" }_notes: <sup>*</sup>Equal contribution, List is still tentative
 
   ebad2021:
     title: |
-      EBAD: Energy-Based Anomaly Detection <small class="d-inline-block ms-auto">(In Progress)</small>
+      Anomaly Detection via Explicit Density Estimation <small class="d-inline-block ms-auto">(Bachelor's thesis)</small>
     authors:
-      - me: <u>Zehtab, V.</u>
+      - me: <u>Zehtab, V.</u><sup>*</sup>
+      - name: Shariat, K.<sup>*</sup>
+        link: https://www.linkedin.com/in/kourosh-shariat-3711741b0
       - name: Rohban, M.H.
         link: http://sharif.ir/~rohban/
 #    tags: |
 #      [Code](https://github.com/vahidzee/ebad){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fab fa-github" }
-    authors_notes: List is still tentative
+    authors_notes: <sup>*</sup>Equal contribution as first Author

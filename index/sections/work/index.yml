@@ -10,52 +10,20 @@ work:
     heading_details: Machine Learning Engineer
     heading_tag: Jun. 2020 - Mar. 2021
     content: |
-      In June 2020, I was approached by the Advanced Technology Lab (a.k.a ZLAB) of Fanap holdings, 
-      a well-known mother administrative corporation in charge of many of Iran's tech and financial giants like 
-      [Arvan Cloud](https://www.arvancloud.com/en) and [Pasargad Electronic Payment](https://pep.co.ir/en/). ZLAB is Fanap's most advanced Research and Development 
-      laboratory and one of (if not) the most productive industrial labs in applied Machine Learning in Iran.
-
-      I mainly worked on a collaborative project with [Neshan](https://neshan.org/#about), Iran's most widely used navigation platform. 
-      During this project, I **created a novel Satellite and Aerial Imagery super-resolution model capable of 
-      upsampling urban maps up to 8 times their original resolution**. My other projects include, **designing a commercial GPU sharing 
-      platform** to provide high-level decentralization abstraction to Deep Learning training procedures. I also 
-      **created a generic object-oriented deep training and prototyping framework** for highly complex and fully automated 
-      robust training and evaluation procedures focusing on the separation of deep architecture design with model
-      initialization and hyperparameters, and the reusability of training algorithms regardless of the data or
-      model at hand. 
-
-      I also consulted in other projects, such as generating Persian carpet patterns with GANs and 
-      the AI Platform as a Service projects.
+      - Designed and developed a novel satellite and aerial imagery super-resolution model for urban maps
+      - Designed and implemented a generic composable deep learning training and prototyping framework
   cafebazaar:
     heading: <a href="https://cafebazaar.ir/about?l=en" class="text-dark">Cafebazaar</a>
     heading_details: Chaos Engineering Intern
     heading_tag: Jul. - Oct. 2019 • <a href="mailto:vahidzee@cafebazaar.ir">Email</a>
     content: |
-      After about a month of prep and intense interviews, in July 2019, I got accepted to 
-      join Cafebazaar as a Chaos Engineering Intern out of over a thousand applicants 
-      from all backgrounds and ages. Cafebazaar, the largest Android marketplace 
-      platform in Iran, is a nation-famous tech giant with a userbase of near 50 
-      million. During the summer of 2019, I was one of the youngest software 
-      engineers working there. 
-
-      My job was to simulate both internal and external chaotic scenarios and to create
-      monitoring and prevention systems. To this end, I helped **develop a 
-      Kubernetes node failure simulator** and **designed a monitoring system for
-      intra-cluster networks**. I then **created a decentralized pipeline for 
-      heavy user-activity simulations**, which employed the statistical structure 
-      of Cafebazaar's exposed APIs and controlled DDOS attacks to mimic similar user 
-      behaviors. My codes were deployed and put to use by the end of the summer when I 
-      left Cafebazaar to focus AI related subjects.
+      - Implemented a Kubernetes cluster node failure simulator and designed a cluster monitoring system for internal experiments
+      - Designed and implemented a novel decentralized load-tester based on the company's true user-behavior data
   pido:
     heading: Pido
     heading_details: Computer Vision Engineer
     heading_tag: Jun. 2018 - Jun. 2019
     content: |
-      In June 2018, I joined a start-up called Pido, one of the largest Fuel Delivery companies 
-      in the Middle East, with my dear friend [Mr. Soroush Farghadani](http://farghadani.me/). 
-      Our work was mainly on a collaboration project between Pido and [PEC](https://en.pec.ir/), 
-      a primary Payment Service Provider in Iran. We **developed a method to scan Persian and 
-      English debit cards and extract their information** and **proposed a 
-      novel algorithm to mitigate the effects of arbitrary illumination environments** in 
-      removing the digits' backgrounds for better Optical Character Recognition performance.
+      - Implemented an efficiently accurate solution for extracting bilingual (Farsi and English) information from Iranian debit card scans
+
   
