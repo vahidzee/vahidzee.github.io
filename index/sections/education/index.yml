@@ -9,7 +9,7 @@ education:
     heading_details: <a class="text-dark" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
     heading_tag: Sep. 2022 - Expected Dec. 2023 • <a href="mailto:zehtab@cs.toronto.edu">Email</a>
     patch-content: index/sections/education/uoft.md
-  sharif: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+  sharif: 
     heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading_details: B.Sc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
     heading_tag: Sep. 2017 - Jun. 2022 • <a href="mailto:veezee@ce.sharif.edu">Email</a>
