@@ -1,5 +1,19 @@
+header:
+  description: "**Teaching Assistantship Experiences at Sharif University of Technology**"
+nav:
+  content:
+    - index: index/index
+      text: Go Back
+preface:
+  label: false
+  content: |
+    The following is a chronological list of my teaching assistantship experiences at Sharif University of Technology, and the details of my
+    responsibilities and contributions to the courses I have been involved in. I have been a teaching assistant for a total of 12 courses, in 19 separate offerings.
+    I have been privilaged to teach and assist in a wide range of courses, from introductory undergraduate courses to graduate courses, and I am
+    more than grateful for the opportunity to have been able to work with such a diverse set of students and instructors.
+
 teaching:
-  label: Teaching Experience
+  label: false
   template:
     template: templates/inline-experience.html
     apply: whole
@@ -8,7 +22,6 @@ teaching:
       Privacy in Machine Learning <small class="d-inline-block ms-auto">(Graduate Course)</small>
     heading_details: |
       <small>Sharif University of Technology, Instructors: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a> & <a href="https://amsadeghzadeh.github.io/">Dr. A.M. Sadeghzadeh</a></small>
-    notes: Course starts from Nov.
     tags: <small>Fall 2021</small>
     content: |
       Designer and grader of Deep Learning Adversarial Robustness assignments. Instructor for the practical workshops.
@@ -34,16 +47,15 @@ teaching:
     content: |
       Designed and graded Deep Learning assignments focusing on the theoretical foundations of DL. Instructed DL workshops.
 
-
   sharif_air:
     heading: |
-      Advanced Information Retrieval 
+      Advanced Information Retrieval
     heading_details: |
       <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a></small>
     tags: <small>Spring 2021</small>
     content: |
       Lead and designed the applied ML course project, Instructed the ML recitation class, Curated a roadmap for ML pipelines in information retrieval systems in Farsi and motivated educational content creation to cover other course topics.
-  
+
   sharif_ai_soleymani:
     heading: |
       Artificial Intelligence
@@ -61,7 +73,7 @@ teaching:
     tags: <small>Fall 2020</small>
     content: |
       Designed and graded the Fourier and Linear Algebra applied to Computer Vision assignment.
-  
+
   sharif_probstat:
     heading: |
       Probability & Statistics
@@ -90,9 +102,8 @@ teaching:
       Instructed practical workshops. Designed and graded quizes.
 
   sharif_csl:
-    more: Older Teaching Experience
     heading: |
-      Computer Structure & Language 
+      Computer Structure & Language
     heading_details: |
       <small>Sharif University of Technology, Instructor: <a href="https://ir.linkedin.com/in/laleh-arshadi-3042b6163">Dr. L. Arshadi</a></small>
     tags: <small>Spring & Fall 2020</small>
@@ -110,7 +121,7 @@ teaching:
 
   sharif_ap:
     heading: |
-      Advanced Programming
+      Advanced Programming <small class="secondary">(in Java)</small>
     heading_details: |
       <small>Sharif University of Technology, Instructors: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a> & <a href="https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir">Dr. M. Mostafazadeh</a></small>
     tags: <small>Spring & Fall 2019</small>
@@ -119,7 +130,7 @@ teaching:
 
   sharif_fop:
     heading: |
-      Programming
+      Introduction to Programming <small class="secondary">(in C)</small>
     heading_details: |
       <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/~mahdi/">Dr. M. Soltani</a></small>
     tags: <small>Spring 2018</small>

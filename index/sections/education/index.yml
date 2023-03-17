@@ -1,21 +1,21 @@
 education:
   label: Education
   sub-label: false
-  template: 
+  template:
     template: templates/experience.html
     apply: whole
   uoft:
-    heading: <a href="https://www.utoronto.ca/" class="text-dark">University of Toronto</a> 
-    heading_details: <a class="text-dark" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
+    heading_details: <a href="https://www.utoronto.ca/" class="text-dark">University of Toronto</a>
+    heading: <a class="text-dark" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
     heading_tag: Sep. 2022 - Expected Dec. 2023 • <a href="mailto:zehtab@cs.toronto.edu">Email</a>
     patch-content: index/sections/education/uoft.md
-  sharif: 
-    heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
-    heading_details: B.Sc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
+  sharif:
+    heading_details: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    heading: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
     heading_tag: Sep. 2017 - Jun. 2022 • <a href="mailto:veezee@ce.sharif.edu">Email</a>
     patch-content: index/sections/education/sharif.md
   rouzbeh:
-    heading: <a href="https://rouzbeh.info/about" class="text-dark">Rouzbeh Educational Complex</a>
-    heading_details: Diploma in Mathematics and Physics
+    heading_details: <a href="https://rouzbeh.info/about" class="text-dark">Rouzbeh Educational Complex</a>
+    heading: Diploma in Mathematics and Physics
     heading_tag: Sep. 2013 - May 2017 • <a href="mailto:zahtab.v@Rouzbeh.info">Email</a>
     content: "* Graduated top student, **Diploma GPA**: 19.68/20"

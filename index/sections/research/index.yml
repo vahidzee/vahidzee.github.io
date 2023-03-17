@@ -1,20 +1,30 @@
 research:
   label: Research Experience
   sub-label: false
-  template: 
+  template:
     template: templates/experience.html
     apply: whole
-  
+  vector:
+    heading: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a>
+    heading_details: |
+      <small>Supervised by: <a href="http://www.cs.toronto.edu/~rahulgk/index.html">Rahul G. Krishnan</a></small>
+    heading_tag: Oct. 2022 - Present
+    content: |
+      - Studying the potential of diffusion processes and score-based models in stabilizing the learning of deep causal structures
+      - Co-developed a fully differentiable Bayesian approach for causal structure discovery and causal order discovery
+      - Developed [DyPy](https://github.com/vahidzee/dypy) & [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox) for fast implementation of complex deep learning research experiments
+
   rohban_lab:
-    heading:  <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading_details: |
       <small>Supervised by: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a></small>
     heading_tag: Dec. 2019 - Jul. 2022
     content: |
-      - Studying the potential of diffusion processes and score-based models in stabilizing the learning of deep causal structures
-      - Co-developed a fully differentiable Bayesian approach for causal structure discovery and causal order discovery
-      - Developed [DyPy](https://github.com/vahidzee/dypy) & [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox)for fast implementation of complex deep learning research experiments
-  nads: 
+      - Conducted a literature review on deep probabilistic model and deep generative models and deep anomaly detection
+      - Assessed the potential of various repurposed generative models in image anomaly detection
+      - Developed a novel deep training procedure for anomaly detection using explicit density estimation while learning a latent space 
+      - Developed [TorchDE](https://github.com/vahidzee/torchde), a unified pytorch library for deep density estimation
+  nads:
     heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
     heading_details: <small>Co-supervised by the <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> Labs</small>
     heading_tag: Feb. 2021 - Sep. 2021
@@ -22,11 +32,10 @@ research:
       - Conducted a literature review on the theoretical foundations of deep learning and non-convolutional vision neural networks
       - Working under two PhD students, studied the directional inductive bias of vision transformer network architectures
   vita:
-    heading:  <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
+    heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
     heading_details: |
       <small>Supervised by <a href="https://www.epfl.ch/labs/vita/">VITA</a> lab</small>
     heading_tag: Jul. 2020 - Dec. 2020
     content: |
       - Assessed the state-of-the-art vehicle trajectory prediction models’ explainability and reliance on different scene-data priors
       - Explored NLP methods to embrace input sparsity using generic SVG-based inputs in vehicle trajectory prediction models
-   

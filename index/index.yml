@@ -1,12 +1,7 @@
 title: Vahid Zehtab
-
-header:
-  title: Vahid Zehtab
-  description: |
-    *My personal blog and online résumé!*
 #patch-meta:   index/meta.yml
 patch-config: index/config.yml
-patch-nav:    index/nav.yml
+patch-nav: index/nav.yml
 
 search:
   links: true
@@ -16,20 +11,7 @@ bio:
   label: About Me
   patch-content: index/sections/bio.md
 
-patch-publication: index/sections/publications/index.yml
 patch-education: index/sections/education/index.yml
 patch-research: index/sections/research/index.yml
 patch-work: index/sections/work/index.yml
-patch-skills: index/sections/skills/index.yml
-patch-teaching: index/sections/teaching/index.yml
-patch-other: index/sections/other/index.yml
-# patch-projects: index/sections/projects/index.yml
-# patch-skills: index/sections/skills/index.yml
-
-
-
-
-
-
-
-
+patch-publication: index/sections/publications/index.yml

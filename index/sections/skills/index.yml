@@ -1,9 +1,5 @@
 skills:
   label: Skills
-  leading:
-    label: Leadership and Management
-    content: |
-      From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
   technical:
     label: Technical Skills
     patch: index/sections/skills/technical.md

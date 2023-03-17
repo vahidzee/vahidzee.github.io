@@ -1,0 +1,19 @@
+svgnet2021:
+    title: "SVG-Net: An SVG-Based Trajectory Prediction Model"
+    authors:
+      - name: <span class="text-secondary">Bahari, M.</span>
+        link: https://people.epfl.ch/mohammadhossein.bahari/?lang=en
+      - me: <u>Zehtab, V.</u><sup>*</sup>
+      - name: Khorasani, S.<sup>*</sup>
+        link: https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir
+      - name: Ayromlou, S.<sup>*</sup>
+        link: https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir
+      - name: Saadatnejad, S.
+        link: https://people.epfl.ch/saeed.saadatnejad?lang=en
+      - name: Alahi, A.
+        link: https://people.epfl.ch/alexandre.alahi?lang=en
+    authors_notes: <sup>*</sup>Equal contribution as 2nd Author
+    tags: |
+      [Website](https://vita-epfl.github.io/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fas fa-globe" }
+      [Code](https://github.com/vita-epfl/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fab fa-github" }
+      [arXiv](https://arxiv.org/abs/2110.03706){: class="hover-shadow btn btn-light btn-sm rounded-pill" }
