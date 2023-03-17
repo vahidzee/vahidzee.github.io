@@ -58,45 +58,51 @@ publications:
     true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
     \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
     true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
-    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a></p></div>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Investigating\
-    \ the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization\
-    \ <small class=\"d-inline-block ms-auto\">(In Progress)</small>\n</div>\n<div\
-    \ class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
-    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0/?originalSubdomain=ir\"\
-    >\n                Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://www.linkedin.com/in/ainaz-eftekhar-030552171/?originalSubdomain=ir\"\
-    >\n                Eftekhar, A.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>,\n   \
-    \         \n            <a class=\"text-secondary\" href=\"http://sharif.ir/~manzuri/\"\
-    >\n                Manzuri Shalmani, M.T.</a>\n<span class=\"d-inline-block text-secondary\
-    \ small\">\u2014<sup>*</sup>Equal contribution, List is still tentative</span>\n\
-    </div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
-    row m-0 p-0\">\n<div class=\"col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\"\
-    >EBAD: Energy-Based Anomaly Detection <small class=\"d-inline-block ms-auto\"\
-    >(In Progress)</small>\n</div>\n<div class=\"small d-inline-block\">\n<span class=\"\
-    text-dark\">\n<u>Zehtab, V.</u></span>,\n            \n            <a class=\"\
-    text-secondary\" href=\"http://sharif.ir/~rohban/\">\n                Rohban,\
-    \ M.H.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014List is\
-    \ still tentative</span>\n</div>\n</div>\n</div>\n</div>"
+    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a>_notes:\
+    \ <sup>*</sup>Equal contribution, List is still tentative</p></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"\
+    col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Anomaly Detection via Explicit\
+    \ Density Estimation <small class=\"d-inline-block ms-auto\">(Bachelor's thesis)</small>\n\
+    </div>\n<div class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab,\
+    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0\">\n          \
+    \      Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>\n<span\
+    \ class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal contribution\
+    \ as first Author</span>\n</div>\n</div>\n</div>\n</div>"
   label: Publications
 education:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://www.utoronto.ca/\">University of Toronto</a></h5>\n<p class=\"\
+    text-center mb-0 fw-light\"><a class=\"text-dark\" href=\"https://mscac.utoronto.ca/\"\
+    >MSc. in Applied Computing</a></p>\n<p class=\"text-muted text-center small\"\
+    >Sep. 2022 - Expected Dec. 2023 \u2022 <a href=\"mailto:zehtab@cs.toronto.edu\"\
+    >Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span \"=\"\"\
+    \ csc2541-2022.github.io=\"\" data-bs-placement=\"top\" data-bs-toggle=\"tooltip\"\
+    \ https:=\"\" style=\"cursor: pointer;\" title=\"Cumulative GPA&gt;&lt;strong&gt;CGPA&lt;/strong&gt;&lt;/span&gt;:\
+    \ 4.0/4&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Courses&lt;/strong&gt;: \n    &lt;a\
+    \ href=\">Introduction to Causality <small class=\"text-secondary\">(A+)</small>,\
+    \ \n    <a href=\"https://sites.google.com/view/mat1510/fall-2022\">Deep Learning:\
+    \ Theory &amp; Datascience</a> <small class=\"text-secondary\">(A+)</small>,\n\
+    \    <a href=\"https://uoft-csc413.github.io/2023/\">Neural Networks &amp; Deep\
+    \ Learning</a>,\n    <a href=\"https://shuiblue.github.io/UofT-ECE1785-EmpiricalSE/\"\
+    >Empirical Software Engineering</a></span></li>\n</ul></div>\n</div>\n<hr class=\"\
+    row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
     \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\">B.Sc in <a class=\"text-dark\" href=\"\
+    <p class=\"text-center mb-0 fw-light\">B.Sc. in <a class=\"text-dark\" href=\"\
     http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted text-center\
-    \ small\">Sep. 2017 - Expected Aug. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
+    \ small\">Sep. 2017 - Jun. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
     >Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA as of Oct. 2021\"><strong>CGPA</strong></span>: \n  18.60/20 <small class=\"\
-    text-secondary\">(124/140 credits)</small>, \n  <strong><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" text-secondary\"=\"\
+    \" title=\"Cumulative GPA&gt;&lt;strong&gt;CGPA&lt;/strong&gt;&lt;/span&gt;: \n\
+    \  18.64/20 &lt;small class=\">(141/140 credits), \n  <strong><span data-bs-placement=\"\
     top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
     \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
     \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
     cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
-    \ 2 Years' CGPA</span></strong>: 19.50/20</li>\n<li><strong>Selected Courses</strong>\
+    \ 2 Years' CGPA</span></strong>: 19.50/20</span></li>\n<li><strong>Selected Courses</strong>\
     \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
     \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
     \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\
@@ -115,100 +121,36 @@ research:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
     \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Co-supervised by: <a href=\"http://sharif.ir/~rohban/\"\
-    >Prof. M.H. Rohban</a> &amp; <a href=\"http://sharif.ir/~manzuri/\">M.T. Manzuri</a></small>\n\
-    </p>\n<p class=\"text-muted text-center small\">Sep. 2021 - Present</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><p>From September 2021, I started researching why\
-    \ Deep solutions for Face-Anti Spoofing problems don't\nusually generalize to\
-    \ similar but unseen datasets under the supervision of Prof. Rohban and Prof.\
-    \ Manzuri as a part\nof my undergraduate thesis. Our results show that the problem\
-    \ framework of anomaly detection seems like a more robust way for recognizing\n\
-    bonafide inputs (under OOD anomalies at test time) and hence a better solution\
-    \ to mitigate the inter-domain generalization deficit of current approaches.\n\
-    We are currently investigating the roots for such an observation from the perspective\
-    \ of other well-established\nclose fronts in Machine Learning, such as Domain\
-    \ Adaptation and Meta-Learning, and curating our results into a paper \"Investigating\
-    \ the shortcomings of Deep Face Anti-Spoofing Methods in Inter-Domain Generalization.\"\
-    </p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\"><a class=\"text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique\
+    <p class=\"text-center mb-0 fw-light\"><small>Supervised by: <a href=\"http://sharif.ir/~rohban/\"\
+    >Prof. M.H. Rohban</a></small>\n</p>\n<p class=\"text-muted text-center small\"\
+    >Dec. 2019 - Jul. 2022</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Studying\
+    \ the potential of diffusion processes and score-based models in stabilizing the\
+    \ learning of deep causal structures</li>\n<li>Co-developed a fully differentiable\
+    \ Bayesian approach for causal structure discovery and causal order discovery</li>\n\
+    <li>Developed <a href=\"https://github.com/vahidzee/dypy\">DyPy</a> &amp; <a href=\"\
+    https://github.com/vahidzee/lightning-toolbox\">Lightning-Toolbox</a>for fast\
+    \ implementation of complex deep learning research experiments</li>\n</ul></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique\
     \ F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
     ><small>Co-supervised by the <a href=\"https://www.epfl.ch/labs/lts4/\">LTS4</a>\
     \ &amp; <a href=\"https://www.epfl.ch/labs/mlo/\">MLO</a> Labs</small></p>\n<p\
     \ class=\"text-muted text-center small\">Feb. 2021 - Sep. 2021</p>\n</div>\n<div\
-    \ class=\"col-12 col-md-8\"><p>In February 2021, I started collaborating with\
-    \ the LTS4 and MLO labs at EPFL.\nI was fortunate to have <a href=\"https://gortizji.github.io/\"\
-    >Guillermo Ortiz-Jim\xE9nez</a> and <a href=\"http://jbcordonnier.com/\">Jean-Baptiste\
-    \ Cordonnier</a> as my\nresearch supervisors. Our research intended to answer\
-    \ whether Vision transformers have a directional\ninductive bias and how it changed\
-    \ in various ViT architectures or during the training dynamics of the network.\n\
-    As it was my first serious exposure to statistical learning theory and the mathematical\
-    \ foundations of deep\nlearning, I consulted several related textbooks and audited\
-    \ some related courses before summer. When I felt\ncomfortable with the math,\
-    \ I conducted a literature review for both Vision transformers and the more recent\n\
-    theoretical findings in deep learning.</p>\n<p>During the summer, we started our\
-    \ research by investigating a primary vision transformer as our baseline.\nOur\
-    \ results suggested that pure ViTs do not have any directional inductive bias,\
-    \ except for the DC component,\nwhich was already discussed in the literature.\
-    \ After thoroughly investigating how the <a href=\"https://arxiv.org/abs/2006.09717\"\
-    >NADs</a> of different ViT\narchitectures change, we found that the only thing\
-    \ affecting their NADs' spectrum is the kind of positional\nbias applied in the\
-    \ transformer layers. Although some exciting structures emerged in the first NADs\
-    \ components,\nunfortunately, our results didn't show anything investigation worthy\
-    \ to publish. Despite the short period of this\ncollaboration, I believe this\
-    \ remote research experience is the most educational for me so far because it\n\
-    introduced me to the realm of theoretical research in deep learning. A PyTorch\
-    \ version of our code is available <a href=\"https://github.com/vahidzee/nads\"\
-    >here</a>.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n\
-    <div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center\
-    \ m-0 p-0\"><a class=\"text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique\
-    \ F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    ><small>Supervised by <a href=\"https://www.epfl.ch/labs/vita/\">VITA</a> lab</small>\n\
-    </p>\n<p class=\"text-muted text-center small\">Jul. 2020 - Dec. 2020</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><p>In the summer of 2020, I joined EPFL's VITA\
-    \ lab as a remote research assistant. I was lucky to have\n<a href=\"https://people.epfl.ch/alexandre.alahi?lang=en\"\
-    >Prof. Alexandre Alahi</a> as my supervisor while working with the great <a href=\"\
-    https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">Mohammadhossein Bahari</a>\
-    \ on reason-aware trajectory\nprediction models. We started by inquiring about\
-    \ the reasonability and explainability of the SOTA vehicle\ntrajectory prediction\
-    \ models. We conducted a thorough explanatory data analysis on the newly released\
-    \ <a href=\"https://level-5.global/data/\">Lyft\nLevel 5 dataset</a> and crossed\
-    \ checked SOTA raster-based solutions as a baseline for our investigations.\n\
-    Despite their good performance, we observed that these models were highly biased\
-    \ towards the training data\ndistribution and failed to reason under unaligned\
-    \ test distributions.</p>\n<p>We developed a new training objective to enforce\
-    \ more reasonable saliency maps through second-order\ngradient supervision. Our\
-    \ experiments revealed that the pixel-based input representations given the\n\
-    sparse structure of rasterized information were inherently problematic. So we\
-    \ began to explore other\nvectorized and standard formats, which led to our publication\
-    \ \"SVG-Net: An SVG-based Trajectory Prediction Model.\"</p></div>\n</div>\n<hr\
-    \ class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
-    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"\
-    text-dark\" href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Supervised by: <a href=\"http://sharif.ir/~rohban/\"\
-    >Prof. M.H. Rohban</a></small>\n</p>\n<p class=\"text-muted text-center small\"\
-    >Dec. 2019 - Present</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In December\
-    \ 2019, I joined the robust and interpretable at Sharif and started researching\
-    \ under the direct\nsupervision of Prof. Rohban. In a quest for non-generative\
-    \ unsupervised one-class OOD detectors, I\nreviewed the literature for probabilistic\
-    \ and deep generative models. Superficially, it seems reasonable to\nassume that\
-    \ an explicit deep probability estimator (EDPE) has the potential to be a good\
-    \ OOD detector. Still,\nour experiments with various iterations of Autoregressive\
-    \ models (PixelCNNs, MADEs, <a href=\"https://github.com/vahidzee/PixelCnnPP\"\
-    >codes</a>) proved useless and registered\nhigher densities for anomalies. Hence\
-    \ we turned to the literature on adversarial training to learn robust normal\n\
-    representations, but again, EDPEs proved to be hard to control.</p>\n<p>We developed\
-    \ a novel architecture and training procedure to train explicit deep probability\
-    \ estimators for one-class anomaly detection (AD)\nand by using off-the-shelf\
-    \ MADEs. We were able to achieve on par or better results than the SOTA. We also\
-    \ did a\nthorough investigation on why and when autoencoders and reconstruction-based\
-    \ AD solutions fail to scale (<a href=\"https://github.com/vahidzee/DRMADE\">codes</a>).\n\
-    We are now employing all our observations and the current advancements in training\
-    \ Energy-based models to\nenhance our method and publish our method in a paper\
-    \ \"EBAD: Energy-based Anomaly Detection\"  (<a href=\"https://github.com/vahidzee/ebad\"\
-    >codes</a>).</p>\n<p>In Parallel, I now co-lead the AD team. We are currently\
-    \ investigating the potential for continuous-depth\nnetworks and vector-quantization\
-    \ approaches to learn better normal representations.</p></div>\n</div>\n</div>"
+    \ class=\"col-12 col-md-8\"><ul>\n<li>Conducted a literature review on the theoretical\
+    \ foundations of deep learning and non-convolutional vision neural networks</li>\n\
+    <li>Working under two PhD students, studied the directional inductive bias of\
+    \ vision transformer network architectures</li>\n</ul></div>\n</div>\n<hr class=\"\
+    row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne\
+    \ (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"><small>Supervised by\
+    \ <a href=\"https://www.epfl.ch/labs/vita/\">VITA</a> lab</small>\n</p>\n<p class=\"\
+    text-muted text-center small\">Jul. 2020 - Dec. 2020</p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><ul>\n<li>Assessed the state-of-the-art vehicle trajectory prediction\
+    \ models\u2019 explainability and reliance on different scene-data priors</li>\n\
+    <li>Explored NLP methods to embrace input sparsity using generic SVG-based inputs\
+    \ in vehicle trajectory prediction models</li>\n</ul></div>\n</div>\n</div>"
   label: Research Experience
 work:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
@@ -217,58 +159,25 @@ work:
     \ class=\"text-secondary\" href=\"https://fanap.ir/\"> Fanap Co.</a></small>\n\
     </h5>\n<p class=\"text-center mb-0 fw-light\">Machine Learning Engineer</p>\n\
     <p class=\"text-muted text-center small\">Jun. 2020 - Mar. 2021</p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><p>In June 2020, I was approached by the Advanced\
-    \ Technology Lab (a.k.a ZLAB) of Fanap holdings, \na well-known mother administrative\
-    \ corporation in charge of many of Iran's tech and financial giants like \n<a\
-    \ href=\"https://www.arvancloud.com/en\">Arvan Cloud</a> and <a href=\"https://pep.co.ir/en/\"\
-    >Pasargad Electronic Payment</a>. ZLAB is Fanap's most advanced Research and Development\
-    \ \nlaboratory and one of (if not) the most productive industrial labs in applied\
-    \ Machine Learning in Iran.</p>\n<p>I mainly worked on a collaborative project\
-    \ with <a href=\"https://neshan.org/#about\">Neshan</a>, Iran's most widely used\
-    \ navigation platform. \nDuring this project, I <strong>created a novel Satellite\
-    \ and Aerial Imagery super-resolution model capable of \nupsampling urban maps\
-    \ up to 8 times their original resolution</strong>. My other projects include,\
-    \ <strong>designing a commercial GPU sharing \nplatform</strong> to provide high-level\
-    \ decentralization abstraction to Deep Learning training procedures. I also \n\
-    <strong>created a generic object-oriented deep training and prototyping framework</strong>\
-    \ for highly complex and fully automated \nrobust training and evaluation procedures\
-    \ focusing on the separation of deep architecture design with model\ninitialization\
-    \ and hyperparameters, and the reusability of training algorithms regardless of\
-    \ the data or\nmodel at hand. </p>\n<p>I also consulted in other projects, such\
-    \ as generating Persian carpet patterns with GANs and \nthe AI Platform as a Service\
-    \ projects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
-    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
-    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
+    <div class=\"col-12 col-md-8\"><ul>\n<li>Designed and developed a novel satellite\
+    \ and aerial imagery super-resolution model for urban maps</li>\n<li>Designed\
+    \ and implemented a generic composable deep learning training and prototyping\
+    \ framework</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
+    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
+    mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
     >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
     \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
     \ <a href=\"mailto:vahidzee@cafebazaar.ir\">Email</a></p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><p>After about a month of prep and intense interviews, in July\
-    \ 2019, I got accepted to \njoin Cafebazaar as a Chaos Engineering Intern out\
-    \ of over a thousand applicants \nfrom all backgrounds and ages. Cafebazaar, the\
-    \ largest Android marketplace \nplatform in Iran, is a nation-famous tech giant\
-    \ with a userbase of near 50 \nmillion. During the summer of 2019, I was one of\
-    \ the youngest software \nengineers working there. </p>\n<p>My job was to simulate\
-    \ both internal and external chaotic scenarios and to create\nmonitoring and prevention\
-    \ systems. To this end, I helped <strong>develop a \nKubernetes node failure simulator</strong>\
-    \ and <strong>designed a monitoring system for\nintra-cluster networks</strong>.\
-    \ I then <strong>created a decentralized pipeline for \nheavy user-activity simulations</strong>,\
-    \ which employed the statistical structure \nof Cafebazaar's exposed APIs and\
-    \ controlled DDOS attacks to mimic similar user \nbehaviors. My codes were deployed\
-    \ and put to use by the end of the summer when I \nleft Cafebazaar to focus AI\
-    \ related subjects.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
-    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
-    mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0 fw-light\">Computer\
-    \ Vision Engineer</p>\n<p class=\"text-muted text-center small\">Jun. 2018 - Jun.\
-    \ 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>In June 2018, I joined a\
-    \ start-up called Pido, one of the largest Fuel Delivery companies \nin the Middle\
-    \ East, with my dear friend <a href=\"http://farghadani.me/\">Mr. Soroush Farghadani</a>.\
-    \ \nOur work was mainly on a collaboration project between Pido and <a href=\"\
-    https://en.pec.ir/\">PEC</a>, \na primary Payment Service Provider in Iran. We\
-    \ <strong>developed a method to scan Persian and \nEnglish debit cards and extract\
-    \ their information</strong> and <strong>proposed a \nnovel algorithm to mitigate\
-    \ the effects of arbitrary illumination environments</strong> in \nremoving the\
-    \ digits' backgrounds for better Optical Character Recognition performance.</p></div>\n\
-    </div>\n</div>"
+    col-12 col-md-8\"><ul>\n<li>Implemented a Kubernetes cluster node failure simulator\
+    \ and designed a cluster monitoring system for internal experiments</li>\n<li>Designed\
+    \ and implemented a novel decentralized load-tester based on the company's true\
+    \ user-behavior data</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4\
+    \ p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
+    >\n<h5 class=\"mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0\
+    \ fw-light\">Computer Vision Engineer</p>\n<p class=\"text-muted text-center small\"\
+    >Jun. 2018 - Jun. 2019</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Implemented\
+    \ an efficiently accurate solution for extracting bilingual (Farsi and English)\
+    \ information from Iranian debit card scans</li>\n</ul></div>\n</div>\n</div>"
   label: Professional Experience
 skills:
   label: Skills
