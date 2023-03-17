@@ -3,7 +3,6 @@ nav:
   content:
   - index: index/index
     text: Go Back
-    description: "*My personal blog and online r\xE9sum\xE9!*\n"
     link: /
     kind: Index
 header:

@@ -1,7 +1,4 @@
 title: Vahid Zehtab
-header:
-  title: <p>Vahid Zehtab</p>
-  description: "<p><em>My personal blog and online r\xE9sum\xE9!</em></p>"
 config:
   google_analytics_id: G-CZL4QJSGXC
   search:
@@ -23,8 +20,8 @@ search:
 bio:
   label: About Me
   content: '<p><img alt="" class="rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-0
-    d-sm-inline mx-auto float-sm-start" height="150em" src="https://github.com/vahidzee.png"
-    width="150em"/>
+    d-sm-inline mx-auto float-sm-start" height="100em" src="https://github.com/vahidzee.png"
+    width="100em"/>
 
     Hi! This is Vahid! I am currently a Masters of Science in Applied Computing student
     at the CS Department of the University of Toronto. I enjoy researching both the
@@ -36,83 +33,53 @@ bio:
     Scholar</a>,
 
     <a href="mailto:vahid@zehtab.me">Personal Email</a></p>'
-publications:
-  content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net:\
-    \ An SVG-Based Trajectory Prediction Model <small class=\"d-inline-block ms-auto\"\
-    >(Submitted to <a class=\"text-reset\" href=\"https://www.icra2022.org/\">ICRA2022</a>)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<a class=\"text-secondary\" href=\"\
-    https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">\nBahari, M.</a>,\n \
-    \           \n            <span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
-    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
-    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
-    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
-    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
-    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
-    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
-    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
-    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
-    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
-    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
-    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
-    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a>_notes:\
-    \ <sup>*</sup>Equal contribution, List is still tentative</p></div>\n</div>\n\
-    <hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Anomaly Detection via Explicit\
-    \ Density Estimation <small class=\"d-inline-block ms-auto\">(Bachelor's thesis)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab,\
-    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0\">\n          \
-    \      Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
-    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>\n<span\
-    \ class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal contribution\
-    \ as first Author</span>\n</div>\n</div>\n</div>\n</div>"
-  label: Publications
 education:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"https://www.utoronto.ca/\">University of Toronto</a></h5>\n<p class=\"\
-    text-center mb-0 fw-light\"><a class=\"text-dark\" href=\"https://mscac.utoronto.ca/\"\
-    >MSc. in Applied Computing</a></p>\n<p class=\"text-muted text-center small\"\
-    >Sep. 2022 - Expected Dec. 2023 \u2022 <a href=\"mailto:zehtab@cs.toronto.edu\"\
-    >Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span \"=\"\"\
-    \ csc2541-2022.github.io=\"\" data-bs-placement=\"top\" data-bs-toggle=\"tooltip\"\
-    \ https:=\"\" style=\"cursor: pointer;\" title=\"Cumulative GPA&gt;&lt;strong&gt;CGPA&lt;/strong&gt;&lt;/span&gt;:\
-    \ 4.0/4&lt;/li&gt;\n&lt;li&gt;&lt;strong&gt;Courses&lt;/strong&gt;: \n    &lt;a\
-    \ href=\">Introduction to Causality <small class=\"text-secondary\">(A+)</small>,\
-    \ \n    <a href=\"https://sites.google.com/view/mat1510/fall-2022\">Deep Learning:\
+    \ href=\"https://mscac.utoronto.ca/\">MSc. in Applied Computing</a></h5>\n<p class=\"\
+    text-center mb-0 fw-light\"><a class=\"text-dark\" href=\"https://www.utoronto.ca/\"\
+    >University of Toronto</a></p>\n<p class=\"text-muted text-center small\">Sep.\
+    \ 2022 - Expected Dec. 2023 \u2022 <a href=\"mailto:zehtab@cs.toronto.edu\">Email</a></p>\n\
+    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><strong>Courses</strong> (<span\
+    \ data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\"\
+    \ title=\"Cumulative GPA as of Jan 2023\">CGPA</span>: 4.0<small>/4</small>):\
+    \ \n    <a class=\"text-dark\" href=\"https://csc2541-2022.github.io/\">Introduction\
+    \ to Causality</a> <small class=\"text-secondary\">(A+)</small>, \n    <a class=\"\
+    text-dark\" href=\"https://sites.google.com/view/mat1510/fall-2022\">Deep Learning:\
     \ Theory &amp; Datascience</a> <small class=\"text-secondary\">(A+)</small>,\n\
-    \    <a href=\"https://uoft-csc413.github.io/2023/\">Neural Networks &amp; Deep\
-    \ Learning</a>,\n    <a href=\"https://shuiblue.github.io/UofT-ECE1785-EmpiricalSE/\"\
-    >Empirical Software Engineering</a></span></li>\n</ul></div>\n</div>\n<hr class=\"\
-    row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"\
-    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\">B.Sc. in <a class=\"text-dark\" href=\"\
-    http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"text-muted text-center\
-    \ small\">Sep. 2017 - Jun. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
-    >Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" text-secondary\"=\"\
-    \" title=\"Cumulative GPA&gt;&lt;strong&gt;CGPA&lt;/strong&gt;&lt;/span&gt;: \n\
-    \  18.64/20 &lt;small class=\">(141/140 credits), \n  <strong><span data-bs-placement=\"\
-    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
-    \ GPA of Major Courses as of Oct. 2021\">Major CGPA</span></strong>: 19.00/20,\n\
-    \  <strong><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
-    cursor: pointer;\" title=\"Cumulative GPA of from Oct. 2019 to Oct. 2021\">Last\
-    \ 2 Years' CGPA</span></strong>: 19.50/20</span></li>\n<li><strong>Selected Courses</strong>\
-    \ (<a href=\"/index/sections/education/sharif-courses.html\">Courses</a>): \n\
+    \    <a class=\"text-dark\" href=\"https://uoft-csc413.github.io/2023/\">Neural\
+    \ Networks &amp; Deep Learning</a>,\n    <a class=\"text-dark\" href=\"https://shuiblue.github.io/UofT-ECE1785-EmpiricalSE/\"\
+    >Empirical Software Engineering</a></li>\n</ul></div>\n</div>\n<hr class=\"row\
+    \ mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12\
+    \ col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">BSc. in <a class=\"text-dark\"\
+    \ href=\"http://ce.sharif.edu/\">Computer Engineering</a></h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\">Sharif\
+    \ University of Technology</a></p>\n<p class=\"text-muted text-center small\"\
+    >Sep. 2017 - Jun. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\">Email</a></p>\n\
+    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"top\"\
+    \ data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA\"\
+    ><strong>CGPA</strong></span>: \n  18.64/20 <small class=\"text-secondary\">(3.8/4)</small>\
+    \ \n  \u2014\n  141/140 credits</li>\n<li><strong>Selected Courses</strong> (<a\
+    \ href=\"/index/sections/education/sharif-courses.html\">All Courses</a>): \n\
     \    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
     \ \n    Stochastic Processes  <small class=\"text-secondary\">(Math Dep.)</small>,\n\
     \    Artificial Intelligence, Linear Algebra, Signals &amp; Systems, Probability\
     \ and Statistics, Design of Algorithms, \n    Data Structures and Algorithms</li>\n\
+    <li><strong>Selected Teaching Assistantships</strong> (<a data-bs-html=\"true\"\
+    \ data-bs-toggle=\"tooltip\" href=\"/index/sections/education/sharif-ta.html\"\
+    \ title=\"&lt;p&gt;&lt;strong&gt;Teaching Assistantship Experiences at Sharif\
+    \ University of Technology&lt;/strong&gt;&lt;/p&gt;\">All TAships</a>): \n   \
+    \ Head TA of Artificial Intelligence <small class=\"text-secondary\">(Cross-appointed)</small>,\
+    \ supervised graduate TAs in Machine Learning Privacy <small class=\"text-secondary\"\
+    >(Graduate)</small>, tutored deep learning workshops in Machine Learning for Bioinformatics\
+    \ <small class=\"text-secondary\">(Graduate)</small>, in addition to TAing and\
+    \ tutoring recitation classes for undergraduate courses such Bioinformatics, Probability\
+    \ theory and Statistics, Linear Algebra, and Data structures and Algorithms.</li>\n\
     </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
     row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\"><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
-    \ Complex</a></h5>\n<p class=\"text-center mb-0 fw-light\">Diploma in Mathematics\
-    \ and Physics</p>\n<p class=\"text-muted text-center small\">Sep. 2013 - May 2017\
+    \ p-0\">Diploma in Mathematics and Physics</h5>\n<p class=\"text-center mb-0 fw-light\"\
+    ><a class=\"text-dark\" href=\"https://rouzbeh.info/about\">Rouzbeh Educational\
+    \ Complex</a></p>\n<p class=\"text-muted text-center small\">Sep. 2013 - May 2017\
     \ \u2022 <a href=\"mailto:zahtab.v@Rouzbeh.info\">Email</a></p>\n</div>\n<div\
     \ class=\"col-12 col-md-8\"><ul>\n<li>Graduated top student, <strong>Diploma GPA</strong>:\
     \ 19.68/20</li>\n</ul></div>\n</div>\n</div>"
@@ -120,37 +87,50 @@ education:
 research:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Supervised by: <a href=\"http://sharif.ir/~rohban/\"\
-    >Prof. M.H. Rohban</a></small>\n</p>\n<p class=\"text-muted text-center small\"\
-    >Dec. 2019 - Jul. 2022</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Studying\
+    \ href=\"https://vectorinstitute.ai/\">Vector Institute</a></h5>\n<p class=\"\
+    text-center mb-0 fw-light\"><small>Supervised by: <a href=\"http://www.cs.toronto.edu/~rahulgk/index.html\"\
+    >Rahul G. Krishnan</a></small>\n</p>\n<p class=\"text-muted text-center small\"\
+    >Oct. 2022 - Present</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Studying\
     \ the potential of diffusion processes and score-based models in stabilizing the\
     \ learning of deep causal structures</li>\n<li>Co-developed a fully differentiable\
     \ Bayesian approach for causal structure discovery and causal order discovery</li>\n\
     <li>Developed <a href=\"https://github.com/vahidzee/dypy\">DyPy</a> &amp; <a href=\"\
-    https://github.com/vahidzee/lightning-toolbox\">Lightning-Toolbox</a>for fast\
+    https://github.com/vahidzee/lightning-toolbox\">Lightning-Toolbox</a> for fast\
     \ implementation of complex deep learning research experiments</li>\n</ul></div>\n\
     </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
     >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
-    \ class=\"text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique\
-    \ F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
-    ><small>Co-supervised by the <a href=\"https://www.epfl.ch/labs/lts4/\">LTS4</a>\
-    \ &amp; <a href=\"https://www.epfl.ch/labs/mlo/\">MLO</a> Labs</small></p>\n<p\
-    \ class=\"text-muted text-center small\">Feb. 2021 - Sep. 2021</p>\n</div>\n<div\
-    \ class=\"col-12 col-md-8\"><ul>\n<li>Conducted a literature review on the theoretical\
-    \ foundations of deep learning and non-convolutional vision neural networks</li>\n\
-    <li>Working under two PhD students, studied the directional inductive bias of\
-    \ vision transformer network architectures</li>\n</ul></div>\n</div>\n<hr class=\"\
+    \ class=\"text-dark\" href=\"http://www.en.sharif.edu/\">Sharif University of\
+    \ Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"><small>Supervised\
+    \ by: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a></small>\n</p>\n\
+    <p class=\"text-muted text-center small\">Dec. 2019 - Jul. 2022</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li>Conducted a literature review on deep\
+    \ probabilistic model and deep generative models and deep anomaly detection</li>\n\
+    <li>Assessed the potential of various repurposed generative models in image anomaly\
+    \ detection</li>\n<li>Developed a novel deep training procedure for anomaly detection\
+    \ using explicit density estimation while learning a latent space </li>\n<li>Developed\
+    \ <a href=\"https://github.com/vahidzee/torchde\">TorchDE</a>, a unified pytorch\
+    \ library for deep density estimation</li>\n</ul></div>\n</div>\n<hr class=\"\
     row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
     \ href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne\
-    \ (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"><small>Supervised by\
-    \ <a href=\"https://www.epfl.ch/labs/vita/\">VITA</a> lab</small>\n</p>\n<p class=\"\
-    text-muted text-center small\">Jul. 2020 - Dec. 2020</p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li>Assessed the state-of-the-art vehicle trajectory prediction\
-    \ models\u2019 explainability and reliance on different scene-data priors</li>\n\
-    <li>Explored NLP methods to embrace input sparsity using generic SVG-based inputs\
-    \ in vehicle trajectory prediction models</li>\n</ul></div>\n</div>\n</div>"
+    \ (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"><small>Co-supervised\
+    \ by the <a href=\"https://www.epfl.ch/labs/lts4/\">LTS4</a> &amp; <a href=\"\
+    https://www.epfl.ch/labs/mlo/\">MLO</a> Labs</small></p>\n<p class=\"text-muted\
+    \ text-center small\">Feb. 2021 - Sep. 2021</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li>Conducted a literature review on the theoretical foundations of deep\
+    \ learning and non-convolutional vision neural networks</li>\n<li>Working under\
+    \ two PhD students, studied the directional inductive bias of vision transformer\
+    \ network architectures</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4\
+    \ p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
+    >\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://www.epfl.ch/en/\"\
+    >\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"\
+    text-center mb-0 fw-light\"><small>Supervised by <a href=\"https://www.epfl.ch/labs/vita/\"\
+    >VITA</a> lab</small>\n</p>\n<p class=\"text-muted text-center small\">Jul. 2020\
+    \ - Dec. 2020</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Assessed the\
+    \ state-of-the-art vehicle trajectory prediction models\u2019 explainability and\
+    \ reliance on different scene-data priors</li>\n<li>Explored NLP methods to embrace\
+    \ input sparsity using generic SVG-based inputs in vehicle trajectory prediction\
+    \ models</li>\n</ul></div>\n</div>\n</div>"
   label: Research Experience
 work:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
@@ -179,259 +159,37 @@ work:
     \ an efficiently accurate solution for extracting bilingual (Farsi and English)\
     \ information from Iranian debit card scans</li>\n</ul></div>\n</div>\n</div>"
   label: Professional Experience
-skills:
-  label: Skills
-  leading:
-    label: Leadership and Management
-    content: <p>From public speaking, to mentoring, to coordination of people and
-      events, I can lead in any context.</p>
-  technical:
-    label: Technical Skills
-    content: "<p><strong>General Programming Skills</strong>: \n  Python, C/C++, Java,\
-      \ R, Julia, JavaScript, Scheme, PHP, MIPS</p>\n<p><strong>Machine Learning Tools</strong>:\
-      \ Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), \n  SciPy\
-      \ (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR</p>\n<p><strong>Distribution\
-      \ &amp; Deployment Tools</strong>: Slurm, Kubernetes, Docker, GH Workflows</p>\n\
-      <p><strong>Data management &amp; Databases</strong>: MySQL, SQLite, PostgreSLQL,\
-      \ MongoDB, Redis</p>\n<p><strong>Web Development</strong>: Django, Flask, Vue.js,\
-      \ Jekyll, HTML/(S)CSS/Bootstrap</p>\n<p><strong>CAD Tools &amp; HDLs</strong>:\
-      \ Verilog, Quartus, ModelSim</p>\n<p><strong>Graphical Design Tools</strong>:\
-      \ Adobe Photoshop, Adobe Illustrator</p>\n<p><strong>Miscellaneous</strong>:\
-      \ Unix ecosystem familiarity, Git (Version Control), LaTex</p>"
-  languages:
-    label: Languages
-    content: "<p><strong>Farsi</strong>: Native, <strong>English</strong>: highly\
-      \ pro\uFB01cient <small class=\"text-secondary\">(TOEFL 112: R30, L29, S25,\
-      \ W28)</small>,\n<strong>Arabic</strong>: Elementary</p>"
-teaching:
+publications:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
-    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Privacy\
-    \ in Machine Learning <small class=\"d-inline-block ms-auto\">(Graduate Course)</small>\n\
-    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructors: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a> &amp;\
-    \ <a href=\"https://amsadeghzadeh.github.io/\">Dr. A.M. Sadeghzadeh</a></small>\n\
-    <span class=\"d-inline-block text-secondary small\">\u2014Course starts from Nov.</span>\n\
-    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
-    ><p><small>Fall 2021</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
-    \ mt-md-0\">\n<p>Designer and grader of Deep Learning Adversarial Robustness assignments.\
-    \ Instructor for the practical workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3\
-    \ mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0\
-    \ mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Artificial Intelligence <small\
-    \ class=\"d-inline-block ms-auto\">(Head Teaching Assistance)</small>\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a></small>\n\
-    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
-    ><p><small>Spring and Fall of 2020 &amp; 2021</small></p></div>\n</div>\n<div\
-    \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead and managed a group of +70 Grad\
-    \ &amp; Undergrad and Ph.D. TAs over the course of three semesters, \nDesigned\
-    \ the course syllabus and tracking toolkits, Authored AI supplementary materials\
-    \ and co-authored and reviewed course lecture notes \nand supplementary notebooks,\
-    \ Instructed practical workshops and recitation classes. \nDeveloped a content\
-    \ creation pipeline and created <a href=\"https://sut-ai.github.io\">Sharif's\
-    \ AI webpage</a>, the largest repository for Farsi and English AI content presented\
-    \ at Sharif University of Technology. \nDesigned and graded assignments and exams.</p>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
-    \ p-0\">Machine Learning for Bioinformatics <small class=\"d-inline-block ms-auto\"\
-    >(Graduate Course)</small>\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
-    \ University of Technology, Instructors: <a href=\"http://sharif.edu/~soleymani/\"\
-    >Prof. M. Soleymani</a> &amp; <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\"\
-    >Prof. A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><small>Spring 2021</small></p></div>\n\
-    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded Deep\
-    \ Learning assignments focusing on the theoretical foundations of DL. Instructed\
-    \ DL workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
-    row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5\
-    \ mb-0 text-left m-0 p-0\">Advanced Information Retrieval \n</div>\n<div class=\"\
-    small d-inline-block\">\n<small>Sharif University of Technology, Instructor: <a\
-    \ href=\"http://sharif.edu/~soleymani/\">Prof. M. Soleymani</a></small>\n</div>\n\
-    </div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"><p><small>Spring\
-    \ 2021</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead\
-    \ and designed the applied ML course project, Instructed the ML recitation class,\
-    \ Curated a roadmap for ML pipelines in information retrieval systems in Farsi\
-    \ and motivated educational content creation to cover other course topics.</p>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
-    \ p-0\">Artificial Intelligence\n</div>\n<div class=\"small d-inline-block\">\n\
-    <small>Sharif University of Technology, Instructor: <a href=\"http://sharif.edu/~soleymani/\"\
-    >Prof. M. Soleymani</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
-    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded the Temporal\
-    \ Probability Models assignment. Instructed its recitation.</p>\n</div>\n<hr class=\"\
-    row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9\
-    \ mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Linear Algebra\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"http://sharif.edu/~rabiee/\">Prof. H. Rabiee</a></small>\n\
-    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
-    ><p><small>Fall 2020</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
-    \ mt-md-0\">\n<p>Designed and graded the Fourier and Linear Algebra applied to\
-    \ Computer Vision assignment.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"\
-    />\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
-    <div class=\"h5 mb-0 text-left m-0 p-0\">Probability &amp; Statistics\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\">Prof.\
-    \ A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
-    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded assignments,\
-    \ quizes, and final exams.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n\
-    <div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div\
-    \ class=\"h5 mb-0 text-left m-0 p-0\">Introduction to Bioinformatics\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\">Prof.\
-    \ A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
-    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded assignments.\
-    \ Instructed practical workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5\
+    col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Anomaly Detection via Explicit\
+    \ Density Estimation <small class=\"d-inline-block ms-auto\">(Bachelor's thesis)</small>\n\
+    </div>\n<div class=\"small d-inline-block\">\n<span class=\"text-dark\">\n<u>Zehtab,\
+    \ V.</u><sup>*</sup></span>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://www.linkedin.com/in/kourosh-shariat-3711741b0\">\n          \
+    \      Shariat, K.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"http://sharif.ir/~rohban/\">\n                Rohban, M.H.</a>\n<span\
+    \ class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal contribution\
+    \ as first Author</span>\n</div>\n</div>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5\
     \ p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\"\
-    >\n<div class=\"h5 mb-0 text-left m-0 p-0\">Data Structures and Algorithms\n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"https://scholar.google.com/citations?user=TNfL9SIAAAAJ&amp;hl=en\"\
-    >Dr. M. Safarnejad-Boroujeni</a></small>\n</div>\n</div>\n<div class=\"col-12\
-    \ col-md-3 text-center align-middle m-auto\"><p><small>Fall 2019 &amp; Spring\
-    \ 2020</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed\
-    \ practical workshops. Designed and graded quizes.</p>\n</div>\n<hr class=\"row\
-    \ mb-3 mt-3 mx-5 p-0\"/>\n<details><summary>Older Teaching Experience</summary>\n\
-    <div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div\
-    \ class=\"h5 mb-0 text-left m-0 p-0\">Computer Structure &amp; Language \n</div>\n\
-    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"https://ir.linkedin.com/in/laleh-arshadi-3042b6163\">Dr.\
-    \ L. Arshadi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
-    \ align-middle m-auto\"><p><small>Spring &amp; Fall 2020</small></p></div>\n</div>\n\
-    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded MIPS assembly\
-    \ assignment. Graded Memory Hierarchy assignments.</p>\n</div>\n<hr class=\"row\
-    \ mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9\
-    \ mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Web Programming\n\
-    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
-    \ Instructor: <a href=\"https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir\"\
-    >B. Hatami</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
-    \ align-middle m-auto\"><p><small>Fall 2019</small></p></div>\n</div>\n<div class=\"\
-    row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded the course project.</p>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
-    \ p-0\">Advanced Programming\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
-    \ University of Technology, Instructors: <a href=\"https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir\"\
-    >B. Hatami</a> &amp; <a href=\"https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir\"\
-    >Dr. M. Mostafazadeh</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
-    \ text-center align-middle m-auto\"><p><small>Spring &amp; Fall 2019</small></p></div>\n\
-    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Mentored project teams. Instructed\
-    \ recitation classes. Designed and graded assginments and mini-projects.</p>\n\
-    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
-    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
-    \ p-0\">Programming\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
-    \ University of Technology, Instructor: <a href=\"http://ce.sharif.edu/~mahdi/\"\
-    >Dr. M. Soltani</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
-    \ align-middle m-auto\"><p><small>Spring 2018</small></p></div>\n</div>\n<div\
-    \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed recitation classes. Designed\
-    \ and graded the course project.</p>\n</div>\n</details>\n</div>"
-  label: Teaching Experience
-academic_serv:
-  content: '<div class="container-fluid">
-
-    <div class="row my-0">
-
-    <div class="col-12 col-md-4">
-
-    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://challenge.datadays.ir">Datadays
-    2021</a></h5>
-
-    <p class="text-center mb-0 fw-light">Head of Scientific Team</p>
-
-    <p class="text-muted text-center small"></p>
-
-    </div>
-
-    <div class="col-12 col-md-8"><p>DataDays was <strong>the First and Still the Largest
-    National Data Scientific Competition</strong> held annually by Sharif University
-    of Technology.
-
-    Its main goal is to broaden the appeal for working on data-driven problems. In
-    essence, Datadays is a large-scale attempt at assessing
-
-    data science knowledge in Iran and improving it.</p>
-
-    <p>Every year, a group of volunteer data science experts gathers around to create
-    and hold Datadays. I had the
-
-    pleasure to lead the 2021''s Datadays team, a diverse international group of Iranian
-    Machine Learning and data
-
-    science academic and industrial experts. After intense negotiations with various
-    tech giants and startups in Iran,
-
-    <a href="https://torob.ir/">Torob.ir</a>, an emerging product searching platform,
-    joined us as our sponsor. After weeks
-
-    of preparations, we developed a data-driven challenge around Torob''s search logs
-    to recommend new products given a raw query.</p>
-
-    <p>To teach our participants about the fundamental concepts regarding Machine
-    Learning and Recommender Systems, I authored a roadmap and
-
-    led the scientific staff in creating Persian Educational notebooks. I also started
-    a talk series and organized workshops by
-
-    inviting tech and academic experts. To host the competition, I led the talks with
-    <a href="https://roboepics.com/">RoboEpics</a>, a Kaggle like platform for hosting
-
-    AI competitions, and eventually authored a contract between Datadays, Torob, and
-    Roboepics. Our competition was held during the
-
-    summer of 2021 and had over 500 participants internationally.</p></div>
-
-    </div>
-
-    <div class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"></div>
-
-    <div class="row my-0">
-
-    <div class="col-12 col-md-4">
-
-    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://www.linkedin.com/company/sharif-data-days/">Datadays
-    2019</a></h5>
-
-    <p class="text-center mb-0 fw-light">Head of Infrastructure</p>
-
-    <p class="text-muted text-center small"></p>
-
-    </div>
-
-    <div class="col-12 col-md-8"><p>In Datadays''s first year, I was in change of
-    the infrastructure required to hold the contest. Our challenge was computationally
-    heavy and could
-
-    benefit a lot from accelerated hardware so I volunteered to setup and maintain
-    a GPU cluster of over 40 units, for our contestants.</p>
-
-    <p>I also co-develop the Datadays contests platform by contributing to its user-interface
-    implementation.</p></div>
-
-    </div>
-
-    <hr class="row mb-3 mt-1 mx-4 p-0 py-0 px-0"/>
-
-    <div class="row my-0">
-
-    <div class="col-12 col-md-4">
-
-    <h5 class="mb-0 text-center m-0 p-0"><a class="text-dark" href="https://www.linkedin.com/company/wss-sut/">Sharif
-    Winter Seminar Series (WSS)</a></h5>
-
-    <p class="text-center mb-0 fw-light">Organizer</p>
-
-    <p class="text-muted text-center small"></p>
-
-    </div>
-
-    <div class="col-12 col-md-8"><p>WSS is a well known seminar series held annually
-    by Sharif University of Technology. It hosts talks and presentations
-
-    from international academic experts in advanced topics of computer science and
-    engineering. During WSS 2020, I volunteered as
-
-    one of the presentation organizers.</p></div>
-
-    </div>
-
-    </div>'
-  label: Academic Services
+    >\n<div class=\"h5 mb-0 text-left m-0 p-0\">SVG-Net: An SVG-Based Trajectory Prediction\
+    \ Model</div>\n<div class=\"small d-inline-block\">\n<a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/mohammadhossein.bahari/?lang=en\">\nBahari, M.</a>,\n\
+    \            \n            <span class=\"text-dark\">\n<u>Zehtab, V.</u><sup>*</sup></span>,\n\
+    \            \n            <a class=\"text-secondary\" href=\"https://www.linkedin.com/in/sadegh-khorasani-301344146/?originalSubdomain=ir\"\
+    >\n                Khorasani, S.*</a>,\n            \n            <a class=\"\
+    text-secondary\" href=\"https://www.linkedin.com/in/sana-ayromlou/?originalSubdomain=ir\"\
+    >\n                Ayromlou, S.*</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/saeed.saadatnejad?lang=en\">\n               \
+    \ Saadatnejad, S.</a>,\n            \n            <a class=\"text-secondary\"\
+    \ href=\"https://people.epfl.ch/alexandre.alahi?lang=en\">\n                Alahi,\
+    \ A.</a>\n<span class=\"d-inline-block text-secondary small\">\u2014<sup>*</sup>Equal\
+    \ contribution as 2nd Author</span>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><a class=\"hover-shadow btn btn-light btn-sm\
+    \ rounded-pill\" href=\"https://vita-epfl.github.io/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fas fa-globe\"></i> Website</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://github.com/vita-epfl/SVGNet/\"><i aria-hidden=\"\
+    true\" class=\"fab fa-github\"></i> Code</a>\n<a class=\"hover-shadow btn btn-light\
+    \ btn-sm rounded-pill\" href=\"https://arxiv.org/abs/2110.03706\">arXiv</a></p></div>\n\
+    </div>\n</div>"
+  label: Publications
 kind: Index

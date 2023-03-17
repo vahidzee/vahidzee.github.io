@@ -1,0 +1,148 @@
+header:
+  description: <p><strong>Teaching Assistantship Experiences at Sharif University
+    of Technology</strong></p>
+nav:
+  content:
+  - index: index/index
+    text: Go Back
+    link: /
+    kind: Index
+preface:
+  label: false
+  content: '<p>The following is a chronological list of my teaching assistantship
+    experiences at Sharif University of Technology, and the details of my
+
+    responsibilities and contributions to the courses I have been involved in. I have
+    been a teaching assistant for a total of 12 courses, in 19 separate offerings.
+
+    I have been privilaged to teach and assist in a wide range of courses, from introductory
+    undergraduate courses to graduate courses, and I am
+
+    more than grateful for the opportunity to have been able to work with such a diverse
+    set of students and instructors.</p>'
+teaching:
+  content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
+    col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Privacy\
+    \ in Machine Learning <small class=\"d-inline-block ms-auto\">(Graduate Course)</small>\n\
+    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructors: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a> &amp;\
+    \ <a href=\"https://amsadeghzadeh.github.io/\">Dr. A.M. Sadeghzadeh</a></small>\n\
+    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
+    ><p><small>Fall 2021</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
+    \ mt-md-0\">\n<p>Designer and grader of Deep Learning Adversarial Robustness assignments.\
+    \ Instructor for the practical workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3\
+    \ mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0\
+    \ mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Artificial Intelligence <small\
+    \ class=\"d-inline-block ms-auto\">(Head Teaching Assistance)</small>\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"http://sharif.ir/~rohban/\">Prof. M.H. Rohban</a></small>\n\
+    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
+    ><p><small>Spring and Fall of 2020 &amp; 2021</small></p></div>\n</div>\n<div\
+    \ class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead and managed a group of +70 Grad\
+    \ &amp; Undergrad and Ph.D. TAs over the course of three semesters, \nDesigned\
+    \ the course syllabus and tracking toolkits, Authored AI supplementary materials\
+    \ and co-authored and reviewed course lecture notes \nand supplementary notebooks,\
+    \ Instructed practical workshops and recitation classes. \nDeveloped a content\
+    \ creation pipeline and created <a href=\"https://sut-ai.github.io\">Sharif's\
+    \ AI webpage</a>, the largest repository for Farsi and English AI content presented\
+    \ at Sharif University of Technology. \nDesigned and graded assignments and exams.</p>\n\
+    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
+    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
+    \ p-0\">Machine Learning for Bioinformatics <small class=\"d-inline-block ms-auto\"\
+    >(Graduate Course)</small>\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
+    \ University of Technology, Instructors: <a href=\"http://sharif.edu/~soleymani/\"\
+    >Prof. M. Soleymani</a> &amp; <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\"\
+    >Prof. A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Spring 2021</small></p></div>\n\
+    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded Deep\
+    \ Learning assignments focusing on the theoretical foundations of DL. Instructed\
+    \ DL workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"\
+    row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5\
+    \ mb-0 text-left m-0 p-0\">Advanced Information Retrieval\n</div>\n<div class=\"\
+    small d-inline-block\">\n<small>Sharif University of Technology, Instructor: <a\
+    \ href=\"http://sharif.edu/~soleymani/\">Prof. M. Soleymani</a></small>\n</div>\n\
+    </div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"><p><small>Spring\
+    \ 2021</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Lead\
+    \ and designed the applied ML course project, Instructed the ML recitation class,\
+    \ Curated a roadmap for ML pipelines in information retrieval systems in Farsi\
+    \ and motivated educational content creation to cover other course topics.</p>\n\
+    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
+    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
+    \ p-0\">Artificial Intelligence\n</div>\n<div class=\"small d-inline-block\">\n\
+    <small>Sharif University of Technology, Instructor: <a href=\"http://sharif.edu/~soleymani/\"\
+    >Prof. M. Soleymani</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
+    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded the Temporal\
+    \ Probability Models assignment. Instructed its recitation.</p>\n</div>\n<hr class=\"\
+    row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9\
+    \ mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Linear Algebra\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"http://sharif.edu/~rabiee/\">Prof. H. Rabiee</a></small>\n\
+    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
+    ><p><small>Fall 2020</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
+    \ mt-md-0\">\n<p>Designed and graded the Fourier and Linear Algebra applied to\
+    \ Computer Vision assignment.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"\
+    />\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n\
+    <div class=\"h5 mb-0 text-left m-0 p-0\">Probability &amp; Statistics\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\">Prof.\
+    \ A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
+    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded assignments,\
+    \ quizes, and final exams.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n\
+    <div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div\
+    \ class=\"h5 mb-0 text-left m-0 p-0\">Introduction to Bioinformatics\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"http://ce.sharif.edu/faculty/ali-sharifi-zarchi/\">Prof.\
+    \ A. Sharifi-Zaarchi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Fall 2020</small></p></div>\n</div>\n\
+    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded assignments.\
+    \ Instructed practical workshops.</p>\n</div>\n<hr class=\"row mb-3 mt-3 mx-5\
+    \ p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9 mb-md-0 mb-1\"\
+    >\n<div class=\"h5 mb-0 text-left m-0 p-0\">Data Structures and Algorithms\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"https://scholar.google.com/citations?user=TNfL9SIAAAAJ&amp;hl=en\"\
+    >Dr. M. Safarnejad-Boroujeni</a></small>\n</div>\n</div>\n<div class=\"col-12\
+    \ col-md-3 text-center align-middle m-auto\"><p><small>Fall 2019 &amp; Spring\
+    \ 2020</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Instructed\
+    \ practical workshops. Designed and graded quizes.</p>\n</div>\n<hr class=\"row\
+    \ mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9\
+    \ mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Computer Structure\
+    \ &amp; Language\n</div>\n<div class=\"small d-inline-block\">\n<small>Sharif\
+    \ University of Technology, Instructor: <a href=\"https://ir.linkedin.com/in/laleh-arshadi-3042b6163\"\
+    >Dr. L. Arshadi</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
+    \ align-middle m-auto\"><p><small>Spring &amp; Fall 2020</small></p></div>\n</div>\n\
+    <div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded MIPS assembly\
+    \ assignment. Graded Memory Hierarchy assignments.</p>\n</div>\n<hr class=\"row\
+    \ mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n<div class=\"col-12 col-md-9\
+    \ mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Web Programming\n\
+    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir\"\
+    >B. Hatami</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3 text-center\
+    \ align-middle m-auto\"><p><small>Fall 2019</small></p></div>\n</div>\n<div class=\"\
+    row m-0 p-0 mt-2 mt-md-0\">\n<p>Designed and graded the course project.</p>\n\
+    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
+    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
+    \ p-0\">Advanced Programming <small class=\"secondary\">(in Java)</small>\n</div>\n\
+    <div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructors: <a href=\"https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir\"\
+    >B. Hatami</a> &amp; <a href=\"https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir\"\
+    >Dr. M. Mostafazadeh</a></small>\n</div>\n</div>\n<div class=\"col-12 col-md-3\
+    \ text-center align-middle m-auto\"><p><small>Spring &amp; Fall 2019</small></p></div>\n\
+    </div>\n<div class=\"row m-0 p-0 mt-2 mt-md-0\">\n<p>Mentored project teams. Instructed\
+    \ recitation classes. Designed and graded assginments and mini-projects.</p>\n\
+    </div>\n<hr class=\"row mb-3 mt-3 mx-5 p-0\"/>\n<div class=\"row m-0 p-0\">\n\
+    <div class=\"col-12 col-md-9 mb-md-0 mb-1\">\n<div class=\"h5 mb-0 text-left m-0\
+    \ p-0\">Introduction to Programming <small class=\"secondary\">(in C)</small>\n\
+    </div>\n<div class=\"small d-inline-block\">\n<small>Sharif University of Technology,\
+    \ Instructor: <a href=\"http://ce.sharif.edu/~mahdi/\">Dr. M. Soltani</a></small>\n\
+    </div>\n</div>\n<div class=\"col-12 col-md-3 text-center align-middle m-auto\"\
+    ><p><small>Spring 2018</small></p></div>\n</div>\n<div class=\"row m-0 p-0 mt-2\
+    \ mt-md-0\">\n<p>Instructed recitation classes. Designed and graded the course\
+    \ project.</p>\n</div>\n\n</div>"
+  label: false
+title: Index
+kind: Index
+search:
+  content: false
+  links: false
