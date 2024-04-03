@@ -1,0 +1,13 @@
+oslow2024:
+    title: "Order-based Structure Learning with Normalizing Flows <small class='d-inline-block ms-auto'>(Under Review)</small>"
+    authors:
+      - name: Kamkari, H.<sup>*</sup>
+        link: https://hamidrezakmk.github.io/
+      - name: Balazadeh, V.<sup>*</sup>
+        link: https://vahidbalazadeh.me/
+      - me: <u>Zehtab, V.</u>
+      - name: Krishnan, R.G.
+        link: http://www.cs.toronto.edu/~rahulgk/index.html
+    authors_notes: <sup>*</sup>Equal contribution as first Author
+    tags: |
+      [arXiv](https://arxiv.org/abs/2308.07480){: class="hover-shadow btn btn-light btn-sm rounded-pill" }

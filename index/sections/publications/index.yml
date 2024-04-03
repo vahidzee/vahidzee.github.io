@@ -3,5 +3,7 @@ publications:
   template:
     template: templates/publications.html
     apply: whole
-  patch-bsthesis: index/sections/publications/bsthesis.yml
+  patch-ennelut: index/sections/publications/ennelut.yml
+  patch-oslow: index/sections/publications/oslow.yml
   patch-svgnet: index/sections/publications/svgnet.yml
+  patch-bsthesis: index/sections/publications/bsthesis.yml

@@ -4,24 +4,35 @@ work:
   template:
     template: templates/experience.html
     apply: whole
+  samsung:
+    heading: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung AI Center</a> <small><span class="text-secondary">(Toronto)</span></small>
+    heading_details: >
+      Machine Learning Research Intern
+      <br>
+      <small>Supervised by: <a href="https://www.cse.yorku.ca/~mbrown/">M.S. Brown</a>, <a href="https://mbrubake.github.io/">M.A. Brubaker</a>, <a href="https://davidlindell.com/">D.B. Lindell</a></small>
+    heading_tag: May 2023 - Dec. 2023 • Toronto, ON, Canada
+    content: |
+      - Assisted the camera quality team in noise modeling and denoising of RAW quad Bayer sensor outputs.
+      - Designed and implemented a neural framework for efficient representation of color transformations and inverse vision processing, surpassing the SOTA by over 100*x* in terms of compression efficacy.
   fanap:
     heading: |
-      <a href="https://fanaplab.com/" class="text-dark">Advanced Technology Lab (ZLAB)</a><small>,<a class="text-secondary" href="https://fanap.ir/"> Fanap Co.</a></small>
+      <a href="https://fanaplab.com/" class="text-dark">Advanced Technology Lab</a><small> (ZLAB),<a class="text-secondary" href="https://fanap.ir/"> Fanap Co.</a></small>
     heading_details: Machine Learning Engineer
-    heading_tag: Jun. 2020 - Mar. 2021
+    heading_tag: Jun. 2020 - Mar. 2021 • Tehran, Iran
     content: |
-      - Designed and developed a novel satellite and aerial imagery super-resolution model for urban maps
-      - Designed and implemented a generic composable deep learning training and prototyping framework
+      - Developed a novel satellite and aerial imagery super-resolution residual model to enhance the on-device perception of urban maps in Iran's largest navigation system by upto 8*x* in resolution.
+      - Developed a computer vision composable deep learning prototyping framework that enables direct Neural Architecture Search (NAS) over pure PyTorch without the need of implementing extra logic.
+  
   cafebazaar:
     heading: <a href="https://cafebazaar.ir/about?l=en" class="text-dark">Cafebazaar</a>
     heading_details: Chaos Engineering Intern
-    heading_tag: Jul. - Oct. 2019 • <a href="mailto:vahidzee@cafebazaar.ir">Email</a>
+    heading_tag: Jul. - Oct. 2019 • Tehran, Iran
     content: |
-      - Implemented a Kubernetes cluster node failure simulator and designed a cluster monitoring system for internal experiments
-      - Designed and implemented a novel decentralized load-tester based on the company's true user-behavior data
+      - Implemented a Kubernetes cluster node failure simulator and designed a cluster monitoring system for internal stress-testing of the underlying infrastructure.
+      - Designed and implemented a decentralized load-tester that learns and mimics true user behaviour and can scale to simulate up to millions of requests per second, for internal use.
   pido:
     heading: Pido
-    heading_details: Computer Vision Engineer
-    heading_tag: Jun. 2018 - Jun. 2019
+    heading_details: Computer Vision Engineering Intern
+    heading_tag: Jun. 2018 - Jun. 2019 • Tehran, Iran
     content: |
-      - Implemented an efficiently accurate solution for extracting bilingual (Farsi and English) information from Iranian debit card scans
+      - Co-developed an efficiently accurate OCR engine in C++, based on Google's Tesseract OCR Engine, for extracting information from Iranian debit card scans.

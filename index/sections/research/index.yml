@@ -5,37 +5,34 @@ research:
     template: templates/experience.html
     apply: whole
   vector:
-    heading: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a>
+    heading: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a><br><small><span class="text-secondary">Affiliated with UofT's <a class="text-secondary" href="https://www.cs.toronto.edu/~rahulgk/group.html">Machine Learning & Computational Healthcare Lab</a></span></small>
     heading_details: |
-      <small>Supervised by: <a href="http://www.cs.toronto.edu/~rahulgk/index.html">Rahul G. Krishnan</a></small>
-    heading_tag: Oct. 2022 - Present
+      <small>Graduate researcher supervised by <a href="http://www.cs.toronto.edu/~rahulgk/index.html">R.G. Krishnan</a></small>
+    heading_tag: Oct. 2022 - Dec. 2023 • Toronto, ON, Canada
     content: |
-      - Studying the potential of diffusion processes and score-based models in stabilizing the learning of deep causal structures
-      - Co-developed a fully differentiable Bayesian approach for causal structure discovery and causal order discovery
-      - Developed [DyPy](https://github.com/vahidzee/dypy) & [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox) for fast implementation of complex deep learning research experiments
+      - Co-developed a fully differentiable Bayesian algorithm for causal structure discovery with Autoregressive Normalizing Flows extending the  identiability of LSNMs to beat the SOTA in real-world datasets.
+      - Developed [DyPy](https://github.com/vahidzee/dypy) & [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox) for fast implementation of complex deep learning research experiments, cutting the amount of raw code in half on average.
 
   rohban_lab:
     heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading_details: |
-      <small>Supervised by: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a></small>
-    heading_tag: Dec. 2019 - Jul. 2022
+      <small>Undergraduate researcher supervised by <a href="http://sharif.ir/~rohban/">M.H. Rohban</a></small>
+    heading_tag: Dec. 2019 - Jul. 2022 • Tehran, Iran
     content: |
-      - Conducted a literature review on deep probabilistic model and deep generative models and deep anomaly detection
-      - Assessed the potential of various repurposed generative models in image anomaly detection
-      - Developed a novel deep training procedure for anomaly detection using explicit density estimation while learning a latent space 
-      - Developed [TorchDE](https://github.com/vahidzee/torchde), a unified pytorch library for deep density estimation
+      - Assessed the potential of repurposed adversarial training of robust reconstructive models for visual anomaly detection tasks.
+      - Developed a novel deep training procedure for anomaly detection using explicit density estimation, on par with SOTA Autoencoder-based methods.
+      - Studied energy-based and other explicit deep density estimation models and developed [TorchDE](https://github.com/vahidzee/torchde), a unified pytorch library for deep density estimation.
   nads:
     heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
-    heading_details: <small>Co-supervised by the <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> Labs</small>
-    heading_tag: Feb. 2021 - Sep. 2021
+    heading_details: <small>Collaboration with PhD students at <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> labs</small>
+    heading_tag: Feb. 2021 - Sep. 2021 • Lausanne, Switzerland (Remote)
     content: |
-      - Conducted a literature review on the theoretical foundations of deep learning and non-convolutional vision neural networks
-      - Working under two PhD students, studied the directional inductive bias of vision transformer network architectures
+      - Studied the preliminary theoretical foundations of deep learning and computed the directional inductive bias of Vision Transformers revealing their inert differences to traditional convolution-based solutions.
   vita:
     heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
     heading_details: |
-      <small>Supervised by <a href="https://www.epfl.ch/labs/vita/">VITA</a> lab</small>
-    heading_tag: Jul. 2020 - Dec. 2020
+      <small>Remote Research Intern at <a href="https://www.epfl.ch/labs/vita/">VITA</a> lab, Supervised by <a href="https://people.epfl.ch/alexandre.alahi?lang=en">A. Alahi</a></small>
+    heading_tag: Jul. 2020 - Dec. 2020 • Lausanne, Switzerland (Remote)
     content: |
-      - Assessed the state-of-the-art vehicle trajectory prediction models’ explainability and reliance on different scene-data priors
-      - Explored NLP methods to embrace input sparsity using generic SVG-based inputs in vehicle trajectory prediction models
+      - Assessed the state-of-the-art vehicle trajectory prediction models' explainability and reliance on different data priors.
+      - Explored alternatives to rasterized data representation schemes and co-developed a Transformer based model that uses generic SVG inputs to perform reason-aware vehicle trajectory prediction tasks.

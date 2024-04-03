@@ -1,0 +1,9 @@
+
+<header class="container-fluid bg-white text-dark text-center align-items-center p-0" style="min-height: 5vh;">
+    <div class="bg-white p-4 m-auto text-center">
+       {{obj.title}}
+       {% if obj.description %}
+       <p>{{markdown(obj.description)}}</p>
+       {% endif %}
+    </div>
+</header>

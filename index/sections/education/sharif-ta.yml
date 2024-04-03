@@ -1,9 +1,9 @@
 header:
-  description: "**Teaching Assistantship Experiences at Sharif University of Technology**"
-nav:
-  content:
-    - index: index/index
-      text: Go Back
+  description: "<h1>Teaching Assistantship Experiences at Sharif University of Technology</h1>"
+nav: 
+  content: 
+  - index: index/index
+    text: Go Back
 preface:
   label: false
   content: |

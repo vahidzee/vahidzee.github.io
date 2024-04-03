@@ -1,17 +1,25 @@
 title: Vahid Zehtab
 #patch-meta:   index/meta.yml
 patch-config: index/config.yml
-patch-nav: index/nav.yml
+# patch-nav: index/nav.yml
 
-search:
-  links: true
-  content: true
+nav: null
+
+heading:
+  freeform: true
+  template:
+    template: templates/header.html
+    apply: whole
+  title: >
+   <div style="font-size: 4em;font-family:sans-serif;margin-bottom: -0.45em;"><strong>V</strong>ahid <strong>Z</strong>ehtab</div>
+  description: >
+    — *De omnibus dubitandum est.*
 
 bio:
   label: About Me
   patch-content: index/sections/bio.md
 
 patch-education: index/sections/education/index.yml
-patch-research: index/sections/research/index.yml
 patch-work: index/sections/work/index.yml
+patch-research: index/sections/research/index.yml
 patch-publication: index/sections/publications/index.yml

@@ -12,7 +12,7 @@ svgnet2021:
         link: https://people.epfl.ch/saeed.saadatnejad?lang=en
       - name: Alahi, A.
         link: https://people.epfl.ch/alexandre.alahi?lang=en
-    authors_notes: <sup>*</sup>Equal contribution as 2nd Author
+    authors_notes: <sup>*</sup>Equal contribution as second author
     tags: |
       [Website](https://vita-epfl.github.io/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fas fa-globe" }
       [Code](https://github.com/vita-epfl/SVGNet/){: class="hover-shadow btn btn-light btn-sm rounded-pill" icon="fab fa-github" }

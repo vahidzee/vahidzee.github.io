@@ -6,16 +6,19 @@ education:
     apply: whole
   uoft:
     heading_details: <a href="https://www.utoronto.ca/" class="text-dark">University of Toronto</a>
-    heading: <a class="text-dark" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
-    heading_tag: Sep. 2022 - Expected Dec. 2023 • <a href="mailto:zehtab@cs.toronto.edu">Email</a>
+    heading: >
+      <a class="text-dark p-1" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
+      <br>
+      <small><a class="text-secondary" href="https://mscac.utoronto.ca/concentrations/ai/">Artificial Intelligence Concentration</a></small>
+    heading_tag: Sep. 2022 - Dec. 2023 • <a href="mailto:zehtab@cs.toronto.edu">Email</a>
     patch-content: index/sections/education/uoft.md
   sharif:
     heading_details: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
     heading_tag: Sep. 2017 - Jun. 2022 • <a href="mailto:veezee@ce.sharif.edu">Email</a>
     patch-content: index/sections/education/sharif.md
-  rouzbeh:
-    heading_details: <a href="https://rouzbeh.info/about" class="text-dark">Rouzbeh Educational Complex</a>
-    heading: Diploma in Mathematics and Physics
-    heading_tag: Sep. 2013 - May 2017 • <a href="mailto:zahtab.v@Rouzbeh.info">Email</a>
-    content: "* Graduated top student, **Diploma GPA**: 19.68/20"
+  # rouzbeh:
+  #   heading_details: <a href="https://rouzbeh.info/about" class="text-dark">Rouzbeh Educational Complex</a>
+  #   heading: Diploma in Mathematics and Physics
+  #   heading_tag: Sep. 2013 - May 2017 • <a href="mailto:zahtab.v@Rouzbeh.info">Email</a>
+  #   content: "* Graduated top student, **Diploma GPA**: 19.68/20"
