@@ -1,5 +1,5 @@
 **General Programming Skills**: 
-  Python, C/C++, Java, R, Julia, JavaScript, Scheme, PHP, MIPS<br>
+  Python, C/C++, Java, R, JavaScript, Scheme, PHP, MIPS<br>
 **Machine Learning Tools**: Jax (Flax, Optax), PyTorch (PyTorch-Lightning, torchvision, captum), 
   SciPy (NumPy, pandas, Matplotlib), scikit-learn, OpenCV, Tesseract OCR<br>
 **Distribution & Deployment Tools**: Slurm, Kubernetes, Docker, GH Workflows<br>

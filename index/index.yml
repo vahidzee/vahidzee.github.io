@@ -20,6 +20,7 @@ bio:
   patch-content: index/sections/bio.md
 
 patch-education: index/sections/education/index.yml
+# patch-skills: index/sections/skills/index.yml
 patch-work: index/sections/work/index.yml
 patch-research: index/sections/research/index.yml
 patch-publication: index/sections/publications/index.yml
