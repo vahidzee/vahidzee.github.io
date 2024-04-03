@@ -1,10 +1,6 @@
 skills:
   label: Skills
-  technical:
-    label: Technical Skills
-    patch: index/sections/skills/technical.md
-  languages:
-    label: Languages
-    content: |
-      **Farsi**: Native, **English**: highly proﬁcient <small class="text-secondary">(TOEFL 112: R30, L29, S25, W28)</small>,
-      **Arabic**: Elementary
+  # technical:
+    # label: Technical Skills
+  patch: index/sections/skills/technical.md
+  
