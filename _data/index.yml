@@ -19,22 +19,16 @@ bio:
     \ width=\"100em\"/>\nHi there! I'm Vahid, a Machine Learning Researcher &amp;\
     \ Engineer based in Canada with over three years of industry experience under\
     \ my belt. I have a knack for solving problems through a mathematical lens, particularly\
-    \ in the realm of deep learning and computer vision. I earned my MSc in Applied\
-    \ Computing from the University of Toronto, where I delved into causal inference\
-    \ and low-level vision. I also hold a BSc in Computer Engineering from Sharif\
-    \ University of Technology, in which I focused on unsupervised deep learning and\
-    \ anomaly detection. Along my journey, I've been fortunate to work with some truly\
-    \ amazing people, enhancing both my professional and personal growth. The following\
-    \ is a brief summary of my academic and professional background. </p>\n<p>Since\
-    \ the end of my studies, I've been exploring consultation roles, on the lookout\
-    \ for the ideal full-time position that aligns with my interests in Machine Learning\
-    \ R&amp;D. I'm also open to roles in data science, software engineering, and product\
-    \ management. If you're interested in discussing potential opportunities or collaborations,\
-    \ feel free to reach out and let's build the future together!</p>\n<p align=\"\
-    center\">\n<b>Checkout my work &amp; Connect:</b>\n<a href=\"https://github.com/vahidzee\"\
-    >Github</a> \u2022\n  <a href=\"https://linkedin.com/in/vahid-zehtab\">LinkedIn</a>\
-    \ \u2022\n  <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJr\"\
-    >Google Scholar</a> \u2022\n  <a href=\"mailto:vahid@zehtab.me\">Email</a>\n</p>"
+    \ in the realm of deep learning and computer vision. The following is a brief\
+    \ summary of my academic and professional background. </p>\n<p>Since the end of\
+    \ my studies, I've been exploring consultation roles, on the lookout for the ideal\
+    \ full-time position that aligns with my interests in Machine Learning R&amp;D.\
+    \ If you're interested in discussing potential opportunities or collaborations,\
+    \ reach out and let's build the future together!</p>\n<p align=\"center\">\n<b>Checkout\
+    \ my work &amp; Connect:</b>\n<a href=\"https://github.com/vahidzee\">Github</a>\
+    \ \u2022\n  <a href=\"https://linkedin.com/in/vahid-zehtab\">LinkedIn</a> \u2022\
+    \n  <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJr\">Google\
+    \ Scholar</a> \u2022\n  <a href=\"mailto:vahid@zehtab.me\">Email</a>\n</p>"
 education:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\
@@ -70,14 +64,13 @@ education:
     >(Thesis)</small>: \n  Anomaly Detection via Explicit Density Estimation</li>\n\
     <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
     >All Courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
-    >(Graduate)</small>, \n    Stochastic Processes  <small class=\"text-secondary\"\
-    >(Math Dep.)</small>,\n    Artificial Intelligence, Linear Algebra, Signals &amp;\
-    \ Systems, Probability and Statistics, Design of Algorithms, \n    Data Structures\
-    \ and Algorithms</li>\n<li><strong>Selected Teaching Assistantships</strong> (<a\
-    \ data-bs-html=\"true\" data-bs-toggle=\"tooltip\" href=\"/index/sections/education/sharif-ta.html\"\
-    \ title=\"&lt;h1&gt;Teaching Assistantship Experiences at Sharif University of\
-    \ Technology&lt;/h1&gt;\">All TAships</a>): \n    Head TA of Artificial Intelligence\
-    \ <small class=\"text-secondary\">(Cross-appointed)</small>, supervised graduate\
+    >(Graduate)</small>, \n    Stochastic Processes,\n    Artificial Intelligence,\
+    \ Linear Algebra, Signals &amp; Systems, Probability and Statistics, Design of\
+    \ Algorithms, \n    Data Structures and Algorithms</li>\n<li><strong>Selected\
+    \ Teaching Assistantships</strong> (<a data-bs-html=\"true\" data-bs-toggle=\"\
+    tooltip\" href=\"/index/sections/education/sharif-ta.html\" title=\"&lt;h1&gt;Teaching\
+    \ Assistantship Experiences at Sharif University of Technology&lt;/h1&gt;\">All\
+    \ TAships</a>): \n    Head TA of Artificial Intelligence, supervised graduate\
     \ TAs in Machine Learning Privacy <small class=\"text-secondary\">(Graduate)</small>,\
     \ tutored deep learning workshops in Machine Learning for Bioinformatics <small\
     \ class=\"text-secondary\">(Graduate)</small>, in addition to TAing and tutoring\
