@@ -1,0 +1,68 @@
+header:
+  title: <p>Extracurricular activities at Sharif University of Technology</p>
+nav:
+  content:
+  - index: index/index
+    text: Go Back
+    link: /
+    kind: Index
+preface:
+  label: false
+  content: '<p>The following is a chronological list of my extracurricular activities
+    and academic volunteer services at Sharif University of Technology, and the details
+    of my
+
+    responsibilities and contributions to each.</p>'
+academic_serv:
+  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://challenge.datadays.ir\">Datadays 2021</a></h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\">Head of Scientific Team</p>\n<p class=\"text-muted text-center\
+    \ small\">Nov. 2020 - Sep. 2021 \u2022 Tehran, Iran</p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>DataDays was the first and the largest national data science\
+    \ competition held annually by Sharif University of Technology.\nIts main goal\
+    \ was to broaden the appeal for working on data-driven problems. In essence, Datadays\
+    \ was a large-scale attempt at assessing\ndata science knowledge in Iran and improving\
+    \ it.</p>\n<p>Every year, a group of volunteer data science experts gathers around\
+    \ to create and hold Datadays. I had the\npleasure to lead the 2021's Datadays\
+    \ team, a diverse international group of Iranian Machine Learning and data\nscience\
+    \ academic and industrial experts. After intense negotiations with various tech\
+    \ giants and startups in Iran,\n<a href=\"https://torob.ir/\">Torob.ir</a>, an\
+    \ emerging product searching platform for commerce, joined us as our sponsor.\
+    \ After weeks\nof preparations, we developed a data-driven challenge around Torob's\
+    \ search logs to recommend new products given a raw query.</p>\n<p>To teach our\
+    \ participants about the fundamental concepts regarding Machine Learning and Recommender\
+    \ Systems, I authored a roadmap and\nled the scientific staff in creating Persian\
+    \ Educational notebooks. I also started a talk series and organized workshops\
+    \ by\ninviting tech and academic experts. To host the competition, I led the negotiations\
+    \ with <a href=\"https://roboepics.com/\">RoboEpics</a>, a Kaggle like platform\
+    \ for hosting\nAI competitions, and eventually authored a contract between Datadays,\
+    \ Torob, and Roboepics. Our competition was held during the\nsummer of 2021 and\
+    \ had over 500 participants internationally.</p></div>\n</div>\n<div class=\"\
+    row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"row my-0\">\n<div class=\"\
+    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
+    \ href=\"https://www.linkedin.com/company/sharif-data-days/\">Datadays 2019</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Head of Infrastructure</p>\n<p class=\"\
+    text-muted text-center small\">Jul. 2018 - Feb. 2019 \u2022 Tehran, Iran</p>\n\
+    </div>\n<div class=\"col-12 col-md-8\"><p>In the first year of the commencement\
+    \ of DataDays, I was in charge of the computational infrastructure. Our challenge\
+    \ was computationally heavy and could\nbenefit a lot from accelerated hardware\
+    \ so I volunteered to setup and maintain a GPU cluster of over 40 units for our\
+    \ contestants.</p>\n<p>I also co-develop the Datadays contests platform by contributing\
+    \ to its user-interface implementation written in Django.</p></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
+    \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"\
+    text-dark\" href=\"https://www.linkedin.com/company/wss-sut/\">Sharif Winter Seminar\
+    \ Series (WSS)</a></h5>\n<p class=\"text-center mb-0 fw-light\">Organizer</p>\n\
+    <p class=\"text-muted text-center small\">Nov. 2020 - Jan. 2021 \u2022 Tehran,\
+    \ Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>WSS is a well known seminar\
+    \ series held annually by Sharif University of Technology. It hosts talks and\
+    \ presentations\nfrom international academic experts in advanced topics of computer\
+    \ science and engineering. During WSS 2020, I volunteered as\none of the presentation\
+    \ organizers.</p></div>\n</div>\n</div>"
+  label: false
+title: Extracurricular activities at Sharif University of Technology
+kind: Index
+search:
+  content: false
+  links: false
