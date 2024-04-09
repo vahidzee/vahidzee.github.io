@@ -26,6 +26,7 @@ research:
     heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
     heading_details: <small>Collaboration with PhD students at <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> labs</small>
     heading_tag: Feb. 2021 - Sep. 2021 • Lausanne, Switzerland (Remote)
+    # no_line: false
     content: |
       - Studied the preliminary theoretical foundations of deep learning and computed the directional inductive bias of Vision Transformers revealing their inert differences to traditional convolution-based solutions.
   vita:

@@ -1,7 +1,7 @@
 ![](https://github.com/vahidzee.png){: class="rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-1 d-sm-inline mx-auto float-sm-start"  width="100em" height="100em" }
-Hi there! I'm Vahid, a Machine Learning Researcher & Engineer based in Canada with over three years of industry experience under my belt. I have a knack for solving problems through a mathematical lens, particularly in the realm of deep learning and computer vision. The following is a brief summary of my academic and professional background. 
+Hi there! I'm Vahid, a Machine Learning Researcher & Engineer based in Canada with over five years of industry and academic experience under my belt. I have a knack for solving problems through a mathematical lens, particularly in the realm of deep learning and computer vision. This is a brief summary of my academic and professional background. 
 
-Since the end of my studies, I've been exploring consultation roles, on the lookout for the ideal full-time position that aligns with my interests in Machine Learning R&D. If you're interested in discussing potential opportunities or collaborations, reach out and let's build the future together!
+Most recently, I've been exploring consultation roles, on the lookout for the ideal full-time position that aligns with my interests in Machine Learning R&D. If you're interested in discussing collaborations, reach out and let's build the future together!
 
 <p align="center">
   <b>Checkout my work & Connect:</b>
