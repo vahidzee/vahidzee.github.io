@@ -10,7 +10,9 @@ preface:
   label: false
   content: |
     The following is a (~chronological) list of my extracurricular activities and academic volunteer services at Sharif University of Technology, and the details of my
-    responsibilities and contributions to each.
+    responsibilities and contributions to each. The department of Computer Engineering at Sharif University of Technology, hosts multiple event and contests annually
+    in various fields, designed to introduce Sharif's students and/or any interested party in their respective topics. While I participated in many of such events as a student, 
+    I was also very much involved with the efforts that went into setting up such events as a volunteer.
 
 academic_serv:
   label: false
@@ -120,3 +122,46 @@ academic_serv:
       The system had a central server written in Django that recieved two agents to compete against each other and asynchronously ran the game and returned the evaluated results. This central Django server outsourced
       crone jobs to containerize the two agents and the game server and then run the game on a docker cluster. The techstack for the previous year was based on DockerSwarm but we migrated everything to Kubernetes. 
       This was my first experience with containerization and orchestration technologies and I learned a lot about the challenges of running a distributed system.
+
+  webelopers2019:
+    heading: <a class="text-dark"  href="#">Sharif Webelopers 2019</a>
+    heading_details: Infrastructure & Judge System Developer
+    heading_tag: Jul. 2019 - Feb 2020 • Tehran, Iran
+    content: |
+      Drawing in the experience I accumilated during the SIAC 2019, I volunteered to co-develop a centeral judge system for Sharif's Webelopers 2019 event. Webelopers targets the first year and second
+      year undergraduate students interested in learning the in and outs of becoming a full-stack developer, offering a crash-course in Front-End and Back-End software engineering. The participants then 
+      compete in desigining a fully functional website that satisfies a set of predefined user stories. 
+
+      As a team of two, we designed and implemented a similar system as the game-runner in SAIC, where a central Django server 
+      We integrated our system with Sharif's GitLab (where the consestants were supposed to push their codes), to automatically build an image of each contestants code.
+      Given a judgement request, we then containerized these images along with a our own unit testing program that connects and interacts with the each contestants implementation of the website.
+      We wrote our unit tests with dynamicity of the contestants Front-Ends in mind, to analyzes the produced HTTP outputs by cross-checking the existance of a set of predefined qualities in each supposed web-page. 
+      The result of each unit tests were then returned to other micro-services developed by other volunteers to score teams based on the quality of their codes as well as the agility of their implementation 
+      compared to other participating teams.
+
+      We used a Kubernetes cluster of ~5 virtual workers along with our custom cluster manager and judgement system to host ~50 teams.
+  
+  hardwar2019:
+    heading: <a class="text-dark"  href="#">Sharif Hardwar 2019</a>
+    heading_details: Software Developer
+    heading_tag: Jul. 2019 - Jan 2020 • Tehran, Iran
+    content: |
+      Hardwar was the first event at Sharif's department of Computer Engineering that specifically aimed to involve students in the joys of digital logic design and 
+      low-level hardware programming. As a former participant of this event, I was excited to contribute to the development of the Aurdoino workshop at Hardwar 2019. 
+      Our workshop took students on a step-by-step journy in designing their very own game-controller, and LED grid display, to play a custom open-world treasure hunt game, where 
+      participants are to roam a grid and gather as many gem stones as possible to get a higher ranking. 
+      
+      As a volunteer software developer, I designed & implemented a serial port to TCP middleware in Python that connected the mesh of these custom-made Aurdoino game controllers to the competition's centralized real-time game server.
+    
+  icpc2018:
+    heading: <a class="text-dark"  href="#">Iranian ICPC 2018</a>
+    heading_details: Technical Staff
+    heading_tag: Dec. 2018 - Dec 2018 • Tehran, Iran
+    content: |
+      During the nationals' round of the International Collegiate Programming Contest (ICPC) 2018, which is hosted by Sharif's department of Computer Engineering annually, 
+      I was an oncall technical staff, responsible for setting up the contestants PCs, and resolving technical difficulties during the contest. 
+
+      I also helped co-develop an automatic image labeler in Python, which was used to help the On-site photoshoots, automatically creating a frame containing
+      team's meta data along with their images, significantly reducing the photoshoot processing pipeline, as the design of each frame was done manually in the past years of this event.
+
+  
