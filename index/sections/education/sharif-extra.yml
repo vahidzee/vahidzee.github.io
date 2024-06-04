@@ -89,7 +89,7 @@ academic_serv:
       regression analysis. Rasta's Computer Science Summer School of 2019 was held in person at Sharif University of Technology with students from all over Iran.
 
   saic2020:
-    heading: <a class="text-dark"  href="https://saic.sharif.edu/">Sharif Artificial Intelligence Challenge (SAIC)</a>
+    heading: <a class="text-dark"  href="https://saic.sharif.edu/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2020</a>
     heading_details: Scientific Staff
     heading_tag: Nov. 2019 - Feb. 2020 • Tehran, Iran
     no_line: true
@@ -100,3 +100,23 @@ academic_serv:
       
       During the 2020's SAIC, I volunteered as a junior scientific staff member and helped design the game environment and the AI challenge. My main responsibility was to anylize 
       candidate game environments and scenarios from the perspective of implementing Reinforcement Learning agents and the feasibility of the optimal policy search.
+
+  saic2019:
+    heading: <a class="text-dark"  href="https://www.linkedin.com/company/aichallenge/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2019</a>
+    heading_details: Infrastructure Developer
+    heading_tag: Jul. 2018 - Feb 2019 • Tehran, Iran
+    content: |
+      During the 2019's SAIC, I volunteered as a junior infrastructure developer and helped the senior developers in setting up the game environment and the AI challenge.
+      Our team was in charge of developing and maintaining the game server environment and evaluation backbone. Users recieved a local copy of a game server implementing the 
+      game logic, and two game clients implementing the AI agents competing against each other. For example, for a game of chess, the server would implement the rules of chess
+      and expect two clients to send their moves in each turn. Players are also arbitrary programs that recieve the game state and return their move based on their strategy by sending
+      it to the game server. 
+
+      During the challenge, players could run a local copy of the game server and test their agents against itself or our provided baseline agents, or submit their agents to our central 
+      challenge competition server and request a match against other players. The winner of the competition was determined by performing a round-robin tournament between all submitted agents at
+      the end of the competition.
+
+      As a member of the infrastructure team, we inherited the codebase for a central competition runner, and we were responsible to adjust the code base to accomodate the new game environment. 
+      The system had a central server written in Django that recieved two agents to compete against each other and asynchronously ran the game and returned the evaluated results. This central Django server outsourced
+      crone jobs to containerize the two agents and the game server and then run the game on a docker cluster. The techstack for the previous year was based on DockerSwarm but we migrated everything to Kubernetes. 
+      This was my first experience with containerization and orchestration technologies and I learned a lot about the challenges of running a distributed system.
