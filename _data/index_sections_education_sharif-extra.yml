@@ -100,7 +100,7 @@ academic_serv:
     </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
     >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
     \ class=\"text-dark\" href=\"https://saic.sharif.edu/\">Sharif Artificial Intelligence\
-    \ Challenge (SAIC)</a></h5>\n<p class=\"text-center mb-0 fw-light\">Scientific\
+    \ Challenge (SAIC) 2020</a></h5>\n<p class=\"text-center mb-0 fw-light\">Scientific\
     \ Staff</p>\n<p class=\"text-muted text-center small\">Nov. 2019 - Feb. 2020 \u2022\
     \ Tehran, Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>SAIC is an annual\
     \ AI competition held by Sharif University of Technology established to promote\
@@ -113,7 +113,37 @@ academic_serv:
     \ and the AI challenge. My main responsibility was to anylize \ncandidate game\
     \ environments and scenarios from the perspective of implementing Reinforcement\
     \ Learning agents and the feasibility of the optimal policy search.</p></div>\n\
-    </div>\n</div>"
+    </div>\n<div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://www.linkedin.com/company/aichallenge/\"\
+    >Sharif Artificial Intelligence Challenge (SAIC) 2019</a></h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\">Infrastructure Developer</p>\n<p class=\"text-muted text-center\
+    \ small\">Jul. 2018 - Feb 2019 \u2022 Tehran, Iran</p>\n</div>\n<div class=\"\
+    col-12 col-md-8\"><p>During the 2019's SAIC, I volunteered as a junior infrastructure\
+    \ developer and helped the senior developers in setting up the game environment\
+    \ and the AI challenge.\nOur team was in charge of developing and maintaining\
+    \ the game server environment and evaluation backbone. Users recieved a local\
+    \ copy of a game server implementing the \ngame logic, and two game clients implementing\
+    \ the AI agents competing against each other. For example, for a game of chess,\
+    \ the server would implement the rules of chess\nand expect two clients to send\
+    \ their moves in each turn. Players are also arbitrary programs that recieve the\
+    \ game state and return their move based on their strategy by sending\nit to the\
+    \ game server. </p>\n<p>During the challenge, players could run a local copy of\
+    \ the game server and test their agents against itself or our provided baseline\
+    \ agents, or submit their agents to our central \nchallenge competition server\
+    \ and request a match against other players. The winner of the competition was\
+    \ determined by performing a round-robin tournament between all submitted agents\
+    \ at\nthe end of the competition.</p>\n<p>As a member of the infrastructure team,\
+    \ we inherited the codebase for a central competition runner, and we were responsible\
+    \ to adjust the code base to accomodate the new game environment. \nThe system\
+    \ had a central server written in Django that recieved two agents to compete against\
+    \ each other and asynchronously ran the game and returned the evaluated results.\
+    \ This central Django server outsourced\ncrone jobs to containerize the two agents\
+    \ and the game server and then run the game on a docker cluster. The techstack\
+    \ for the previous year was based on DockerSwarm but we migrated everything to\
+    \ Kubernetes. \nThis was my first experience with containerization and orchestration\
+    \ technologies and I learned a lot about the challenges of running a distributed\
+    \ system.</p></div>\n</div>\n</div>"
   label: false
 title: Extracurricular activities at Sharif University of Technology
 kind: Index
