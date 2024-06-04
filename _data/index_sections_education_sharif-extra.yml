@@ -8,7 +8,7 @@ nav:
     kind: Index
 preface:
   label: false
-  content: '<p>The following is a chronological list of my extracurricular activities
+  content: '<p>The following is a (~chronological) list of my extracurricular activities
     and academic volunteer services at Sharif University of Technology, and the details
     of my
 
@@ -59,7 +59,61 @@ academic_serv:
     \ series held annually by Sharif University of Technology. It hosts talks and\
     \ presentations\nfrom international academic experts in advanced topics of computer\
     \ science and engineering. During WSS 2020, I volunteered as\none of the presentation\
-    \ organizers.</p></div>\n</div>\n</div>"
+    \ organizers.</p></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"\
+    />\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0\
+    \ text-center m-0 p-0\"><a class=\"text-dark\" href=\"#\">Sharif Made in Lobby</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Lead Scientific Staff &amp; Mentor</p>\n\
+    <p class=\"text-muted text-center small\">May 2020 - Jul. 2020 \u2022 Tehran,\
+    \ Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Sharif Made in Lobby was\
+    \ a make-shift workshop held by the upper year classmen of the Computer Engineering\
+    \ department at Sharif University of Technology, \ndesigned to keep the freshmen\
+    \ engaged during the COVID-19 lockdown. I took the role of leading the scientific\
+    \ staff and mentoring the freshmen in the \nfield of Computer Vision. Together\
+    \ with a team of other mentors, we designed and tutored an introductory course\
+    \ to Computer Vision and Deep Learning for \nundergraduate freshmen.</p></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://rastaiha.ir/\">Rasta Computer Science Summer\
+    \ School 2020</a></h5>\n<p class=\"text-center mb-0 fw-light\">Scientific Staff</p>\n\
+    <p class=\"text-muted text-center small\">May 2020 - Aug. 2020 \u2022 Tehran,\
+    \ Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>Rasta is an educational\
+    \ organization established by the students of Sharif University of Technology,\
+    \ aiming to provide high-quality educational content to the public, \nspecially\
+    \ to highschool students. Rasta holds several workshops and events across Iran\
+    \ annually, but perhaps the most notable one is the Rasta Summer School. \nDuring\
+    \ the summer of 2020, I volunteered as a scientific staff member in the Artificial\
+    \ Intelligence workshop, where I helped design an interactive introductory to\
+    \ \nAI workshop intended for highschool students. Rasta's Computer Science Summer\
+    \ School of 2020 was held online due to the COVID-19 pandemic.</p></div>\n</div>\n\
+    <div class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"></div>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://rastaiha.ir/\">Rasta Computer Science Summer\
+    \ School 2019</a></h5>\n<p class=\"text-center mb-0 fw-light\">Scientific Staff</p>\n\
+    <p class=\"text-muted text-center small\">Jun. 2019 - Aug. 2019 \u2022 Tehran,\
+    \ Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>As my first contribution\
+    \ to Rasta, I volunteered as a scientific staff member in the Artificial Intelligence\
+    \ workshop during the summer of 2019. During the workshop,\nI helped design a\
+    \ series of interactive discussions that aimed to introduce highschoolers to concepts\
+    \ in statistics such as point estimation, hypothesis testing, and\nregression\
+    \ analysis. Rasta's Computer Science Summer School of 2019 was held in person\
+    \ at Sharif University of Technology with students from all over Iran.</p></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://saic.sharif.edu/\">Sharif Artificial Intelligence\
+    \ Challenge (SAIC)</a></h5>\n<p class=\"text-center mb-0 fw-light\">Scientific\
+    \ Staff</p>\n<p class=\"text-muted text-center small\">Nov. 2019 - Feb. 2020 \u2022\
+    \ Tehran, Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><p>SAIC is an annual\
+    \ AI competition held by Sharif University of Technology established to promote\
+    \ AI research and development in Iran using a game-like competition format.\n\
+    Each year, a group of volunteer developers, algorithms and AI experts gather around\
+    \ to design a challenge in form of a multi-agent video game. This event is a huge\
+    \ undertaking\nand requires a lot of technical effort both in terms of the game\
+    \ development and the AI challenge design. </p>\n<p>During the 2020's SAIC, I\
+    \ volunteered as a junior scientific staff member and helped design the game environment\
+    \ and the AI challenge. My main responsibility was to anylize \ncandidate game\
+    \ environments and scenarios from the perspective of implementing Reinforcement\
+    \ Learning agents and the feasibility of the optimal policy search.</p></div>\n\
+    </div>\n</div>"
   label: false
 title: Extracurricular activities at Sharif University of Technology
 kind: Index
