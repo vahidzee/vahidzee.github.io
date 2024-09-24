@@ -8,5 +8,5 @@ Most recently, I've been exploring consultation roles, on the lookout for the id
   <a href="https://github.com/vahidzee">Github</a> •
   <a href="https://linkedin.com/in/vahid-zehtab">LinkedIn</a> •
   <a href="https://scholar.google.com/citations?user=5Orm8YIAAAAJr">Google Scholar</a> •
-  <a href="mailto:vahid@zehtab.me">Email</a> 
+  <a href="mailto:contact@vahidz.com">Email</a> 
 </p>
