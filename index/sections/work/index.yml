@@ -4,6 +4,14 @@ work:
   template:
     template: templates/experience.html
     apply: whole
+  huawei:
+    heading: >
+      <a href="https://www.huawei.com/ca/" class="text-dark">Noah's Ark Lab</a> <small><span class="text-secondary">(Huawei Technologies Canada)</span></small>
+    heading_details: >
+      Computer Vision Research Scientist
+    heading_tag: Jun. 2024 - Present • Toronto, ON, Canada
+    content: |
+      - Working on computational imaging correction solutions using deep learning algorithms paired with physics-based optics modeling.
   samsung:
     heading: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung AI Center</a> <small><span class="text-secondary">(Toronto)</span></small>
     heading_details: >
@@ -12,8 +20,8 @@ work:
       <small>Supervised by: <a href="https://www.cse.yorku.ca/~mbrown/">M.S. Brown</a>, <a href="https://mbrubake.github.io/">M.A. Brubaker</a>, <a href="https://davidlindell.com/">D.B. Lindell</a></small>
     heading_tag: May 2023 - Dec. 2023 • Toronto, ON, Canada
     content: |
-      - Assisted the camera quality team in noise modeling and denoising of RAW quad Bayer sensor outputs.
       - Designed and implemented a neural framework for efficient representation of color transformations and inverse vision processing, surpassing the SOTA by over 100*x* in terms of compression efficacy.
+      - Assisted the camera quality team in noise modeling and denoising of RAW quad Bayer sensor outputs.
   fanap:
     heading: |
       <a href="https://fanaplab.com/" class="text-dark">Advanced Technology Lab</a><small> (ZLAB),<a class="text-secondary" href="https://fanap.ir/"> Fanap Co.</a></small>
