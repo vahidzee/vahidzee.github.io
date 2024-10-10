@@ -86,19 +86,11 @@ education:
 work:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"https://www.huawei.com/ca/\">Noah's Ark Lab</a> <small><span class=\"\
-    text-secondary\">(Huawei Technologies Canada)</span></small>\n</h5>\n<p class=\"\
-    text-center mb-0 fw-light\">Computer Vision Research Scientist\n</p>\n<p class=\"\
-    text-muted text-center small\">Jun. 2024 - Present \u2022 Toronto, ON, Canada</p>\n\
-    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Working on computational imaging\
-    \ correction solutions using deep learning algorithms paired with physics-based\
-    \ optics modeling.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0\
-    \ py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5\
-    \ class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://research.samsung.com/aicenter_toronto\"\
-    >Samsung AI Center</a> <small><span class=\"text-secondary\">(Toronto)</span></small></h5>\n\
-    <p class=\"text-center mb-0 fw-light\">Machine Learning Research Intern <br/>\
-    \ <small>Supervised by: <a href=\"https://www.cse.yorku.ca/~mbrown/\">M.S. Brown</a>,\
-    \ <a href=\"https://mbrubake.github.io/\">M.A. Brubaker</a>, <a href=\"https://davidlindell.com/\"\
+    \ href=\"https://research.samsung.com/aicenter_toronto\">Samsung AI Center</a>\
+    \ <small><span class=\"text-secondary\">(Toronto)</span></small></h5>\n<p class=\"\
+    text-center mb-0 fw-light\">Machine Learning Research Intern <br/> <small>Supervised\
+    \ by: <a href=\"https://www.cse.yorku.ca/~mbrown/\">M.S. Brown</a>, <a href=\"\
+    https://mbrubake.github.io/\">M.A. Brubaker</a>, <a href=\"https://davidlindell.com/\"\
     >D.B. Lindell</a></small>\n</p>\n<p class=\"text-muted text-center small\">May\
     \ 2023 - Dec. 2023 \u2022 Toronto, ON, Canada</p>\n</div>\n<div class=\"col-12\
     \ col-md-8\"><ul>\n<li>Designed and implemented a neural framework for efficient\
