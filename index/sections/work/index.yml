@@ -4,14 +4,14 @@ work:
   template:
     template: templates/experience.html
     apply: whole
-  huawei:
-    heading: >
-      <a href="https://www.huawei.com/ca/" class="text-dark">Noah's Ark Lab</a> <small><span class="text-secondary">(Huawei Technologies Canada)</span></small>
-    heading_details: >
-      Computer Vision Research Scientist
-    heading_tag: Jun. 2024 - Present • Toronto, ON, Canada
-    content: |
-      - Working on computational imaging correction solutions using deep learning algorithms paired with physics-based optics modeling.
+  # huawei:
+  #   heading: >
+  #     <a href="https://www.huawei.com/ca/" class="text-dark">Noah's Ark Lab</a> <small><span class="text-secondary">(Huawei Technologies Canada)</span></small>
+  #   heading_details: >
+  #     Computer Vision Research Scientist
+  #   heading_tag: Jun. 2024 - Present • Toronto, ON, Canada
+  #   content: |
+  #     - Working on computational imaging correction solutions using deep learning algorithms paired with physics-based optics modeling.
   samsung:
     heading: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung AI Center</a> <small><span class="text-secondary">(Toronto)</span></small>
     heading_details: >
