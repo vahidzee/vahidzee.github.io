@@ -3,7 +3,7 @@
   18.64/20 <small class="text-secondary">(3.8/4)</small> 
   —
   141/140 credits
-* **Capstone Project** <small class="text-secondary">(Thesis)</small>: 
+* **Thesis** <small class="text-secondary">(Capstone project)</small>: 
   Anomaly Detection via Explicit Density Estimation
 * **Selected Courses** ([All courses](md=index/sections/education/sharif-courses.md)): 
     Digital Image Processing <small class="text-secondary">(Graduate)</small>, 

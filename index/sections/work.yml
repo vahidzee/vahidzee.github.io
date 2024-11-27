@@ -1,0 +1,92 @@
+work:
+  label: Experiences
+  sub-label: false
+  template:
+    template: templates/experience.html
+    apply: whole
+  huawei:
+    heading: >
+      <a href="https://www.huawei.com/ca/" class="text-dark">Huawei Technologies</a> <small><span class="text-secondary">(Noah's Ark Lab)</span></small>
+    heading_details: >
+      Computer Vision Research Scientist
+    heading_tag: Jun. 2024 - Present • Toronto, ON, Canada
+    content: |
+      - Led the invention of a patent pending computational optics algorithm that intelligently pre-compensates for subjects' prescriptions, improving human visual acuity of colored images on conventional displays by +10 dB (PSNR) when facing spherical aberrations.
+      - Working on a first of its kind conversationally interactive camera auto-focus control system for wearable devices.
+  
+  tidesmedical:
+    heading: >
+      <a href="https://www.tidesmedical.com/" class="text-dark">Tides Medical</a>
+    heading_details: >
+      Machine Learning R&D Consultant
+    heading_tag: Jan. 2024 - Present • Toronto, ON, Canada
+    content: |
+      - Collaborated with biomedical researchers to translate project objectives into Machine Learning formulations.
+      - Designed and developed custom data annotation tooling and a U-Net-like foundation segmentation model to facilitate annotation and evaluation of histopathology samples, resulting in faster turnaround time for histologists with over 99% prediction accuracies.
+
+  samsung:
+    heading: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung AI Center</a> <small><span class="text-secondary">(Toronto)</span></small>
+    heading_details: >
+      Machine Learning Researcher
+      <br>
+      <small>Intern advised by: <a href="https://www.cse.yorku.ca/~mbrown/">M.S. Brown</a>, <a href="https://mbrubake.github.io/">M.A. Brubaker</a>, <a href="https://davidlindell.com/">D.B. Lindell</a></small>
+    heading_tag: May 2023 - Dec. 2023 • Toronto, ON, Canada
+    content: |
+      - Devised a patent-pending neural framework for efficient representation of color transformations and inverse vision processing for modern Image Processing Pipelines, surpassing the SOTA by over 100x in terms of compression efficacy with enhanced color fidelities.
+      - Assisted the camera quality team in noise modeling and denoising of RAW quad Bayer sensor outputs.
+  
+  vector:
+    heading: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a>
+    heading_details: |
+      Graduate researcher
+      <br>
+      <small>Intern advised by <a href="http://www.cs.toronto.edu/~rahulgk/index.html">R.G. Krishnan</a> at University of Toronto's <a href="https://www.cs.toronto.edu/~rahulgk/group.html">Machine Learning & Computational Healthcare Lab</a></small>
+    heading_tag: Oct. 2022 - Dec. 2023 • Toronto, ON, Canada
+    content: |
+      - Codeveloped a differentiable Bayesian causal structure discovery algorithm with Autoregressive Normalizing Flows that explicitly enforces acyclicity in causal DAGs,
+        achieving the current SOTA for real-world (Sachs & SynTReN) datasets and synthetic benchmarks.
+      - Developed [DyPy](https://github.com/vahidzee/dypy) & [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox) for fast implementation of complex deep learning research experiments, cutting the amount of raw code in half on average.
+
+  rohban_lab:
+
+    heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    heading_details: |
+      <small>Undergraduate researcher supervised by <a href="http://sharif.ir/~rohban/">M.H. Rohban</a></small>
+    heading_tag: Dec. 2019 - Jul. 2022 • Tehran, Iran
+    content: |
+      - Assessed the potential of repurposed adversarial training of robust reconstructive models for visual anomaly detection tasks.
+      - Developed a novel deep training procedure for anomaly detection using explicit density estimation, on par with SOTA Autoencoder-based methods.
+      - Studied energy-based and other explicit deep density estimation models and developed [TorchDE](https://github.com/vahidzee/torchde), a unified pytorch library for deep density estimation.
+  epfl:
+    heading: <a href="https://www.epfl.ch/en/" class="text-dark">École Polytechnique Fédérale de Lausanne (EPFL)</a>
+    heading_details: |
+      Research Assistant
+      <br>
+      <small>Intern advised by <a href="https://people.epfl.ch/alexandre.alahi?lang=en">A. Alahi</a> at <a href="https://www.epfl.ch/labs/vita/">VITA lab</a></small><br>
+      <small>Research collaborator with <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> students</small>
+    heading_tag: Jul. 2020 - Dec. 2020 • Lausanne, Switzerland (Remote)
+    content: |
+      - Explored alternatives to rasterized data representation schemes and codeveloped a Transformer based model that unifies the processing of various perception data representations to predict SOTA reason-aware vehicle trajectories for autonomous driving.
+      - Studied the preliminary theoretical foundations of deep learning and computed the directional inductive bias of Vision Transformers using Jax, facilitating the identification of the tasks Transformers are better suited for vs. traditional Convolution Neural Networks
+  fanap:
+    heading: |
+      <a href="https://fanaplab.com/" class="text-dark">Advanced Technology Lab</a><small> (ZLAB),<a class="text-secondary" href="https://fanap.ir/"> Fanap Co.</a></small>
+    heading_details: Machine Learning Engineer
+    heading_tag: Jun. 2020 - Mar. 2021 • Tehran, Iran
+    content: |
+      - Developed a novel satellite imagery super-resolution residual model for urban maps, capable of performing up to 8x up sampling.
+      - Created a computer vision deep learning prototyping framework that enables direct Neural Architecture Search over pure PyTorch.
+
+  cafebazaar:
+    heading: <a href="https://cafebazaar.ir/about?l=en" class="text-dark">Cafebazaar</a>
+    heading_details: Chaos Engineering Intern
+    heading_tag: Jul. - Oct. 2019 • Tehran, Iran
+    content: |
+      - Implemented a Kubernetes cluster node failure simulator and designed a cluster monitoring system for internal stress-testing of the underlying infrastructure.
+      - Designed and implemented a decentralized load-tester that learns and mimics true user behaviour and can scale to simulate up to millions of requests per second, for internal use.
+  pido:
+    heading: Pido
+    heading_details: Computer Vision Engineering Intern
+    heading_tag: Jun. 2018 - Jun. 2019 • Tehran, Iran
+    content: |
+      - Co-developed an efficiently accurate OCR engine in C++, based on Google's Tesseract OCR Engine, for extracting information from Iranian debit card scans.

@@ -3,7 +3,7 @@ title: Vahid Zehtab
 patch-config: index/config.yml
 # patch-nav: index/nav.yml
 
-nav: null
+nav: false
 
 heading:
   freeform: true
@@ -19,8 +19,7 @@ bio:
   label: About Me
   patch-content: index/sections/bio.md
 
-patch-education: index/sections/education/index.yml
 # patch-skills: index/sections/skills/index.yml
-patch-work: index/sections/work/index.yml
-patch-research: index/sections/research/index.yml
+patch-education: index/sections/education/index.yml
+patch-work: index/sections/work.yml
 patch-publication: index/sections/publications/index.yml

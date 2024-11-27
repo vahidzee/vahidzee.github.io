@@ -5,16 +5,16 @@ education:
     template: templates/experience.html
     apply: whole
   uoft:
-    heading_details: <a href="https://www.utoronto.ca/" class="text-dark">University of Toronto</a>
-    heading: >
+    heading_details: >
       <a class="text-dark p-1" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
       <br>
       <small><a class="text-secondary" href="https://mscac.utoronto.ca/concentrations/ai/">Artificial Intelligence Concentration</a></small>
+    heading: <a href="https://www.utoronto.ca/" class="text-dark p-1">University of Toronto</a>
     heading_tag: Sep. 2022 - Dec. 2023 • <a href="mailto:zehtab@cs.toronto.edu">Email</a>
     patch-content: index/sections/education/uoft.md
   sharif:
-    heading_details: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
-    heading: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
+    heading_details: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
+    heading: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
     heading_tag: Sep. 2017 - Jun. 2022 • <a href="mailto:veezee@ce.sharif.edu">Email</a>
     patch-content: index/sections/education/sharif.md
   # rouzbeh:

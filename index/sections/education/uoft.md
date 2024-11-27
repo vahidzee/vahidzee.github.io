@@ -1,5 +1,5 @@
 * <span style="cursor: pointer;" data-bs-toggle="tooltip" data-bs-placement="top" title="Cumulative GPA">**CGPA**</span>: A$^+$
-* **Capstone Project** <small class="text-secondary">(Thesis)</small>: Efficient Neural Network Encoding for 3D Color Lookup Tables
+* **Thesis** <small class="text-secondary">(Capstone project)</small>: Efficient Neural Network Encoding for 3D Color Lookup Tables
     
 * **Courses**: 
     [Introduction to Causality](https://csc2541-2022.github.io/){: class="text-dark" }, 
