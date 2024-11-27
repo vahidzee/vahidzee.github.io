@@ -4,7 +4,7 @@ config:
   search: &id001
     content: false
     links: false
-nav: null
+nav: false
 heading:
   content: "\n<header class=\"container-fluid bg-white text-dark text-center align-items-center\
     \ p-0\" style=\"min-height: 5vh;\">\n<div class=\"bg-white p-4 m-auto text-center\"\
@@ -17,64 +17,60 @@ bio:
   content: "<p><img alt=\"\" class=\"rounded-circle d-block ms-sm-0 me-sm-4 mb-4 mb-sm-1\
     \ d-sm-inline mx-auto float-sm-start\" height=\"100em\" src=\"https://github.com/vahidzee.png\"\
     \ width=\"100em\"/>\nHi there! I'm Vahid, a Machine Learning Researcher &amp;\
-    \ Engineer based in Canada with over five years of industry and academic experience\
-    \ under my belt. I have a knack for solving problems through a mathematical lens,\
-    \ particularly in the realm of deep learning and computer vision. This is a brief\
-    \ summary of my academic and professional background. </p>\n<p>Most recently,\
-    \ I've been exploring consultation roles, on the lookout for the ideal full-time\
-    \ position that aligns with my interests in Machine Learning R&amp;D. If you're\
-    \ interested in discussing collaborations, reach out and let's build the future\
-    \ together!</p>\n<p align=\"center\">\n<b>Checkout my work &amp; Connect:</b>\n\
-    <a href=\"https://github.com/vahidzee\">Github</a> \u2022\n  <a href=\"https://linkedin.com/in/vahid-zehtab\"\
-    >LinkedIn</a> \u2022\n  <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJr\"\
+    \ Engineer based in Canada. I have a knack for solving problems through a mathematical\
+    \ lens, particularly in the realm of deep learning and computer vision. This is\
+    \ a brief summary of my academic and professional background. If you're interested\
+    \ in discussing collaborations, reach out and let's build the future together!</p>\n\
+    <p align=\"center\">\n<b>Checkout my work &amp; Connect:</b>\n<a href=\"https://github.com/vahidzee\"\
+    >Github</a> \u2022\n  <a href=\"https://linkedin.com/in/vahid-zehtab\">LinkedIn</a>\
+    \ \u2022\n  <a href=\"https://scholar.google.com/citations?user=5Orm8YIAAAAJr\"\
     >Google Scholar</a> \u2022\n  <a href=\"mailto:contact@vahidz.com\">Email</a>\n\
     </p>"
 education:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\
-    \ p-1\" href=\"https://mscac.utoronto.ca/\">MSc. in Applied Computing</a> <br/>\
-    \ <small><a class=\"text-secondary\" href=\"https://mscac.utoronto.ca/concentrations/ai/\"\
-    >Artificial Intelligence Concentration</a></small>\n</h5>\n<p class=\"text-center\
-    \ mb-0 fw-light\"><a class=\"text-dark\" href=\"https://www.utoronto.ca/\">University\
-    \ of Toronto</a></p>\n<p class=\"text-muted text-center small\">Sep. 2022 - Dec.\
-    \ 2023 \u2022 <a href=\"mailto:zehtab@cs.toronto.edu\">Email</a></p>\n</div>\n\
-    <div class=\"col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"\
-    tooltip\" style=\"cursor: pointer;\" title=\"Cumulative GPA\"><strong>CGPA</strong></span>:\
-    \ A$^+$</li>\n<li>\n<p><strong>Capstone Project</strong> <small class=\"text-secondary\"\
-    >(Thesis)</small>: Efficient Neural Network Encoding for 3D Color Lookup Tables</p>\n\
-    </li>\n<li>\n<p><strong>Courses</strong>: \n    <a class=\"text-dark\" href=\"\
-    https://csc2541-2022.github.io/\">Introduction to Causality</a>, \n    <a class=\"\
-    text-dark\" href=\"https://sites.google.com/view/mat1510/fall-2022\">Deep Learning:\
-    \ Theory &amp; Datascience</a>,\n    <a class=\"text-dark\" href=\"https://uoft-csc413.github.io/2023/\"\
-    >Neural Networks &amp; Deep Learning</a>,\n    <a class=\"text-dark\" href=\"\
-    https://shuiblue.github.io/UofT-ECE1785-EmpiricalSE/\">Empirical Software Engineering</a></p>\n\
-    </li>\n<li>\n<p><strong>Teaching Assistantships</strong>: \n    Programming on\
-    \ the Web <small class=\"text-secondary\">(Fall'22, Spring'23)</small></p>\n</li>\n\
-    </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
-    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
-    \ p-0\">BSc. in <a class=\"text-dark\" href=\"http://ce.sharif.edu/\">Computer\
-    \ Engineering</a></h5>\n<p class=\"text-center mb-0 fw-light\"><a class=\"text-dark\"\
-    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></p>\n\
-    <p class=\"text-muted text-center small\">Sep. 2017 - Jun. 2022 \u2022 <a href=\"\
-    mailto:veezee@ce.sharif.edu\">Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"\
-    ><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\" style=\"\
-    cursor: pointer;\" title=\"Cumulative GPA\"><strong>CGPA</strong></span>: \n \
-    \ 18.64/20 <small class=\"text-secondary\">(3.8/4)</small> \n  \u2014\n  141/140\
-    \ credits</li>\n<li><strong>Capstone Project</strong> <small class=\"text-secondary\"\
-    >(Thesis)</small>: \n  Anomaly Detection via Explicit Density Estimation</li>\n\
-    <li><strong>Selected Courses</strong> (<a href=\"/index/sections/education/sharif-courses.html\"\
-    >All courses</a>): \n    Digital Image Processing <small class=\"text-secondary\"\
-    >(Graduate)</small>, \n    Stochastic Processes,\n    Artificial Intelligence,\
-    \ Linear Algebra, Signals &amp; Systems, Probability and Statistics, Design of\
-    \ Algorithms, \n    Data Structures and Algorithms</li>\n<li>\n<p><strong>Selected\
-    \ Teaching Assistantships</strong> (<a data-bs-html=\"true\" data-bs-toggle=\"\
-    tooltip\" href=\"/index/sections/education/sharif-ta.html\" title=\"&lt;h1&gt;Teaching\
-    \ Assistantship Experiences at Sharif University of Technology&lt;/h1&gt;\">All\
-    \ TAships</a>): \n    Head TA of Artificial Intelligence, supervised graduate\
-    \ TAs in Machine Learning Privacy <small class=\"text-secondary\">(Graduate)</small>,\
-    \ tutored deep learning workshops in Machine Learning for Bioinformatics <small\
-    \ class=\"text-secondary\">(Graduate)</small>, in addition to TAing and tutoring\
-    \ recitation classes for undergraduate courses such Bioinformatics, Probability\
+    \ p-1\" href=\"https://www.utoronto.ca/\">University of Toronto</a></h5>\n<p class=\"\
+    text-center mb-0 fw-light\"><a class=\"text-dark p-1\" href=\"https://mscac.utoronto.ca/\"\
+    >MSc. in Applied Computing</a> <br/> <small><a class=\"text-secondary\" href=\"\
+    https://mscac.utoronto.ca/concentrations/ai/\">Artificial Intelligence Concentration</a></small>\n\
+    </p>\n<p class=\"text-muted text-center small\">Sep. 2022 - Dec. 2023 \u2022 <a\
+    \ href=\"mailto:zehtab@cs.toronto.edu\">Email</a></p>\n</div>\n<div class=\"col-12\
+    \ col-md-8\"><ul>\n<li><span data-bs-placement=\"top\" data-bs-toggle=\"tooltip\"\
+    \ style=\"cursor: pointer;\" title=\"Cumulative GPA\"><strong>CGPA</strong></span>:\
+    \ A$^+$</li>\n<li>\n<p><strong>Thesis</strong> <small class=\"text-secondary\"\
+    >(Capstone project)</small>: Efficient Neural Network Encoding for 3D Color Lookup\
+    \ Tables</p>\n</li>\n<li>\n<p><strong>Courses</strong>: \n    <a class=\"text-dark\"\
+    \ href=\"https://csc2541-2022.github.io/\">Introduction to Causality</a>, \n \
+    \   <a class=\"text-dark\" href=\"https://sites.google.com/view/mat1510/fall-2022\"\
+    >Deep Learning: Theory &amp; Datascience</a>,\n    <a class=\"text-dark\" href=\"\
+    https://uoft-csc413.github.io/2023/\">Neural Networks &amp; Deep Learning</a>,\n\
+    \    <a class=\"text-dark\" href=\"https://shuiblue.github.io/UofT-ECE1785-EmpiricalSE/\"\
+    >Empirical Software Engineering</a></p>\n</li>\n<li>\n<p><strong>Teaching Assistantships</strong>:\
+    \ \n    Programming on the Web <small class=\"text-secondary\">(Fall'22, Spring'23)</small></p>\n\
+    </li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n\
+    <div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center\
+    \ m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\">Sharif University\
+    \ of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\">BSc. in <a class=\"\
+    text-dark\" href=\"http://ce.sharif.edu/\">Computer Engineering</a></p>\n<p class=\"\
+    text-muted text-center small\">Sep. 2017 - Jun. 2022 \u2022 <a href=\"mailto:veezee@ce.sharif.edu\"\
+    >Email</a></p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li><span data-bs-placement=\"\
+    top\" data-bs-toggle=\"tooltip\" style=\"cursor: pointer;\" title=\"Cumulative\
+    \ GPA\"><strong>CGPA</strong></span>: \n  18.64/20 <small class=\"text-secondary\"\
+    >(3.8/4)</small> \n  \u2014\n  141/140 credits</li>\n<li><strong>Thesis</strong>\
+    \ <small class=\"text-secondary\">(Capstone project)</small>: \n  Anomaly Detection\
+    \ via Explicit Density Estimation</li>\n<li><strong>Selected Courses</strong>\
+    \ (<a href=\"/index/sections/education/sharif-courses.html\">All courses</a>):\
+    \ \n    Digital Image Processing <small class=\"text-secondary\">(Graduate)</small>,\
+    \ \n    Stochastic Processes,\n    Artificial Intelligence, Linear Algebra, Signals\
+    \ &amp; Systems, Probability and Statistics, Design of Algorithms, \n    Data\
+    \ Structures and Algorithms</li>\n<li>\n<p><strong>Selected Teaching Assistantships</strong>\
+    \ (<a data-bs-html=\"true\" data-bs-toggle=\"tooltip\" href=\"/index/sections/education/sharif-ta.html\"\
+    \ title=\"&lt;h1&gt;Teaching Assistantship Experiences at Sharif University of\
+    \ Technology&lt;/h1&gt;\">All TAships</a>): \n    Head TA of Artificial Intelligence,\
+    \ supervised graduate TAs in Machine Learning Privacy <small class=\"text-secondary\"\
+    >(Graduate)</small>, tutored deep learning workshops in Machine Learning for Bioinformatics\
+    \ <small class=\"text-secondary\">(Graduate)</small>, in addition to TAing and\
+    \ tutoring recitation classes for undergraduate courses such Bioinformatics, Probability\
     \ theory and Statistics, Linear Algebra, and Data structures and Algorithms.</p>\n\
     </li>\n<li>\n<p><strong>Selected Extracurricular Activities</strong> (<a href=\"\
     /index/sections/education/sharif-extra.html\">All activities</a>): Led the scientific\
@@ -86,101 +82,113 @@ education:
 work:
   content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
     col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"https://research.samsung.com/aicenter_toronto\">Samsung AI Center</a>\
-    \ <small><span class=\"text-secondary\">(Toronto)</span></small></h5>\n<p class=\"\
-    text-center mb-0 fw-light\">Machine Learning Research Intern <br/> <small>Supervised\
-    \ by: <a href=\"https://www.cse.yorku.ca/~mbrown/\">M.S. Brown</a>, <a href=\"\
-    https://mbrubake.github.io/\">M.A. Brubaker</a>, <a href=\"https://davidlindell.com/\"\
+    \ href=\"https://www.huawei.com/ca/\">Huawei Technologies</a> <small><span class=\"\
+    text-secondary\">(Noah's Ark Lab)</span></small>\n</h5>\n<p class=\"text-center\
+    \ mb-0 fw-light\">Computer Vision Research Scientist\n</p>\n<p class=\"text-muted\
+    \ text-center small\">Jun. 2024 - Present \u2022 Toronto, ON, Canada</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li>Led the invention of a patent pending\
+    \ computational optics algorithm that intelligently pre-compensates for subjects'\
+    \ prescriptions, improving human visual acuity of colored images on conventional\
+    \ displays by +10 dB (PSNR) when facing spherical aberrations.</li>\n<li>Working\
+    \ on a first of its kind conversationally interactive camera auto-focus control\
+    \ system for wearable devices.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3\
+    \ mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
+    >\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://www.tidesmedical.com/\"\
+    >Tides Medical</a>\n</h5>\n<p class=\"text-center mb-0 fw-light\">Machine Learning\
+    \ R&amp;D Consultant\n</p>\n<p class=\"text-muted text-center small\">Jan. 2024\
+    \ - Present \u2022 Toronto, ON, Canada</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li>Collaborated with biomedical researchers to translate project objectives\
+    \ into Machine Learning formulations.</li>\n<li>Designed and developed custom\
+    \ data annotation tooling and a U-Net-like foundation segmentation model to facilitate\
+    \ annotation and evaluation of histopathology samples, resulting in faster turnaround\
+    \ time for histologists with over 99% prediction accuracies.</li>\n</ul></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://research.samsung.com/aicenter_toronto\">Samsung\
+    \ AI Center</a> <small><span class=\"text-secondary\">(Toronto)</span></small></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Machine Learning Researcher <br/> <small>Intern\
+    \ advised by: <a href=\"https://www.cse.yorku.ca/~mbrown/\">M.S. Brown</a>, <a\
+    \ href=\"https://mbrubake.github.io/\">M.A. Brubaker</a>, <a href=\"https://davidlindell.com/\"\
     >D.B. Lindell</a></small>\n</p>\n<p class=\"text-muted text-center small\">May\
     \ 2023 - Dec. 2023 \u2022 Toronto, ON, Canada</p>\n</div>\n<div class=\"col-12\
-    \ col-md-8\"><ul>\n<li>Designed and implemented a neural framework for efficient\
-    \ representation of color transformations and inverse vision processing, surpassing\
-    \ the SOTA by over 100<em>x</em> in terms of compression efficacy.</li>\n<li>Assisted\
-    \ the camera quality team in noise modeling and denoising of RAW quad Bayer sensor\
-    \ outputs.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
-    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
-    mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\"\
+    \ col-md-8\"><ul>\n<li>Devised a patent-pending neural framework for efficient\
+    \ representation of color transformations and inverse vision processing for modern\
+    \ Image Processing Pipelines, surpassing the SOTA by over 100x in terms of compression\
+    \ efficacy with enhanced color fidelities.</li>\n<li>Assisted the camera quality\
+    \ team in noise modeling and denoising of RAW quad Bayer sensor outputs.</li>\n\
+    </ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"\
+    row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0\
+    \ p-0\"><a class=\"text-dark\" href=\"https://vectorinstitute.ai/\">Vector Institute</a></h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Graduate researcher\n<br/>\n<small>Intern\
+    \ advised by <a href=\"http://www.cs.toronto.edu/~rahulgk/index.html\">R.G. Krishnan</a>\
+    \ at University of Toronto's <a href=\"https://www.cs.toronto.edu/~rahulgk/group.html\"\
+    >Machine Learning &amp; Computational Healthcare Lab</a></small>\n</p>\n<p class=\"\
+    text-muted text-center small\">Oct. 2022 - Dec. 2023 \u2022 Toronto, ON, Canada</p>\n\
+    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Codeveloped a differentiable\
+    \ Bayesian causal structure discovery algorithm with Autoregressive Normalizing\
+    \ Flows that explicitly enforces acyclicity in causal DAGs,\n  achieving the current\
+    \ SOTA for real-world (Sachs &amp; SynTReN) datasets and synthetic benchmarks.</li>\n\
+    <li>Developed <a href=\"https://github.com/vahidzee/dypy\">DyPy</a> &amp; <a href=\"\
+    https://github.com/vahidzee/lightning-toolbox\">Lightning-Toolbox</a> for fast\
+    \ implementation of complex deep learning research experiments, cutting the amount\
+    \ of raw code in half on average.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3\
+    \ mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
+    >\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"http://www.en.sharif.edu/\"\
+    >Sharif University of Technology</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    ><small>Undergraduate researcher supervised by <a href=\"http://sharif.ir/~rohban/\"\
+    >M.H. Rohban</a></small>\n</p>\n<p class=\"text-muted text-center small\">Dec.\
+    \ 2019 - Jul. 2022 \u2022 Tehran, Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"\
+    ><ul>\n<li>Assessed the potential of repurposed adversarial training of robust\
+    \ reconstructive models for visual anomaly detection tasks.</li>\n<li>Developed\
+    \ a novel deep training procedure for anomaly detection using explicit density\
+    \ estimation, on par with SOTA Autoencoder-based methods.</li>\n<li>Studied energy-based\
+    \ and other explicit deep density estimation models and developed <a href=\"https://github.com/vahidzee/torchde\"\
+    >TorchDE</a>, a unified pytorch library for deep density estimation.</li>\n</ul></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a\
+    \ class=\"text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique\
+    \ F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"\
+    >Research Assistant\n<br/>\n<small>Intern advised by <a href=\"https://people.epfl.ch/alexandre.alahi?lang=en\"\
+    >A. Alahi</a> at <a href=\"https://www.epfl.ch/labs/vita/\">VITA lab</a></small><br/>\n\
+    <small>Research collaborator with <a href=\"https://www.epfl.ch/labs/lts4/\">LTS4</a>\
+    \ &amp; <a href=\"https://www.epfl.ch/labs/mlo/\">MLO</a> students</small>\n</p>\n\
+    <p class=\"text-muted text-center small\">Jul. 2020 - Dec. 2020 \u2022 Lausanne,\
+    \ Switzerland (Remote)</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Explored\
+    \ alternatives to rasterized data representation schemes and codeveloped a Transformer\
+    \ based model that unifies the processing of various perception data representations\
+    \ to predict SOTA reason-aware vehicle trajectories for autonomous driving.</li>\n\
+    <li>Studied the preliminary theoretical foundations of deep learning and computed\
+    \ the directional inductive bias of Vision Transformers using Jax, facilitating\
+    \ the identification of the tasks Transformers are better suited for vs. traditional\
+    \ Convolution Neural Networks</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3\
+    \ mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
+    >\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://fanaplab.com/\"\
     >Advanced Technology Lab</a><small> (ZLAB),<a class=\"text-secondary\" href=\"\
     https://fanap.ir/\"> Fanap Co.</a></small>\n</h5>\n<p class=\"text-center mb-0\
     \ fw-light\">Machine Learning Engineer</p>\n<p class=\"text-muted text-center\
     \ small\">Jun. 2020 - Mar. 2021 \u2022 Tehran, Iran</p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li>Developed a novel satellite and aerial imagery super-resolution\
-    \ residual model to enhance the on-device perception of urban maps in Iran's largest\
-    \ navigation system by upto 8<em>x</em> in resolution.</li>\n<li>Developed a computer\
-    \ vision composable deep learning prototyping framework that enables direct Neural\
-    \ Architecture Search (NAS) over pure PyTorch without the need of implementing\
-    \ extra logic.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0\
-    \ px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\">\n<h5 class=\"\
-    mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://cafebazaar.ir/about?l=en\"\
-    >Cafebazaar</a></h5>\n<p class=\"text-center mb-0 fw-light\">Chaos Engineering\
-    \ Intern</p>\n<p class=\"text-muted text-center small\">Jul. - Oct. 2019 \u2022\
-    \ Tehran, Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Implemented\
-    \ a Kubernetes cluster node failure simulator and designed a cluster monitoring\
-    \ system for internal stress-testing of the underlying infrastructure.</li>\n\
-    <li>Designed and implemented a decentralized load-tester that learns and mimics\
-    \ true user behaviour and can scale to simulate up to millions of requests per\
-    \ second, for internal use.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3 mt-1\
-    \ mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
-    >\n<h5 class=\"mb-0 text-center m-0 p-0\">Pido</h5>\n<p class=\"text-center mb-0\
-    \ fw-light\">Computer Vision Engineering Intern</p>\n<p class=\"text-muted text-center\
-    \ small\">Jun. 2018 - Jun. 2019 \u2022 Tehran, Iran</p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li>Co-developed an efficiently accurate OCR engine in\
-    \ C++, based on Google's Tesseract OCR Engine, for extracting information from\
-    \ Iranian debit card scans.</li>\n</ul></div>\n</div>\n</div>"
-  label: Professional Experience
-research:
-  content: "<div class=\"container-fluid\">\n<div class=\"row my-0\">\n<div class=\"\
-    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"https://vectorinstitute.ai/\">Vector Institute</a><br/><small><span class=\"\
-    text-secondary\">Affiliated with UofT's <a class=\"text-secondary\" href=\"https://www.cs.toronto.edu/~rahulgk/group.html\"\
-    >Machine Learning &amp; Computational Healthcare Lab</a></span></small></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Graduate researcher supervised by\
-    \ <a href=\"http://www.cs.toronto.edu/~rahulgk/index.html\">R.G. Krishnan</a></small>\n\
-    </p>\n<p class=\"text-muted text-center small\">Oct. 2022 - Dec. 2023 \u2022 Toronto,\
-    \ ON, Canada</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Co-developed\
-    \ a fully differentiable Bayesian algorithm for causal structure discovery with\
-    \ Autoregressive Normalizing Flows extending the  identiability of LSNMs to beat\
-    \ the SOTA in real-world datasets.</li>\n<li>Developed <a href=\"https://github.com/vahidzee/dypy\"\
-    >DyPy</a> &amp; <a href=\"https://github.com/vahidzee/lightning-toolbox\">Lightning-Toolbox</a>\
-    \ for fast implementation of complex deep learning research experiments, cutting\
-    \ the amount of raw code in half on average.</li>\n</ul></div>\n</div>\n<hr class=\"\
-    row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"\
-    col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\"\
-    \ href=\"http://www.en.sharif.edu/\">Sharif University of Technology</a></h5>\n\
-    <p class=\"text-center mb-0 fw-light\"><small>Undergraduate researcher supervised\
-    \ by <a href=\"http://sharif.ir/~rohban/\">M.H. Rohban</a></small>\n</p>\n<p class=\"\
-    text-muted text-center small\">Dec. 2019 - Jul. 2022 \u2022 Tehran, Iran</p>\n\
-    </div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Assessed the potential of repurposed\
-    \ adversarial training of robust reconstructive models for visual anomaly detection\
-    \ tasks.</li>\n<li>Developed a novel deep training procedure for anomaly detection\
-    \ using explicit density estimation, on par with SOTA Autoencoder-based methods.</li>\n\
-    <li>Studied energy-based and other explicit deep density estimation models and\
-    \ developed <a href=\"https://github.com/vahidzee/torchde\">TorchDE</a>, a unified\
-    \ pytorch library for deep density estimation.</li>\n</ul></div>\n</div>\n<hr\
-    \ class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
+    col-12 col-md-8\"><ul>\n<li>Developed a novel satellite imagery super-resolution\
+    \ residual model for urban maps, capable of performing up to 8x up sampling.</li>\n\
+    <li>Created a computer vision deep learning prototyping framework that enables\
+    \ direct Neural Architecture Search over pure PyTorch.</li>\n</ul></div>\n</div>\n\
+    <hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div\
     \ class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"\
-    text-dark\" href=\"https://www.epfl.ch/en/\">\xC9cole Polytechnique F\xE9d\xE9\
-    rale de Lausanne (EPFL)</a></h5>\n<p class=\"text-center mb-0 fw-light\"><small>Collaboration\
-    \ with PhD students at <a href=\"https://www.epfl.ch/labs/lts4/\">LTS4</a> &amp;\
-    \ <a href=\"https://www.epfl.ch/labs/mlo/\">MLO</a> labs</small></p>\n<p class=\"\
-    text-muted text-center small\">Feb. 2021 - Sep. 2021 \u2022 Lausanne, Switzerland\
-    \ (Remote)</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Studied the preliminary\
-    \ theoretical foundations of deep learning and computed the directional inductive\
-    \ bias of Vision Transformers revealing their inert differences to traditional\
-    \ convolution-based solutions.</li>\n</ul></div>\n</div>\n<hr class=\"row mb-3\
-    \ mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\">\n<div class=\"col-12 col-md-4\"\
-    >\n<h5 class=\"mb-0 text-center m-0 p-0\"><a class=\"text-dark\" href=\"https://www.epfl.ch/en/\"\
-    >\xC9cole Polytechnique F\xE9d\xE9rale de Lausanne (EPFL)</a></h5>\n<p class=\"\
-    text-center mb-0 fw-light\"><small>Remote Research Intern at <a href=\"https://www.epfl.ch/labs/vita/\"\
-    >VITA</a> lab, Supervised by <a href=\"https://people.epfl.ch/alexandre.alahi?lang=en\"\
-    >A. Alahi</a></small>\n</p>\n<p class=\"text-muted text-center small\">Jul. 2020\
-    \ - Dec. 2020 \u2022 Lausanne, Switzerland (Remote)</p>\n</div>\n<div class=\"\
-    col-12 col-md-8\"><ul>\n<li>Assessed the state-of-the-art vehicle trajectory prediction\
-    \ models' explainability and reliance on different data priors.</li>\n<li>Explored\
-    \ alternatives to rasterized data representation schemes and co-developed a Transformer\
-    \ based model that uses generic SVG inputs to perform reason-aware vehicle trajectory\
-    \ prediction tasks.</li>\n</ul></div>\n</div>\n</div>"
-  label: Research Experience
+    text-dark\" href=\"https://cafebazaar.ir/about?l=en\">Cafebazaar</a></h5>\n<p\
+    \ class=\"text-center mb-0 fw-light\">Chaos Engineering Intern</p>\n<p class=\"\
+    text-muted text-center small\">Jul. - Oct. 2019 \u2022 Tehran, Iran</p>\n</div>\n\
+    <div class=\"col-12 col-md-8\"><ul>\n<li>Implemented a Kubernetes cluster node\
+    \ failure simulator and designed a cluster monitoring system for internal stress-testing\
+    \ of the underlying infrastructure.</li>\n<li>Designed and implemented a decentralized\
+    \ load-tester that learns and mimics true user behaviour and can scale to simulate\
+    \ up to millions of requests per second, for internal use.</li>\n</ul></div>\n\
+    </div>\n<hr class=\"row mb-3 mt-1 mx-4 p-0 py-0 px-0\"/>\n<div class=\"row my-0\"\
+    >\n<div class=\"col-12 col-md-4\">\n<h5 class=\"mb-0 text-center m-0 p-0\">Pido</h5>\n\
+    <p class=\"text-center mb-0 fw-light\">Computer Vision Engineering Intern</p>\n\
+    <p class=\"text-muted text-center small\">Jun. 2018 - Jun. 2019 \u2022 Tehran,\
+    \ Iran</p>\n</div>\n<div class=\"col-12 col-md-8\"><ul>\n<li>Co-developed an efficiently\
+    \ accurate OCR engine in C++, based on Google's Tesseract OCR Engine, for extracting\
+    \ information from Iranian debit card scans.</li>\n</ul></div>\n</div>\n</div>"
+  label: Experiences
 publications:
   content: "<div class=\"container-fluid\">\n<div class=\"row m-0 p-0\">\n<div class=\"\
     col-12\">\n<div class=\"h5 mb-0 text-left m-0 p-0\">Efficient Neural Network Encoding\
