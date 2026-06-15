@@ -1,9 +1,10 @@
+title: Extracurricular Activities
 header:
-  title: Extracurricular activities at Sharif University of Technology
+  title: Extracurricular Activities at Sharif University of Technology
 
 nav: 
   content: 
-  - index: index/index
+  - link: "/"
     text: Go Back
 
 preface:
@@ -16,13 +17,15 @@ preface:
 
 academic_serv:
   label: false
-  template:
-    template: templates/experience.html
-    apply: whole
+  kind: resume.experience
+  defaults:
+    compact: false
   datadays2021:
-    heading: <a class="text-dark" href="https://challenge.datadays.ir">Datadays 2021</a>
-    heading_details: Head of Scientific Team
-    heading_tag: Nov. 2020 - Sep. 2021 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark" href="https://challenge.datadays.ir">Datadays 2021</a>
+      role: Head of Scientific Team
+      date: Nov. 2020 - Sep. 2021
+      location: Tehran, Iran
     no_line: true
     content: |
       DataDays was the first and the largest national data science competition held annually by Sharif University of Technology.
@@ -42,9 +45,11 @@ academic_serv:
       summer of 2021 and had over 500 participants internationally.
   
   datadays2019:
-    heading: <a class="text-dark"  href="https://www.linkedin.com/company/sharif-data-days/">Datadays 2019</a>
-    heading_details: Head of Infrastructure
-    heading_tag: Jul. 2018 - Feb. 2019 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://www.linkedin.com/company/sharif-data-days/">Datadays 2019</a>
+      role: Head of Infrastructure
+      date: Jul. 2018 - Feb. 2019
+      location: Tehran, Iran
     content: |
       In the first year of the commencement of DataDays, I was in charge of the computational infrastructure. Our challenge was computationally heavy and could
       benefit a lot from accelerated hardware so I volunteered to setup and maintain a GPU cluster of over 40 units for our contestants.
@@ -52,18 +57,22 @@ academic_serv:
       I also co-develop the Datadays contests platform by contributing to its user-interface implementation written in Django.
 
   wss2020:
-    heading: <a class="text-dark"  href="https://www.linkedin.com/company/wss-sut/">Sharif Winter Seminar Series (WSS)</a>
-    heading_details: Organizer
-    heading_tag: Nov. 2020 - Jan. 2021 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://www.linkedin.com/company/wss-sut/">Sharif Winter Seminar Series (WSS)</a>
+      role: Organizer
+      date: Nov. 2020 - Jan. 2021
+      location: Tehran, Iran
     content: |
       WSS is a well known seminar series held annually by Sharif University of Technology. It hosts talks and presentations
       from international academic experts in advanced topics of computer science and engineering. During WSS 2020, I volunteered as
       one of the presentation organizers.
 
   mil2020:
-    heading: <a class="text-dark"  href="#">Sharif Made in Lobby</a>
-    heading_details: Lead Scientific Staff & Mentor
-    heading_tag: May 2020 - Jul. 2020 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="#">Sharif Made in Lobby</a>
+      role: Lead Scientific Staff & Mentor
+      date: May 2020 - Jul. 2020
+      location: Tehran, Iran
     content: |
       Sharif Made in Lobby was a make-shift workshop held by the upper year classmen of the Computer Engineering department at Sharif University of Technology, 
       designed to keep the freshmen engaged during the COVID-19 lockdown. I took the role of leading the scientific staff and mentoring the freshmen in the 
@@ -71,9 +80,11 @@ academic_serv:
       undergraduate freshmen.
     
   rasta2020:
-    heading: <a class="text-dark"  href="https://rastaiha.ir/">Rasta Computer Science Summer School 2020</a>
-    heading_details: Scientific Staff
-    heading_tag: May 2020 - Aug. 2020 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://rastaiha.ir/">Rasta Computer Science Summer School 2020</a>
+      role: Scientific Staff
+      date: May 2020 - Aug. 2020
+      location: Tehran, Iran
     no_line: true
     content: |
       Rasta is an educational organization established by the students of Sharif University of Technology, aiming to provide high-quality educational content to the public, 
@@ -82,18 +93,22 @@ academic_serv:
       AI workshop intended for highschool students. Rasta's Computer Science Summer School of 2020 was held online due to the COVID-19 pandemic.
 
   rasta2019:
-    heading: <a class="text-dark"  href="https://rastaiha.ir/">Rasta Computer Science Summer School 2019</a>
-    heading_details: Scientific Staff
-    heading_tag: Jun. 2019 - Aug. 2019 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://rastaiha.ir/">Rasta Computer Science Summer School 2019</a>
+      role: Scientific Staff
+      date: Jun. 2019 - Aug. 2019
+      location: Tehran, Iran
     content: |
       As my first contribution to Rasta, I volunteered as a scientific staff member in the Artificial Intelligence workshop during the summer of 2019. During the workshop,
       I helped design a series of interactive discussions that aimed to introduce highschoolers to concepts in statistics such as point estimation, hypothesis testing, and
       regression analysis. Rasta's Computer Science Summer School of 2019 was held in person at Sharif University of Technology with students from all over Iran.
 
   saic2020:
-    heading: <a class="text-dark"  href="https://saic.sharif.edu/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2020</a>
-    heading_details: Scientific Staff
-    heading_tag: Nov. 2019 - Feb. 2020 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://saic.sharif.edu/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2020</a>
+      role: Scientific Staff
+      date: Nov. 2019 - Feb. 2020
+      location: Tehran, Iran
     no_line: true
     content: |
       SAIC is an annual AI competition held by Sharif University of Technology established to promote AI research and development in Iran using a game-like competition format.
@@ -104,9 +119,11 @@ academic_serv:
       candidate game environments and scenarios from the perspective of implementing Reinforcement Learning agents and the feasibility of the optimal policy search.
 
   saic2019:
-    heading: <a class="text-dark"  href="https://www.linkedin.com/company/aichallenge/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2019</a>
-    heading_details: Infrastructure Developer
-    heading_tag: Jul. 2018 - Feb 2019 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="https://www.linkedin.com/company/aichallenge/">Sharif Artificial Intelligence Challenge <small>(SAIC)</small> 2019</a>
+      role: Infrastructure Developer
+      date: Jul. 2018 - Feb 2019
+      location: Tehran, Iran
     content: |
       During the 2019's SAIC, I volunteered as a junior infrastructure developer and helped the senior developers in setting up the game environment and the AI challenge.
       Our team was in charge of developing and maintaining the game server environment and evaluation backbone. Users recieved a local copy of a game server implementing the 
@@ -124,9 +141,11 @@ academic_serv:
       This was my first experience with containerization and orchestration technologies and I learned a lot about the challenges of running a distributed system.
 
   webelopers2019:
-    heading: <a class="text-dark"  href="#">Sharif Webelopers 2019</a>
-    heading_details: Infrastructure & Judge System Developer
-    heading_tag: Jul. 2019 - Feb 2020 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="#">Sharif Webelopers 2019</a>
+      role: Infrastructure & Judge System Developer
+      date: Jul. 2019 - Feb 2020
+      location: Tehran, Iran
     content: |
       Drawing in the experience I accumilated during the SIAC 2019, I volunteered to co-develop a centeral judge system for Sharif's Webelopers 2019 event. Webelopers targets the first year and second
       year undergraduate students interested in learning the in and outs of becoming a full-stack developer, offering a crash-course in Front-End and Back-End software engineering. The participants then 
@@ -142,9 +161,11 @@ academic_serv:
       We used a Kubernetes cluster of ~5 virtual workers along with our custom cluster manager and judgement system to host ~50 teams.
   
   hardwar2019:
-    heading: <a class="text-dark"  href="#">Sharif Hardwar 2019</a>
-    heading_details: Software Developer
-    heading_tag: Jul. 2019 - Jan 2020 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="#">Sharif Hardwar 2019</a>
+      role: Software Developer
+      date: Jul. 2019 - Jan 2020
+      location: Tehran, Iran
     content: |
       Hardwar was the first event at Sharif's department of Computer Engineering that specifically aimed to involve students in the joys of digital logic design and 
       low-level hardware programming. As a former participant of this event, I was excited to contribute to the development of the Aurdoino workshop at Hardwar 2019. 
@@ -154,9 +175,11 @@ academic_serv:
       As a volunteer software developer, I designed & implemented a serial port to TCP middleware in Python that connected the mesh of these custom-made Aurdoino game controllers to the competition's centralized real-time game server.
     
   icpc2018:
-    heading: <a class="text-dark"  href="#">Iranian ICPC 2018</a>
-    heading_details: Technical Staff
-    heading_tag: Dec. 2018 - Dec 2018 • Tehran, Iran
+    heading:
+      institution: <a class="text-dark"  href="#">Iranian ICPC 2018</a>
+      role: Technical Staff
+      date: Dec. 2018 - Dec 2018
+      location: Tehran, Iran
     content: |
       During the nationals' round of the International Collegiate Programming Contest (ICPC) 2018, which is hosted by Sharif's department of Computer Engineering annually, 
       I was an oncall technical staff, responsible for setting up the contestants PCs, and resolving technical difficulties during the contest. 

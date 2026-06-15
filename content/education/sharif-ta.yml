@@ -1,0 +1,142 @@
+title: Teaching Assistantship Experiences
+header:
+  title: Teaching Assistantship Experiences at Sharif University of Technology
+nav: 
+  content: 
+  - link: "/"
+    text: Go Back
+preface:
+  label: false
+  content: |
+    The following is a chronological list of my teaching assistantship experiences at Sharif University of Technology, and the details of my
+    responsibilities and contributions to the courses I have been involved in. I have been a teaching assistant for a total of 12 courses, in 19 separate offerings.
+    I have been privilaged to teach and assist in a wide range of courses, from introductory undergraduate courses to graduate courses, and I am
+    more than grateful for the opportunity to have been able to work with such a diverse set of students and instructors.
+
+teaching:
+  label: false
+  kind: resume.experience
+  defaults:
+    compact: false
+  sharif_privacy_in_ml:
+    heading:
+      institution: |
+        Privacy in Machine Learning <small class="d-inline-block ms-auto">(Graduate Course)</small>
+      role: |
+        <small>Sharif University of Technology, Instructors: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a> & <a href="https://amsadeghzadeh.github.io/">Dr. A.M. Sadeghzadeh</a></small>
+      date: Fall 2021
+    content: |
+      Designer and grader of Deep Learning Adversarial Robustness assignments. Instructor for the practical workshops.
+
+  sharif_ai_rohban:
+    heading:
+      institution: |
+        Artificial Intelligence <small class="d-inline-block ms-auto">(Head Teaching Assistance)</small>
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://sharif.ir/~rohban/">Prof. M.H. Rohban</a></small>
+      date: Spring and Fall of 2020 & 2021
+    content: |
+      Led and managed a group of +70 Grad & Undergrad and Ph.D. TAs over the course of three semesters, 
+      Designed the course syllabus and tracking toolkits, Authored AI supplementary materials and co-authored and reviewed course lecture notes 
+      and supplementary notebooks, Instructed practical workshops and recitation classes. 
+      Developed a content creation pipeline and created [Sharif's AI webpage](https://sut-ai.github.io), the largest repository for Farsi and English AI content presented at Sharif University of Technology. 
+      Designed and graded assignments and exams.
+  sharif_ml4bio:
+    heading:
+      institution: |
+        Machine Learning for Bioinformatics <small class="d-inline-block ms-auto">(Graduate Course)</small>
+      role: |
+        <small>Sharif University of Technology, Instructors: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a> & <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+      date: Spring 2021
+    content: |
+      Designed and graded Deep Learning assignments focusing on the theoretical foundations of DL. Instructed DL workshops.
+
+  sharif_air:
+    heading:
+      institution: Advanced Information Retrieval
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a></small>
+      date: Spring 2021
+    content: |
+      Lead and designed the applied ML course project, Instructed the ML recitation class, Curated a roadmap for ML pipelines in information retrieval systems in Farsi and motivated educational content creation to cover other course topics.
+
+  sharif_ai_soleymani:
+    heading:
+      institution: Artificial Intelligence
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~soleymani/">Prof. M. Soleymani</a></small>
+      date: Fall 2020
+    content: |
+      Designed and graded the Temporal Probability Models assignment. Instructed its recitation.
+
+  sharif_la:
+    heading:
+      institution: Linear Algebra
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://sharif.edu/~rabiee/">Prof. H. Rabiee</a></small>
+      date: Fall 2020
+    content: |
+      Designed and graded the Fourier and Linear Algebra applied to Computer Vision assignment.
+
+  sharif_probstat:
+    heading:
+      institution: Probability & Statistics
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+      date: Fall 2020
+    content: |
+      Designed and graded assignments, quizes, and final exams.
+
+  sharif_bio:
+    heading:
+      institution: Introduction to Bioinformatics
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/faculty/ali-sharifi-zarchi/">Prof. A. Sharifi-Zaarchi</a></small>
+      date: Fall 2020
+    content: |
+      Designed and graded assignments. Instructed practical workshops.
+
+  sharif_ds:
+    heading:
+      institution: Data Structures and Algorithms
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=TNfL9SIAAAAJ&hl=en">Dr. M. Safarnejad-Boroujeni</a></small>
+      date: Fall 2019 & Spring 2020
+    content: |
+      Instructed practical workshops. Designed and graded quizes.
+
+  sharif_csl:
+    heading:
+      institution: Computer Structure & Language
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="https://ir.linkedin.com/in/laleh-arshadi-3042b6163">Dr. L. Arshadi</a></small>
+      date: Spring & Fall 2020
+    content: |
+      Designed and graded MIPS assembly assignment. Graded Memory Hierarchy assignments.
+
+  sharif_web:
+    heading:
+      institution: Web Programming
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a></small>
+      date: Fall 2019
+    content: |
+      Designed and graded the course project.
+
+  sharif_ap:
+    heading:
+      institution: Advanced Programming <small class="secondary">(in Java)</small>
+      role: |
+        <small>Sharif University of Technology, Instructors: <a href="https://www.linkedin.com/in/behnamhatami/?originalSubdomain=ir">B. Hatami</a> & <a href="https://www.linkedin.com/in/mahdi-mostafazadeh-22128383/?originalSubdomain=ir">Dr. M. Mostafazadeh</a></small>
+      date: Spring & Fall 2019
+    content: |
+      Mentored project teams. Instructed recitation classes. Designed and graded assginments and mini-projects.
+
+  sharif_fop:
+    heading:
+      institution: Introduction to Programming <small class="secondary">(in C)</small>
+      role: |
+        <small>Sharif University of Technology, Instructor: <a href="http://ce.sharif.edu/~mahdi/">Dr. M. Soltani</a></small>
+      date: Spring 2018
+    content: |
+      Instructed recitation classes. Designed and graded the course project.

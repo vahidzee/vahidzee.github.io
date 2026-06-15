@@ -1,0 +1,38 @@
+label: Education
+sub-label: false
+kind: resume.experience
+inline:
+  heading: true
+  tags: false
+separators: true
+defaults:
+  compact: true
+uoft:
+  heading:
+    institution: <a href="https://www.utoronto.ca/" class="text-dark p-1">University of Toronto</a>
+    role: <a class="text-dark p-1" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
+    date: 09/2022 - 12/2023
+    location: Toronto, ON, Canada
+  expanded_heading:
+    institution: <a href="https://www.utoronto.ca/" class="text-dark p-1">University of Toronto</a>
+    role: <a class="text-dark p-1" href="https://mscac.utoronto.ca/">MSc. in Applied Computing</a>
+    details: >
+      <small><a class="text-secondary" href="https://mscac.utoronto.ca/concentrations/ai/">Artificial Intelligence Concentration</a></small>
+      <br>
+      <small><a href="mailto:zehtab@cs.toronto.edu">Email</a></small>
+    date: 09/2022 - 12/2023
+    location: Toronto, ON, Canada
+  patch@content!text: content/education/uoft.md
+sharif:
+  heading:
+    institution: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    role: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
+    date: 09/2017 - 07/2022
+    location: Tehran, Iran
+  expanded_heading:
+    institution: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    role: BSc. in <a class="text-dark" href="http://ce.sharif.edu/">Computer Engineering</a>
+    details: <small><a href="mailto:veezee@ce.sharif.edu">Email</a></small>
+    date: 09/2017 - 07/2022
+    location: Tehran, Iran
+  patch@content!text: content/education/sharif.md

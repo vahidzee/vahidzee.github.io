@@ -1,0 +1,69 @@
+label: Research Experience
+sub-label: false
+kind: resume.experience
+inline:
+  heading: true
+  tags: false
+separators: true
+defaults:
+  compact: true
+
+vector:
+  description: >
+    Normalizing flows for causal discovery, healthcare ML & research tooling so experiments have fewer sharp edges.
+  heading:
+    institution: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a>
+    role: Graduate Researcher
+    date: 10/2022 - 12/2023
+    location: Toronto, ON, Canada
+  expanded_heading:
+    institution: <a href="https://vectorinstitute.ai/" class="text-dark">Vector Institute</a>
+    role: Graduate Researcher
+    details: |
+      <small>Intern advised by <a href="http://www.cs.toronto.edu/~rahulgk/index.html">R.G. Krishnan</a> at University of Toronto's <a href="https://www.cs.toronto.edu/~rahulgk/group.html">Machine Learning & Computational Healthcare Lab</a></small>
+    date: 10/2022 - 12/2023
+    location: Toronto, ON, Canada
+  content: |
+    - Co-developed a differentiable Bayesian causal structure discovery algorithm with Autoregressive Normalizing Flows that explicitly enforces acyclicity in causal DAGs, achieving the current SOTA for real-world datasets by a +2 SHD margin. NeurIPS submission.
+    - Developed [DyPy](https://github.com/vahidzee/dypy), introducing Pythonic syntactic sugar for dynamic code manipulation and cutting the source code required for complex deep-learning research projects roughly in half.
+    - Developed [Lightning-Toolbox](https://github.com/vahidzee/lightning-toolbox) to implement modularized, lazily evaluated loss functions and streamline version control for deep-learning objective functions across fast-moving research experiments.
+
+epfl:
+  description: >
+    Interpretable planning for autonomous driving & some deep learning theory, with Transformers before they were cool.
+  heading:
+    institution: <a href="https://www.epfl.ch/en/" class="text-dark">École polytechnique fédérale de Lausanne</a> <small><span class="text-secondary">(EPFL)</span></small>
+    role: Research Assistant
+    date: 06/2020 - 09/2021
+    location: Lausanne, Switzerland
+  expanded_heading:
+    institution: <a href="https://www.epfl.ch/en/" class="text-dark">École polytechnique fédérale de Lausanne</a> <small><span class="text-secondary">(EPFL)</span></small>
+    role: Research Assistant
+    details: |
+      <small>Intern advised by <a href="https://people.epfl.ch/alexandre.alahi?lang=en">A. Alahi</a> at <a href="https://www.epfl.ch/labs/vita/">VITA lab</a></small><br>
+      <small>Research collaborator with <a href="https://www.epfl.ch/labs/lts4/">LTS4</a> & <a href="https://www.epfl.ch/labs/mlo/">MLO</a> students</small>
+    date: 06/2020 - 09/2021
+    location: Lausanne, Switzerland
+  content: |
+    - Studied the theoretical foundations of deep learning and computed the inductive biases of Vision Transformers using JAX and Flax, helping identify the tasks for which Transformers are better suited than traditional Convolutional Neural Networks.
+    - Developed an interpretable Transformer that employs Scalable Vector Graphics (SVGs) for vehicle-trajectory prediction through natural-language-processing style sequence modeling, unifying multiple perception data representations and improving the SOTA by 0.1 ADE on Argoverse. CVPR submission.
+
+rohban_lab:
+  description: >
+    Deep generative models for representation learning, density estimation & image anomaly detection.
+  heading:
+    institution: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    role: Research Assistant
+    date: 12/2019 - 07/2022
+    location: Tehran, Iran
+  expanded_heading:
+    institution: <a href="http://www.en.sharif.edu/" class="text-dark">Sharif University of Technology</a>
+    role: Research Assistant
+    details: |
+      <small>Advised by <a href="http://sharif.ir/~rohban/">M.H. Rohban</a> at Robust and Interpretable Machine Learning (RIML) lab</small>
+    date: 12/2019 - 07/2022
+    location: Tehran, Iran
+  content: |
+    - Designed an end-to-end training procedure for visual anomaly detection via explicit deep density estimation, reaching performance comparable to SOTA Autoencoder-based methods.
+    - Assessed the potential of repurposed adversarial training and robust reconstructive models for visual anomaly detection tasks.
+    - Conducted research on Energy-Based Models and other deep generative density-estimation methods, culminating in [TorchDE](https://github.com/vahidzee/torchde), a unified PyTorch library for deep density estimation.

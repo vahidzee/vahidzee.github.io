@@ -2,7 +2,7 @@
 title: Undergraduate Courses
 nav: 
     content: 
-    - index: index/index
+    - link: "/"
       text: Go Back
 header: 
     title: Sharif Undergraduate Courses

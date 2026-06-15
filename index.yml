@@ -1,0 +1,44 @@
+title: Vahid Zehtab
+config:
+  webifier:
+    extensions:
+      site:
+        uses: webifier.standard
+      markdown:
+        uses: webifier.markdown
+      theme:
+        uses: webifier.theme
+        switcher: false
+        default: system
+      analytics:
+        uses: webifier.analytics.google
+        measurement_id: G-CZL4QJSGXC
+      resume:
+        uses: webifier.resume
+
+nav: false
+
+heading:
+  label: false
+  freeform: true
+  template: assets/templates/header.html
+  title: >
+   <div style="font-size: 4rem;font-family:sans-serif;margin-bottom: -0.45em;"><strong>V</strong>ahid <strong>Z</strong>ehtab</div>
+  description: >
+    — *De omnibus dubitandum est.*
+
+bio:
+  label: About Me
+  patch@content!text: content/bio.md
+
+education:
+  patch: content/education/index.yml
+
+professional_experience:
+  patch: content/professional-experience.yml
+
+research_experience:
+  patch: content/research-experience.yml
+
+publications:
+  patch: content/publications/index.yml

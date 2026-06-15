@@ -1,0 +1,113 @@
+label: Professional Experience
+sub-label: false
+kind: resume.experience
+inline:
+  heading: true
+  tags: false
+separators: true
+defaults:
+  compact: true
+
+stability:
+  description: >
+    Leading image foundation efforts, a.k.a. <em>the battle of scales</em>: shoving billions of images into billions of parameters with minimum GPU dollars until our diffusion models can perfectly draw that astronaut on Mars.
+  heading:
+    institution: <a href="https://stability.ai/" class="text-dark">Stability AI</a>
+    role: Senior Machine Learning Scientist
+    date: 03/2025 - Present
+    location: Toronto, ON, Canada
+  content: |
+    - Leading the training of the upcoming text-to-image efficient Stable Diffusion model family.
+    - Improved inpainting prompt adherence by 33%+ in production cases by designing a new production inpainting workflow from surveyed SOTA training-free diffusion guidance methods, noise calibration, and ODE desensitization techniques.
+    - Enabled efficient T2I training on arbitrary image shapes within each batch by building a scalable mixed-aspect-ratio training stack with custom batching and efficient padding CUDA kernels, improving continuous shape/aspect-ratio generalization without significant compute overhead during training.
+    - Designed a WebDataset-compatible data loading and filtration stack for massively parallel S3 streaming, achieving 20x higher throughput than SOTA WebDataset implementations and sustaining 1M+ images/sec.
+    - Built a reproducible training framework by extending Hydra with distributed-backend abstractions for pure PyTorch, Lightning Fabric, Accelerate, & Ray, native experiment/checkpoint/artifact/data tracking, and custom FSDP/mixed-precision tooling for fault-tolerant scaling across hundreds of GPUs.
+    - Co-built an internal 1B+ high-resolution, densely captioned text-to-image dataset, coordinating data/legal workflows and building vLLM VLM captioning plus BigQuery quality monitoring for long structured captions at scale.
+    - Secured millions in compute budget by curating and presenting a de-risked, controllability-focused foundation-model training roadmap to Stability's Board; scaled the Image Foundation Models team through 20+ interviews and three senior/mid-level MLE hires.
+    - Led the technical work on several multi-million-dollar diffusion foundation-model partnerships beyond image generation, including sonar signal cleaning via diffusion denoising and RAW video editing for custom non-RGB color filter array camera sensors.
+
+huawei:
+  description: >
+    Inverse display optimization with optics, eye-aberration simulation & latent diffusion, because maybe your monitor just needs to meet your visual system halfway.
+  heading:
+    institution: >
+      <a href="https://www.huawei.com/ca/" class="text-dark">Huawei Technologies</a> <small><span class="text-secondary">(Noah's Ark Lab)</span></small>
+    role: >
+      Machine Learning Research Scientist
+    date: 06/2024 - 03/2025
+    location: Toronto, ON, Canada
+  content: |
+    - Implemented a differentiable optical simulator for display-to-eye image formation under visual aberrations, modeling how image details are perceived after propagation through an imperfect viewing system.
+    - Led a team of 4 to invent an adaptive display image optimizer combining latent diffusion models and computational photography for real-time prescription-specific image pre-correction, improving perceived vision quality by +10 dB PSNR. Filed a US patent.
+    - Co-developed a smart-glasses camera-control prototype for content-aware image refocusing through gesture-detected commands, moving toward conversationally interactive autofocus for wearable devices.
+
+tidesmedical:
+  description: >
+    Histopathology segmentation foundation models & annotation workflows for tissue-sample pain points that deserve less squinting.
+  heading:
+    institution: >
+      <a href="https://www.tidesmedical.com/" class="text-dark">Tides Medical</a>
+    role: >
+      Machine Learning R&D Consultant
+    date: 01/2024 - 12/2024
+    location: Toronto, ON, Canada
+  content: |
+    - Collaborated cross-functionally with biomedical researchers to translate histopathology research objectives into concrete machine-learning, data-analysis, visualization, and annotation workflows.
+    - Designed specialized annotation tooling and fine-tuned a segmentation foundation model for histopathology samples, accelerating sample evaluation for histologists while reaching over 99% prediction accuracy.
+
+samsung:
+  description: >
+    Normalizing flows & generative models for camera color processing and computational photography, until 100x smaller starts sounding normal.
+  heading:
+    institution: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung Research America</a> <small><span class="text-secondary">(SAIC)</span></small>
+    role: >
+      Machine Learning Researcher
+    date: 05/2023 - 12/2023
+    location: Toronto, ON, Canada
+  expanded_heading:
+    institution: <a href="https://research.samsung.com/aicenter_toronto" class="text-dark">Samsung Research America</a> <small><span class="text-secondary">(SAIC)</span></small>
+    role: >
+      Machine Learning Researcher
+    details: >
+      <small>Intern advised by: <a href="https://www.cse.yorku.ca/~mbrown/">M.S. Brown</a>, <a href="https://mbrubake.github.io/">M.A. Brubaker</a>, <a href="https://davidlindell.com/">D.B. Lindell</a></small>
+    date: 05/2023 - 12/2023
+    location: Toronto, ON, Canada
+  content: |
+    - Devised a neural compression framework with Residual Normalizing Flows for efficient representation of color transformations in modern camera Image Processing Pipelines (ISPs), surpassing the SOTA by over 100x in compression efficacy while preserving color fidelity. Filed a US patent; published at AAAI 2025.
+    - Assisted the camera quality team with RAW quad Bayer sensor noise modeling and denoising, supporting inverse vision-processing experiments for computational photography pipelines.
+
+fanap:
+  description: >
+    Deep image super-resolution, CV tooling & PyTorch-native frameworks for maps that wanted more pixels than satellites gave them.
+  heading:
+    institution: |
+      <a href="https://fanaplab.com/" class="text-dark">Advanced Technology Lab</a><small> (ZLAB),<a class="text-secondary" href="https://fanap.ir/"> Fanap Co.</a></small>
+    role: Machine Learning Engineer
+    date: 07/2020 - 07/2021
+    location: Tehran, Iran
+  content: |
+    - Developed a novel satellite-image super-resolution GAN for urban maps, achieving up to 8x upsampling and deployment on a navigation platform.
+    - Created a computer-vision deep-learning prototyping framework that enables direct Neural Architecture Search (NAS) over pure PyTorch models.
+
+cafebazaar:
+  description: >
+    Distributed computing & statistical load testing for clusters that do not get to blink.
+  heading:
+    institution: <a href="https://cafebazaar.ir/about?l=en" class="text-dark">Cafebazaar</a>
+    role: Software Engineer
+    date: 07/2019 - 09/2019
+    location: Tehran, Iran
+  content: |
+    - Built a distributed load-tester that statistically modeled user behavior across gRPC and REST API calls, scaling internal infrastructure tests to 1M+ requests per second.
+    - Implemented a Kubernetes node-failure simulator and designed a cluster-monitoring system for stress-testing production infrastructure.
+
+pido:
+  description: >
+    On-device OCR, where Iranian debit cards meet very real mobile-camera constraints.
+  heading:
+    institution: Pido
+    role: Computer Vision Engineering Intern
+    date: 06/2018 - 06/2019
+    location: Tehran, Iran
+  content: |
+    - Engineered an on-device OCR engine in C++ based on Google's Tesseract OCR Engine to extract information from Iranian debit card scans under mobile capture constraints.
