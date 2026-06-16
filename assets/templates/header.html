@@ -1,0 +1,24 @@
+<style>
+#heading,
+#heading > div {
+    background-color: var(--wf-surface) !important;
+    margin-top: 0 !important;
+}
+
+#heading > .shadow {
+    box-shadow: none !important;
+}
+
+#heading > .hover-shadow:hover {
+    filter: none !important;
+}
+</style>
+
+<header class="container-fluid wf-surface-chrome text-center align-items-center p-0" style="min-height: 5vh;">
+    <div class="wf-surface-chrome-panel p-4 m-auto text-center">
+       {{data.title}}
+       {% if data.description %}
+       <p>{{markdown(data.description)}}</p>
+       {% endif %}
+    </div>
+</header>
