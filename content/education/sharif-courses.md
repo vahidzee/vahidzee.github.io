@@ -8,7 +8,9 @@ header:
     title: Sharif Undergraduate Courses
     description: List of my undergraduate major-related courses
 footer: Transcript upon request
-toc: true
+config:
+  markdown:
+    toc: true
 ---
 This is a list of the major-related courses (labs, workshops, human sociology, theology, and general courses excluded) I took over my undergraduate studies at Sharif University of Technology. 
 
