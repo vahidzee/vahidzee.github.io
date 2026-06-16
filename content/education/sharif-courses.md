@@ -8,26 +8,11 @@ header:
     title: Sharif Undergraduate Courses
     description: List of my undergraduate major-related courses
 footer: Transcript upon request
+toc: true
 ---
 This is a list of the major-related courses (labs, workshops, human sociology, theology, and general courses excluded) I took over my undergraduate studies at Sharif University of Technology. 
 
 **Transcript:** Please contact me if you wish to see an unofficial copy of my  transcript or contact [vpaa@sharif.edu](mailto:vpaa@sharif.edu) or [registrar@sharif.edu](mailto:registrar@sharif.edu) directly and ask for an official copy. 
-
-**Table of Content**:
-
-* [Mathematical Courses](#math)
-    - [General Courses](#math-general)
-    - [Computer & Data Sciences Related Courses](#math-compsci)
-* [Physics Courses](#physics)
-* [Computer Science and Engineering Courses](#comp-sci)
-    - [Hardware Related Courses](#hardware)
-    - [Software Related Courses](#software)
-    - [Algorithmic Courses](#algo)
-    - [Research Related Courses](#research)
-    - [Data Science and AI Related Courses](#dsai)
-    
-
-
 
 ### Mathematical Courses <span id="math"></span>
 #### General Courses <span id="math-general"></span>
